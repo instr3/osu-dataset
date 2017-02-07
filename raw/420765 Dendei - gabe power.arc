@@ -8,9 +8,10 @@ Title=gabe power
 [TagConfig]
 Tagger=Carra
 Time=2016/9/10 23:25:18
-Confidence=1
+Confidence=0
 [MiscConfig]
 LinkedFile=420765 Dendei - gabe power/Dendei - gabe power (HighTec) [Arphimigon's Normal].osu
+osuMapID=420765
 [BeatInfo]
 Count=104
 Beat_0={0.298,1,F# min,Bm}

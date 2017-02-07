@@ -8,9 +8,10 @@ Title=Raining Morning
 [TagConfig]
 Tagger=Carra
 Time=2016/9/6 19:04:07
-Confidence=1
+Confidence=4
 [MiscConfig]
 LinkedFile=424047 July - Raining Morning/July - Raining Morning (Mako Sakata) [Hujan].osu
+osuMapID=424047
 [BeatInfo]
 Count=175
 Beat_0={0.721,1,G Maj,C}

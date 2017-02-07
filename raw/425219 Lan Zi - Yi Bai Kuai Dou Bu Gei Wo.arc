@@ -8,9 +8,10 @@ Title=Yi Bai Kuai Dou Bu Gei Wo
 [TagConfig]
 Tagger=Carra
 Time=2016/9/5 21:40:26
-Confidence=1
+Confidence=0
 [MiscConfig]
 LinkedFile=425219 Lan Zi - Yi Bai Kuai Dou Bu Gei Wo/Lan Zi - Yi Bai Kuai Dou Bu Gei Wo (Pata-Mon) [100RMB].osu
+osuMapID=425219
 [BeatInfo]
 Count=128
 Beat_0={0.01,1,A min,N}

@@ -11,6 +11,7 @@ Time=2016/9/6 15:36:09
 Confidence=4
 [MiscConfig]
 LinkedFile=357391 Suzumu - isolation(Instrumental Opening)/Suzumu - isolation(Instrumental Opening) (Kyubey) [Normal].osu
+osuMapID=357391
 [BeatInfo]
 Count=193
 Beat_0={2.48,1,D Maj,Bm}

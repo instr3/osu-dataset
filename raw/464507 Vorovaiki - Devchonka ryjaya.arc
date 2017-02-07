@@ -11,6 +11,7 @@ Time=2017/1/20 21:06:44
 Confidence=4
 [MiscConfig]
 LinkedFile=464507 Vorovaiki - Devchonka ryjaya/Vorovaiki - Devchonka ryjaya (Marmowka) [Bakari's Extreme].osu
+osuMapID=464507
 [BeatInfo]
 Count=280
 Beat_0={1.641,1,E min,Am}

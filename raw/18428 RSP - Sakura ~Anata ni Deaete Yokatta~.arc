@@ -11,6 +11,7 @@ Time=2016/10/7 13:38:51
 Confidence=4
 [MiscConfig]
 LinkedFile=18428 RSP - Sakura ~Anata ni Deaete Yokatta~/RSP - Sakura ~Anata ni Deaete Yokatta~ (DarkRingSystem) [Hard].osu
+osuMapID=18428
 [BeatInfo]
 Count=803
 Beat_0={0.778,1,D Maj,Bm}

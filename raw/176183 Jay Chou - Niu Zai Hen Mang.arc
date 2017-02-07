@@ -8,9 +8,10 @@ Title=Niu Zai Hen Mang
 [TagConfig]
 Tagger=Carra
 Time=2016/9/10 23:20:22
-Confidence=1
+Confidence=2
 [MiscConfig]
 LinkedFile=176183 Jay Chou - Niu Zai Hen Mang/Jay Chou - Niu Zai Hen Mang (yf_bmp) [baka's Insane].osu
+osuMapID=176183
 [BeatInfo]
 Count=407
 Beat_0={0.268,1,C Maj,C}
@@ -228,7 +229,7 @@ Beat_211={51.316387096774193,0,C Maj,C}
 Beat_212={51.558322580645161,1,C Maj,C}
 Beat_213={51.800258064516129,0,C Maj,C}
 Beat_214={52.0421935483871,0,C Maj,C}
-Beat_215={52.284129032258065,0,C Maj,G}
+Beat_215={52.284129032258065,0,C Maj,C}
 Beat_216={52.526064516129033,1,C Maj,G}
 Beat_217={52.768,0,C Maj,G}
 Beat_218={53.009935483870969,0,C Maj,G}
@@ -265,7 +266,7 @@ Beat_248={60.268000000000008,1,C Maj,C}
 Beat_249={60.509935483870976,0,C Maj,C}
 Beat_250={60.751870967741944,0,C Maj,C}
 Beat_251={60.993806451612912,0,C Maj,C}
-Beat_252={61.23574193548388,1,C Maj,C}
+Beat_252={61.23574193548388,1,C Maj,F}
 Beat_253={61.477677419354848,0,C Maj,G}
 Beat_254={61.719612903225816,0,C Maj,C}
 Beat_255={61.961548387096784,0,C Maj,C}

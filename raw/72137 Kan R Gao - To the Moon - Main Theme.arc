@@ -11,6 +11,7 @@ Time=2016/9/5 21:51:01
 Confidence=4
 [MiscConfig]
 LinkedFile=72137 Kan R Gao - To the Moon - Main Theme/Kan R. Gao - To the Moon - Main Theme (Xgor) [Easy].osu
+osuMapID=72137
 [BeatInfo]
 Count=247
 Beat_0={0.485,1,B min,D}

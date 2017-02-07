@@ -8,9 +8,10 @@ Title=press start
 [TagConfig]
 Tagger=Carra
 Time=2017/1/19 22:58:47
-Confidence=5
+Confidence=4
 [MiscConfig]
 LinkedFile=489383 Kola Kid - press start/Kola Kid - press start (Bonsai) [Advanced].osu
+osuMapID=489383
 [BeatInfo]
 Count=131
 Beat_0={1.2,1,G Maj,G}

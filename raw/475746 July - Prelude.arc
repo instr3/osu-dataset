@@ -11,6 +11,7 @@ Time=2016/9/6 15:50:32
 Confidence=4
 [MiscConfig]
 LinkedFile=475746 July - Prelude/July - Prelude (Imakuri) [Calm].osu
+osuMapID=475746
 [BeatInfo]
 Count=128
 Beat_0={0.036,0,D min,Dm}

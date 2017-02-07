@@ -11,6 +11,7 @@ Time=2016/9/2 19:21:42
 Confidence=4
 [MiscConfig]
 LinkedFile=118459 Hai Nan - Ai La La/Hai Nan - Ai La La (moonlightleaf) [cRyo's Insane].osu
+osuMapID=118459
 [BeatInfo]
 Count=353
 Beat_0={-1.02,1,Eb Maj,N}

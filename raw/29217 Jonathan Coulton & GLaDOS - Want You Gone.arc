@@ -8,9 +8,10 @@ Title=Want You Gone
 [TagConfig]
 Tagger=Carra
 Time=2016/9/2 16:38:15
-Confidence=1
+Confidence=4
 [MiscConfig]
 LinkedFile=29217 Jonathan Coulton & GLaDOS - Want You Gone/Jonathan Coulton & GLaDOS - Want You Gone (SapphireGhost) [Collab Potato].osu
+osuMapID=29217
 [BeatInfo]
 Count=236
 Beat_0={0.04,1,A Maj,A}

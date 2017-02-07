@@ -11,6 +11,7 @@ Time=2016/10/27 19:29:03
 Confidence=4
 [MiscConfig]
 LinkedFile=293545 July - The song of soul/July - The song of soul (Mako Sakata) [Galau].osu
+osuMapID=293545
 [BeatInfo]
 Count=141
 Beat_0={1.487,1,E min,Em}

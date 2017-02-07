@@ -11,6 +11,7 @@ Time=2017/1/24 22:09:38
 Confidence=4
 [MiscConfig]
 LinkedFile=39804 xi - FREEDOM DiVE/xi - FREEDOM DiVE (Nakagawa-Kanon) [FOUR DIMENSIONS].osu
+osuMapID=39804
 [BeatInfo]
 Count=991
 Beat_0={2.133,1,G Maj,G}

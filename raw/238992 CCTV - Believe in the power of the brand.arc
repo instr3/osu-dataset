@@ -8,9 +8,10 @@ Title=Believe in the power of the brand
 [TagConfig]
 Tagger=Carra
 Time=2016/9/5 21:58:15
-Confidence=5
+Confidence=4
 [MiscConfig]
 LinkedFile=238992 CCTV - Believe in the power of the brand/CCTV - Believe in the power of the brand (cmn_891127) [Hard].osu
+osuMapID=238992
 [BeatInfo]
 Count=76
 Beat_0={0.91,1,G min,Gm}

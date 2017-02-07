@@ -8,9 +8,10 @@ Title=Try
 [TagConfig]
 Tagger=Carra
 Time=2016/9/2 15:56:13
-Confidence=1
+Confidence=4
 [MiscConfig]
 LinkedFile=92107 Ken Nakagawa - Try/Ken Nakagawa - Try (Shulin) [Easy].osu
+osuMapID=92107
 [BeatInfo]
 Count=132
 Beat_0={10.16,1,D min,Dm}
@@ -139,9 +140,9 @@ Beat_122={79.874285714285492,0,D min,C}
 Beat_123={80.445714285714061,0,D min,C}
 Beat_124={81.01714285714263,1,D min,Dm}
 Beat_125={81.5885714285712,0,D min,A}
-Beat_126={82.159999999999769,0,D min,D}
-Beat_127={82.731428571428339,0,D min,D}
-Beat_128={83.302857142856908,1,D min,N}
-Beat_129={83.874285714285477,0,D min,N}
-Beat_130={84.445714285714047,0,D min,N}
+Beat_126={82.159999999999769,0,D min,Dm}
+Beat_127={82.731428571428339,0,D min,Dm}
+Beat_128={83.302857142856908,1,D min,X}
+Beat_129={83.874285714285477,0,D min,X}
+Beat_130={84.445714285714047,0,D min,X}
 Beat_131={85.017142857142616,0,F Maj,N}

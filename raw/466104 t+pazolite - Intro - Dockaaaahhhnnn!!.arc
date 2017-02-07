@@ -11,6 +11,7 @@ Time=2017/1/22 14:58:48
 Confidence=5
 [MiscConfig]
 LinkedFile=466104 t+pazolite - Intro - Dockaaaahhhnnn!!/t+pazolite - Intro - Dockaaaahhhnnn!! (DeRandom Otaku) [Easy].osu
+osuMapID=466104
 [BeatInfo]
 Count=198
 Beat_0={11.304,1,Eb min,C#}
@@ -140,7 +141,7 @@ Beat_123={52.303999999999959,0,Eb min,Ebm}
 Beat_124={52.637333333333295,1,Eb min,B}
 Beat_125={52.970666666666624,0,Eb min,B}
 Beat_126={53.303999999999959,0,Eb min,C#}
-Beat_127={53.637333333333288,0,Eb min,N}
+Beat_127={53.637333333333288,0,Eb min,C#}
 Beat_128={53.970666666666624,1,Eb min,B}
 Beat_129={54.303999999999959,0,Eb min,B}
 Beat_130={54.637333333333288,0,Eb min,C#}

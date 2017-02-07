@@ -11,6 +11,7 @@ Time=2016/9/2 19:23:10
 Confidence=5
 [MiscConfig]
 LinkedFile=186457 Kan R Gao - Once Upon a Memory/Kan R. Gao - Once Upon a Memory (Neil Watts) [Easy].osu
+osuMapID=186457
 [BeatInfo]
 Count=153
 Beat_0={14.64,1,Eb Maj,Eb}

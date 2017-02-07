@@ -11,6 +11,7 @@ Time=2017/1/25 10:15:42
 Confidence=4
 [MiscConfig]
 LinkedFile=16893 Banya - Beethoven Virus (Full ver)/Banya - Beethoven Virus (Full ver.) (wmfchris) [Climbb and Vikon's Hard].osu
+osuMapID=16893
 [BeatInfo]
 Count=544
 Beat_0={6.707,1,A min,Am}

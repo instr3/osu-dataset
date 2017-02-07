@@ -11,6 +11,7 @@ Time=2016/8/15 16:34:40
 Confidence=0
 [MiscConfig]
 LinkedFile=286714 OEoop - 2014guichumingxing/OEoop - 2014guichumingxing (Haining) [Normal].osu
+osuMapID=286714
 [BeatInfo]
 Count=286
 Beat_0={0.34,1,?,N}

@@ -11,6 +11,7 @@ Time=2017/1/19 14:13:36
 Confidence=4
 [MiscConfig]
 LinkedFile=469782 Ryu- featMayumi Morinaga - Din Don Dan/Ryu feat.Mayumi Morinaga - Din Don Dan (moonlightleaf) [ClariS' Insane].osu
+osuMapID=469782
 [BeatInfo]
 Count=252
 Beat_0={1.03,1,D min,Dm}

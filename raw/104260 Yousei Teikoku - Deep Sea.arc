@@ -11,6 +11,7 @@ Time=2016/8/15 16:34:38
 Confidence=0
 [MiscConfig]
 LinkedFile=104260 Yousei Teikoku - Deep Sea/Yousei Teikoku - Deep Sea (EvilElvisV2) [Hard].osu
+osuMapID=104260
 [BeatInfo]
 Count=673
 Beat_0={9.645,1,A min,Am}

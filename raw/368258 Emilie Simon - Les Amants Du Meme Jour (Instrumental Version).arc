@@ -11,6 +11,7 @@ Time=2016/10/27 19:35:53
 Confidence=5
 [MiscConfig]
 LinkedFile=368258 Emilie Simon - Les Amants Du Meme Jour (Instrumental Version)/Emilie Simon - Les Amants Du Meme Jour (Instrumental Version) (Zerss) [Easy].osu
+osuMapID=368258
 [BeatInfo]
 Count=87
 Beat_0={19.863,1,F Maj,Bb}

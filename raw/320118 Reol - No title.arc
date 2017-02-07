@@ -11,6 +11,7 @@ Time=2017/1/19 13:37:23
 Confidence=5
 [MiscConfig]
 LinkedFile=320118 Reol - No title/Reol - No title (VINXIS) [byfaR's Hard].osu
+osuMapID=320118
 [BeatInfo]
 Count=298
 Beat_0={2.397,1,E Maj,A}

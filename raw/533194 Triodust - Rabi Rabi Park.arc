@@ -8,9 +8,10 @@ Title=Rabi Rabi Park
 [TagConfig]
 Tagger=Carra
 Time=2017/1/19 13:40:42
-Confidence=5
+Confidence=4
 [MiscConfig]
 LinkedFile=533194 Triodust - Rabi Rabi Park/Triodust - Rabi Rabi Park (Kyubey) [Easy].osu
+osuMapID=533194
 [BeatInfo]
 Count=168
 Beat_0={0.887,1,A min,Am}

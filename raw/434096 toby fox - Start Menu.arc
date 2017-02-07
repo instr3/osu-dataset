@@ -8,9 +8,10 @@ Title=Start Menu
 [TagConfig]
 Tagger=Carra
 Time=2016/8/15 16:34:40
-Confidence=1
+Confidence=0
 [MiscConfig]
 LinkedFile=434096 toby fox - Start Menu/toby fox - Start Menu (DaxMasterix) [Easy].osu
+osuMapID=434096
 [BeatInfo]
 Count=49
 Beat_0={0.09,1,?,N}

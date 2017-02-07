@@ -8,9 +8,10 @@ Title=Children Festival (Instrumental)
 [TagConfig]
 Tagger=Carra
 Time=2016/8/15 16:34:38
-Confidence=3
+Confidence=2
 [MiscConfig]
 LinkedFile=10860 Haru - Children Festival (Instrumental)/Haru - Children Festival (Instrumental) (Hikato) [Easy].osu
+osuMapID=10860
 [BeatInfo]
 Count=600
 Beat_0={28.71,1,Eb min,Ebm}
@@ -417,10 +418,10 @@ Beat_400={200.13857142856983,1,Eb min,Ebm}
 Beat_401={200.56714285714125,0,Eb min,Ebm}
 Beat_402={200.99571428571267,0,Eb min,Ebm}
 Beat_403={201.42428571428408,0,Eb min,Ebm}
-Beat_404={201.8528571428555,1,Eb min,C#}
-Beat_405={202.28142857142692,0,Eb min,C#}
-Beat_406={202.70999999999833,0,Eb min,C#}
-Beat_407={203.13857142856975,0,Eb min,C#}
+Beat_404={201.8528571428555,1,Eb min,Bbm}
+Beat_405={202.28142857142692,0,Eb min,Bbm}
+Beat_406={202.70999999999833,0,Eb min,Bbm}
+Beat_407={203.13857142856975,0,Eb min,Bbm}
 Beat_408={203.56714285714116,1,Eb min,C#}
 Beat_409={203.99571428571258,0,Eb min,C#}
 Beat_410={204.424285714284,0,Eb min,C#}

@@ -11,6 +11,7 @@ Time=2016/9/2 16:41:13
 Confidence=5
 [MiscConfig]
 LinkedFile=219763 Drop - Granat/Drop - Granat (Kaguya Hourain) [Easy].osu
+osuMapID=219763
 [BeatInfo]
 Count=142
 Beat_0={0.281,1,B min,Bm}

@@ -11,6 +11,7 @@ Time=2016/9/18 23:12:18
 Confidence=4
 [MiscConfig]
 LinkedFile=272975 Owl City - Shooting Star (Acoustic)/Owl City - Shooting Star (Acoustic) (HelloSCV) [Hard].osu
+osuMapID=272975
 [BeatInfo]
 Count=519
 Beat_0={2.292,1,B Maj,B}

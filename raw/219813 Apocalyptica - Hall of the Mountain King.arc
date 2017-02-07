@@ -8,9 +8,10 @@ Title=Hall of the Mountain King
 [TagConfig]
 Tagger=Carra
 Time=2016/9/2 16:55:35
-Confidence=1
+Confidence=0
 [MiscConfig]
 LinkedFile=219813 Apocalyptica - Hall of the Mountain King/Apocalyptica - Hall of the Mountain King (pishifat) [Easy].osu
+osuMapID=219813
 [BeatInfo]
 Count=387
 Beat_0={7.198,1,C min,Cm}

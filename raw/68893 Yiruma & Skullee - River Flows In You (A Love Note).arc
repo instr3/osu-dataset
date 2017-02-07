@@ -11,6 +11,7 @@ Time=2016/8/15 16:34:40
 Confidence=0
 [MiscConfig]
 LinkedFile=68893 Yiruma & Skullee - River Flows In You (A Love Note)/Yiruma & Skullee - River Flows In You (A Love Note) (h3k1ru) [Aleks' Note].osu
+osuMapID=68893
 [BeatInfo]
 Count=393
 Beat_0={0.005,1,?,N}

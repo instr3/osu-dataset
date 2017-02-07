@@ -8,9 +8,10 @@ Title=Glacier Theme
 [TagConfig]
 Tagger=Carra
 Time=2016/9/6 15:32:44
-Confidence=1
+Confidence=4
 [MiscConfig]
 LinkedFile=371114 Wix Games - Glacier Theme/Wix Games - Glacier Theme (Modren) [Easy].osu
+osuMapID=371114
 [BeatInfo]
 Count=114
 Beat_0={0.16,1,C Maj,Am}

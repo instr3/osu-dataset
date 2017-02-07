@@ -11,6 +11,7 @@ Time=2017/1/24 23:19:49
 Confidence=0
 [MiscConfig]
 LinkedFile=424562 toby fox - Once Upon a Time/toby fox - Once Upon a Time (DaxMasterix) [Easy].osu
+osuMapID=424562
 [BeatInfo]
 Count=98
 Beat_0={0.09,1,F Maj,F}

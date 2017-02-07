@@ -8,9 +8,10 @@ Title=November Sky
 [TagConfig]
 Tagger=Carra
 Time=2016/9/5 22:00:11
-Confidence=3
+Confidence=4
 [MiscConfig]
 LinkedFile=42488 Yanni - November Sky/Yanni - November Sky (kazumikos) [Advanced].osu
+osuMapID=42488
 [BeatInfo]
 Count=269
 Beat_0={7.138,1,A min,Am}

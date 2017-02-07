@@ -8,9 +8,10 @@ Title=Above the Clouds
 [TagConfig]
 Tagger=Carra
 Time=2016/9/10 23:14:05
-Confidence=1
+Confidence=4
 [MiscConfig]
 LinkedFile=416444 Helblinde - Above the Clouds/Helblinde - Above the Clouds (Asserin) [Above the Collab].osu
+osuMapID=416444
 [BeatInfo]
 Count=389
 Beat_0={0.054,1,Bb Maj,Gm}

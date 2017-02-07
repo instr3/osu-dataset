@@ -11,6 +11,7 @@ Time=2016/9/2 16:20:44
 Confidence=4
 [MiscConfig]
 LinkedFile=92 Portal - Still Alive/Portal - Still Alive (Hitoshirenu Shourai) [Easy].osu
+osuMapID=92
 [BeatInfo]
 Count=353
 Beat_0={0.15,1,D Maj,N}

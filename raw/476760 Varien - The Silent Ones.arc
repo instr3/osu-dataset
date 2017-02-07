@@ -11,6 +11,7 @@ Time=2017/1/24 23:41:27
 Confidence=4
 [MiscConfig]
 LinkedFile=476760 Varien - The Silent Ones/Varien - The Silent Ones (Fanteer) [Hard].osu
+osuMapID=476760
 [BeatInfo]
 Count=162
 Beat_0={0.756,1,F# min,F#m}

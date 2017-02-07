@@ -8,9 +8,10 @@ Title=Shelter
 [TagConfig]
 Tagger=Carra
 Time=2017/1/20 0:31:51
-Confidence=1
+Confidence=0
 [MiscConfig]
 LinkedFile=522857 Porter Robinson & Madeon - Shelter/Porter Robinson & Madeon - Shelter (Monstrata) [Alone Together].osu
+osuMapID=522857
 [BeatInfo]
 Count=1003
 Beat_0={49.642,1,C Maj,F}

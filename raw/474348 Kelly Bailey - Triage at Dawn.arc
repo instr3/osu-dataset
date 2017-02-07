@@ -11,6 +11,7 @@ Time=2017/1/24 23:21:29
 Confidence=4
 [MiscConfig]
 LinkedFile=474348 Kelly Bailey - Triage at Dawn/Kelly Bailey - Triage at Dawn (diraimur) [Arphimigon's Easy].osu
+osuMapID=474348
 [BeatInfo]
 Count=82
 Beat_0={0.053,1,A min,Am}

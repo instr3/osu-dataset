@@ -8,9 +8,10 @@ Title=Yume no Naka no Watashi no Yume (TV size)
 [TagConfig]
 Tagger=Carra
 Time=2017/1/20 15:41:59
-Confidence=5
+Confidence=4
 [MiscConfig]
 LinkedFile=56036 Itou Masumi - Yume no Naka no Watashi no Yume (TV size)/Itou Masumi - Yume no Naka no Watashi no Yume (TV size) (Damnae) [Easy].osu
+osuMapID=56036
 [BeatInfo]
 Count=235
 Beat_0={0.267,1,E Maj,F#m}
@@ -237,14 +238,14 @@ Beat_220={83.811303797468469,1,G Maj,Cm}
 Beat_221={84.191050632911512,0,G Maj,Cm}
 Beat_222={84.570797468354556,0,G Maj,B}
 Beat_223={84.9505443037976,0,G Maj,B}
-Beat_224={85.330291139240643,1,G Maj,Bb}
-Beat_225={85.710037974683686,0,G Maj,Bb}
-Beat_226={86.08978481012673,0,G Maj,Bb}
-Beat_227={86.469531645569774,0,G Maj,Bb}
-Beat_228={86.849278481012817,1,G Maj,Bb}
-Beat_229={87.229025316455861,0,G Maj,Bb}
-Beat_230={87.6087721518989,0,G Maj,Bb}
-Beat_231={87.988518987341948,0,G Maj,Bb}
-Beat_232={88.368265822784991,1,G Maj,Bb}
-Beat_233={88.748012658228035,0,G Maj,Bb}
+Beat_224={85.330291139240643,1,G Maj,Gm}
+Beat_225={85.710037974683686,0,G Maj,Gm}
+Beat_226={86.08978481012673,0,G Maj,Gm}
+Beat_227={86.469531645569774,0,G Maj,Gm}
+Beat_228={86.849278481012817,1,G Maj,Gm}
+Beat_229={87.229025316455861,0,G Maj,Gm}
+Beat_230={87.6087721518989,0,G Maj,Gm}
+Beat_231={87.988518987341948,0,G Maj,Gm}
+Beat_232={88.368265822784991,1,G Maj,Gm}
+Beat_233={88.748012658228035,0,G Maj,Gm}
 Beat_234={89.127759493671078,0,B Maj,N}

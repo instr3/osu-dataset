@@ -11,6 +11,7 @@ Time=2016/8/15 16:34:40
 Confidence=0
 [MiscConfig]
 LinkedFile=477888 toby fox - mus_star/toby fox - mus_star (CookieBite) [diff_easy].osu
+osuMapID=477888
 [BeatInfo]
 Count=49
 Beat_0={0.093,1,?,N}

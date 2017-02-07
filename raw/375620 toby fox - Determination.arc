@@ -8,9 +8,10 @@ Title=Determination
 [TagConfig]
 Tagger=Carra
 Time=2016/9/6 16:02:35
-Confidence=1
+Confidence=4
 [MiscConfig]
 LinkedFile=375620 toby fox - Determination/toby fox - Determination (YellowManul) [Hard].osu
+osuMapID=375620
 [BeatInfo]
 Count=97
 Beat_0={0.024,1,Eb min,Ebm}

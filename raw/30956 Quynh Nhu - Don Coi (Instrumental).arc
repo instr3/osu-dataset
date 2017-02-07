@@ -11,6 +11,7 @@ Time=2016/8/15 16:34:40
 Confidence=0
 [MiscConfig]
 LinkedFile=30956 Quynh Nhu - Don Coi (Instrumental)/Quynh Nhu - Don Coi (Instrumental) (kazumikos) [Easy].osu
+osuMapID=30956
 [BeatInfo]
 Count=273
 Beat_0={1.419,1,?,N}

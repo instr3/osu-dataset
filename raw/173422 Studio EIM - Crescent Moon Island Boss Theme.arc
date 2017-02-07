@@ -11,6 +11,7 @@ Time=2017/1/24 18:05:34
 Confidence=4
 [MiscConfig]
 LinkedFile=173422 Studio EIM - Crescent Moon Island Boss Theme/Studio EIM - Crescent Moon Island Boss Theme (Rakuen) [[ -Scarlet- ]'s Extra].osu
+osuMapID=173422
 [BeatInfo]
 Count=364
 Beat_0={0.33,1,G min,N}

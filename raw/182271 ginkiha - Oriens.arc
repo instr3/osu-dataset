@@ -8,9 +8,10 @@ Title=Oriens
 [TagConfig]
 Tagger=Carra
 Time=2016/10/7 12:12:47
-Confidence=3
+Confidence=4
 [MiscConfig]
 LinkedFile=182271 ginkiha - Oriens/ginkiha - Oriens (Kloyd) [Elvis' Extreme].osu
+osuMapID=182271
 [BeatInfo]
 Count=393
 Beat_0={0.754960185239278,1,C Maj,Am}

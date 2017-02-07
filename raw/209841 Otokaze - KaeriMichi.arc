@@ -11,6 +11,7 @@ Time=2016/9/6 15:46:51
 Confidence=4
 [MiscConfig]
 LinkedFile=209841 Otokaze - KaeriMichi/Otokaze - KaeriMichi (Narcissu) [Easy].osu
+osuMapID=209841
 [BeatInfo]
 Count=193
 Beat_0={3.19,1,D min,Bb}

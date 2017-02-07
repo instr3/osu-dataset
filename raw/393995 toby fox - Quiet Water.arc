@@ -11,6 +11,7 @@ Time=2016/8/15 16:34:40
 Confidence=4
 [MiscConfig]
 LinkedFile=393995 toby fox - Quiet Water/toby fox - Quiet Water (Intelli) [Calm].osu
+osuMapID=393995
 [BeatInfo]
 Count=33
 Beat_0={0.168,1,F min,Fm}

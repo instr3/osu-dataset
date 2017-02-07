@@ -8,9 +8,10 @@ Title=Echoes In Rain
 [TagConfig]
 Tagger=Carra
 Time=2017/1/20 0:13:19
-Confidence=1
+Confidence=4
 [MiscConfig]
 LinkedFile=404060 Enya - Echoes In Rain/Enya - Echoes In Rain (Blue Dragon) [Alleluia].osu
+osuMapID=404060
 [BeatInfo]
 Count=338
 Beat_0={0.141,1,A Maj,F#m}

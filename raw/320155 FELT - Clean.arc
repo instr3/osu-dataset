@@ -11,6 +11,7 @@ Time=2016/10/27 19:34:15
 Confidence=4
 [MiscConfig]
 LinkedFile=320155 FELT - Clean/FELT - Clean (Kinshara) [Easy].osu
+osuMapID=320155
 [BeatInfo]
 Count=143
 Beat_0={0.448,1,E Maj,Esus4}

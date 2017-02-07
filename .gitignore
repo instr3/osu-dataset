@@ -1,2 +1,6 @@
 /music
 *.vampcache
+/*.zip
+/beatlab
+/chordlab
+/keylab

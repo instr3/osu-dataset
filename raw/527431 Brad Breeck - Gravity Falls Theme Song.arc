@@ -8,7 +8,7 @@ Title=Gravity Falls Theme Song
 [TagConfig]
 Tagger=Carra
 Time=2017/1/19 13:42:00
-Confidence=4
+Confidence=5
 [MiscConfig]
 LinkedFile=527431 Brad Breeck - Gravity Falls Theme Song/Brad Breeck - Gravity Falls Theme Song (Alphabet) [Bubblun's Insane].osu
 osuMapID=527431

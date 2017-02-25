@@ -3,7 +3,7 @@ Location=103260 DenporuP - Hitorinbo Envy/DenporuP - Hitorinbo Envy.mp3
 Extension=mp3
 MD5=d6‌​e2‌​16‌​6e‌​52‌​6a‌​81‌​fe‌​06‌​a1‌​29‌​20‌​f3‌​95‌​8d‌​6b
 Source=OSU
-MetreNumber=8
+MetreNumber=4
 Title=Hitorinbo Envy
 [TagConfig]
 Tagger=Carra

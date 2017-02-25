@@ -14,10 +14,10 @@ LinkedFile=246679 Evan Beigel [BMI], Scott Emerson [BMI] - A Running Chip/Evan B
 osuMapID=246679
 [BeatInfo]
 Count=319
-Beat_0={0.19,1,D min,N}
-Beat_1={0.553636363636364,0,D min,N}
-Beat_2={0.91727272727272813,0,D min,N}
-Beat_3={1.2809090909090921,0,D min,N}
+Beat_0={0.19,1,D min,Dm}
+Beat_1={0.553636363636364,0,D min,Dm}
+Beat_2={0.91727272727272813,0,D min,Dm}
+Beat_3={1.2809090909090921,0,D min,Dm}
 Beat_4={1.6445454545454561,1,D min,Dm}
 Beat_5={2.00818181818182,0,D min,Dm}
 Beat_6={2.3718181818181843,0,D min,Dm}

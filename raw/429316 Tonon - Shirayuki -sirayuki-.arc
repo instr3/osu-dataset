@@ -12,6 +12,10 @@ Confidence=4
 [MiscConfig]
 LinkedFile=429316 Tonon - Shirayuki -sirayuki-/Tonon - Shirayuki ~sirayuki~ (yf_bmp) [Adol's Normal].osu
 osuMapID=429316
+MetadataLine1=
+MetadataLine2=
+BeatsPerSegment=8
+RelativeMovingSpeed=0.5
 [BeatInfo]
 Count=418
 Beat_0={0.707,1,D min,Bb}

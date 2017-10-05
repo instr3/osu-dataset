@@ -8,10 +8,14 @@ Title=Run!Cat!Run!
 [TagConfig]
 Tagger=Carra
 Time=2017/5/14 10:01:40
-Confidence=3
+Confidence=4
 [MiscConfig]
 LinkedFile=144338 Kajiura Yuki - Run!Cat!Run!/Kajiura Yuki - Run!Cat!Run! (CodeS) [Easy].osu
 osuMapID=144338
+MetadataLine1=
+MetadataLine2=
+BeatsPerSegment=8
+RelativeMovingSpeed=0.5
 [BeatInfo]
 Count=201
 Beat_0={0.48193255559416504,1,G Maj,G}
@@ -20,8 +24,8 @@ Beat_2={1.1878149085353411,0,G Maj,F}
 Beat_3={1.540756085005929,0,G Maj,F}
 Beat_4={1.8936972614765169,1,G Maj,G}
 Beat_5={2.2466384379471047,0,G Maj,G}
-Beat_6={2.599579614417693,0,G Maj,G}
-Beat_7={2.9525207908882809,0,G Maj,G}
+Beat_6={2.599579614417693,0,G Maj,Dsus4}
+Beat_7={2.9525207908882809,0,G Maj,Dsus4}
 Beat_8={3.3054619673588688,1,G Maj,G}
 Beat_9={3.6584031438294566,0,G Maj,G}
 Beat_10={4.0113443203000445,0,G Maj,F}
@@ -140,8 +144,8 @@ Beat_122={43.540756085005896,0,G Maj,B7}
 Beat_123={43.893697261476483,0,G Maj,B7}
 Beat_124={44.24663843794707,1,G Maj,Em}
 Beat_125={44.599579614417664,0,G Maj,Em}
-Beat_126={44.952520790888251,0,G Maj,G}
-Beat_127={45.305461967358838,0,G Maj,G}
+Beat_126={44.952520790888251,0,G Maj,G/D}
+Beat_127={45.305461967358838,0,G Maj,G/D}
 Beat_128={45.658403143829425,1,G Maj,C}
 Beat_129={46.011344320300012,0,G Maj,C}
 Beat_130={46.3642854967706,0,G Maj,Am}

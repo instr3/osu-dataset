@@ -12,6 +12,10 @@ Confidence=4
 [MiscConfig]
 LinkedFile=527811 TO-MAS feat Chima - FLIP FLAP FLIP FLAP/TO-MAS feat. Chima - FLIP FLAP FLIP FLAP (Pata-Mon) [Hard].osu
 osuMapID=527811
+MetadataLine1=
+MetadataLine2=
+BeatsPerSegment=8
+RelativeMovingSpeed=0.5
 [BeatInfo]
 Count=173
 Beat_0={0.3,1,Bb min,Eb}

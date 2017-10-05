@@ -12,6 +12,10 @@ Confidence=4
 [MiscConfig]
 LinkedFile=295880 Smooth J - Haru yo, Koi/Smooth J - Haru yo, Koi (Streliteela) [Atrue's Normal].osu
 osuMapID=295880
+MetadataLine1=
+MetadataLine2=
+BeatsPerSegment=8
+RelativeMovingSpeed=0.5
 [BeatInfo]
 Count=281
 Beat_0={15.513,1,Bb min,F#}

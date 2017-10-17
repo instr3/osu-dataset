@@ -4,12 +4,12 @@ A public dataset containing chord/beat annotation from a music game named 'osu!'
 
 ## What is it used for
 
-* It was not yet a formal dataset for training of chord recognition/beat tracking, but it is okay if you just want to test your ACE (Automatic Chord Estimation) against some modern music pieces. 
+* It was not yet a formal dataset for training of chord recognition/beat tracking, but it is okay if you just want to test your ACE (Automatic Chord Estimation) system against some modern music pieces. 
 * The annotation was initially used for testing rhythm-based music visualization schemes.
 
 ## Where to get the audio tracks
 
-* We do not own copyright for the audio tracks, and they are not presented in this repo.
+* We do NOT own copyright for the audio tracks, and they are not presented in this repo.
 * You can get almost all of the audio tracks (typically formatted in .mp3 with uncertained bit rates) on osu.ppy.sh.
 * Osu! currently allows you to get these audio tracks freely and legally under its DMCA, but be sure to deal with them properly, following their DMCA and pay attention to copyright infringements from artists.
 
@@ -19,7 +19,7 @@ A public dataset containing chord/beat annotation from a music game named 'osu!'
 
 ## Todo
 
-* Add 7th and full notations to early entries
+* Add 7th and full notations to some entries
 * Support complex tonality notations
 
 ## About ranking

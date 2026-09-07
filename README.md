@@ -80,6 +80,8 @@ Related open-source implementations:
 
 The existing repository [MIT license](LICENSE) is retained. No rights to third-party audio are granted by this repository. Users retrieve media separately from upstream services, subject to those services' terms and availability.
 
+**Disclaimer:** Neither the author nor MIREX provides audio files or is affiliated with any of the third-party mirrors listed above; use of those mirrors is at your own risk.
+
 ## 中文说明
 
 正式 osu2017 固定为本地可核验的 **142 首**，以 `manifest.json` 为唯一曲目清单。直接分发 beat/chord/key 和原始标注；其余本地标注放在 `updates/`，视为后续零散更新，不计入正式版本。远程历史上多出的正式目录标注已移出正式集合。

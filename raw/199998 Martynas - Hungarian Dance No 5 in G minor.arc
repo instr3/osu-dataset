@@ -8,10 +8,14 @@ Title=Hungarian Dance No. 5 in G minor
 [TagConfig]
 Tagger=Carra
 Time=2017/2/6 17:24:51
-Confidence=4
+Confidence=3
 [MiscConfig]
 LinkedFile=199998 Martynas - Hungarian Dance No 5 in G minor/Martynas - Hungarian Dance No. 5 in G minor (Sieg) [Advanced].osu
 osuMapID=199998
+MetadataLine1=
+MetadataLine2=
+BeatsPerSegment=-1
+RelativeMovingSpeed=0
 [BeatInfo]
 Count=228
 Beat_0={2.115,1,G min,Gm}

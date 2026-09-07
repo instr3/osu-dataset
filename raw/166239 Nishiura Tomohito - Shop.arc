@@ -8,7 +8,7 @@ Title=Shop
 [TagConfig]
 Tagger=Carra
 Time=2017/3/20 22:19:15
-Confidence=4
+Confidence=6
 [MiscConfig]
 LinkedFile=166239 Nishiura Tomohito - Shop/Nishiura Tomohito - Shop (samplefish) [Normal].osu
 osuMapID=166239

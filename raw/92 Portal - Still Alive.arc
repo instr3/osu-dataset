@@ -8,7 +8,7 @@ Title=Still Alive
 [TagConfig]
 Tagger=Carra
 Time=2016/9/2 16:20:44
-Confidence=4
+Confidence=6
 [MiscConfig]
 LinkedFile=92 Portal - Still Alive/Portal - Still Alive (Hitoshirenu Shourai) [Easy].osu
 osuMapID=92
@@ -96,8 +96,8 @@ Beat_74={37.15,1,F Maj,Bb}
 Beat_75={37.65,0,F Maj,Bb}
 Beat_76={38.15,0,F Maj,F/C}
 Beat_77={38.65,0,F Maj,F/C}
-Beat_78={39.15,1,F Maj,Bb}
-Beat_79={39.65,0,F Maj,Bb}
+Beat_78={39.15,1,F Maj,Gm/Bb}
+Beat_79={39.65,0,F Maj,Gm/Bb}
 Beat_80={40.15,0,F Maj,C}
 Beat_81={40.65,0,F Maj,C}
 Beat_82={41.15,1,F Maj,F/C}

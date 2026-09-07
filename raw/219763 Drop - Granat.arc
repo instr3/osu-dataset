@@ -12,6 +12,10 @@ Confidence=5
 [MiscConfig]
 LinkedFile=219763 Drop - Granat/Drop - Granat (Kaguya Hourain) [Easy].osu
 osuMapID=219763
+MetadataLine1=Music by Drop
+MetadataLine2=
+BeatsPerSegment=-1
+RelativeMovingSpeed=0
 [BeatInfo]
 Count=142
 Beat_0={0.281,1,B min,Bm}

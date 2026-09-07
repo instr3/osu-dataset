@@ -1,0 +1,21 @@
+name: Validate annotation-only release
+on: [push, pull_request]
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.9'
+      - run: python -m unittest discover -s tests -v
+      - run: python download_beatmaps.py --verify-annotations
+      - name: Reject tracked media, archives and caches
+        run: |
+          python - <<'PY'
+          import pathlib, subprocess
+          allowed = {'.md', '.py', '.json', '.yml', '.lab', '.arc', '.linkedInfo'}
+          files = subprocess.check_output(['git', 'ls-files', '-z']).decode().split('\0')
+          bad = [p for p in files if p and pathlib.Path(p).suffix not in allowed and p not in {'.gitignore', '.gitattributes', 'LICENSE'}]
+          assert not bad, f'Unexpected publication files: {bad}'
+          PY

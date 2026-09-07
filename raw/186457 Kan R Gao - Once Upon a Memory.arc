@@ -8,10 +8,14 @@ Title=Once Upon a Memory
 [TagConfig]
 Tagger=Carra
 Time=2016/9/2 19:23:10
-Confidence=3
+Confidence=6
 [MiscConfig]
 LinkedFile=186457 Kan R Gao - Once Upon a Memory/Kan R. Gao - Once Upon a Memory (Neil Watts) [Easy].osu
 osuMapID=186457
+MetadataLine1=
+MetadataLine2=
+BeatsPerSegment=-1
+RelativeMovingSpeed=0
 [BeatInfo]
 Count=153
 Beat_0={14.64,1,Eb Maj,Eb}
@@ -82,10 +86,10 @@ Beat_64={69.535569755972176,1,Eb Maj,Eb}
 Beat_65={70.393313033409243,0,Eb Maj,Eb}
 Beat_66={71.251056310846309,0,Eb Maj,Eb}
 Beat_67={72.108799588283375,0,Eb Maj,Eb}
-Beat_68={72.966542865720442,1,Eb Maj,C#}
-Beat_69={73.824286143157508,0,Eb Maj,C#}
-Beat_70={74.682029420594574,0,Eb Maj,C#}
-Beat_71={75.539772698031641,0,Eb Maj,C#}
+Beat_68={72.966542865720442,1,Eb Maj,C#6}
+Beat_69={73.824286143157508,0,Eb Maj,C#6}
+Beat_70={74.682029420594574,0,Eb Maj,C#6}
+Beat_71={75.539772698031641,0,Eb Maj,C#6}
 Beat_72={76.3975159754687,1,Eb Maj,Cm7}
 Beat_73={77.255259252905773,0,Eb Maj,Cm7}
 Beat_74={78.11300253034284,0,Eb Maj,Cm7}

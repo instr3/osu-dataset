@@ -12,6 +12,10 @@ Confidence=4
 [MiscConfig]
 LinkedFile=18428 RSP - Sakura ~Anata ni Deaete Yokatta~/RSP - Sakura ~Anata ni Deaete Yokatta~ (DarkRingSystem) [Hard].osu
 osuMapID=18428
+MetadataLine1=
+MetadataLine2=
+BeatsPerSegment=-1
+RelativeMovingSpeed=0
 [BeatInfo]
 Count=803
 Beat_0={0.778,1,D Maj,Bm}
@@ -294,7 +298,7 @@ Beat_276={104.27799999999999,1,D Maj,A}
 Beat_277={104.65299999999999,0,D Maj,A}
 Beat_278={105.02799999999999,0,D Maj,A}
 Beat_279={105.40299999999999,0,D Maj,A}
-Beat_280={105.77799999999999,1,D Maj,A}
+Beat_280={105.77799999999999,1,D Maj,G}
 Beat_281={106.15299999999999,0,D Maj,G}
 Beat_282={106.52799999999999,0,D Maj,G}
 Beat_283={106.90299999999999,0,D Maj,G}

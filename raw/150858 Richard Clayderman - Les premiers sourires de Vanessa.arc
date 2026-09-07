@@ -8,10 +8,14 @@ Title=Les premiers sourires de Vanessa
 [TagConfig]
 Tagger=Carra
 Time=2017/1/29 6:42:40
-Confidence=4
+Confidence=6
 [MiscConfig]
 LinkedFile=150858 Richard Clayderman - Les premiers sourires de Vanessa/Richard Clayderman - Les premiers sourires de Vanessa (liangv587) [Normal].osu
 osuMapID=150858
+MetadataLine1=
+MetadataLine2=
+BeatsPerSegment=-1
+RelativeMovingSpeed=0
 [BeatInfo]
 Count=285
 Beat_0={0.533,1,E Maj,E}
@@ -107,7 +111,7 @@ Beat_89={41.776705336426922,0,A Maj,A}
 Beat_90={42.240742459396756,1,A Maj,E7}
 Beat_91={42.7047795823666,0,A Maj,E7}
 Beat_92={43.16881670533644,0,A Maj,E7}
-Beat_93={43.632853828306274,0,A Maj,E7}
+Beat_93={43.632853828306274,0,A Maj,E7,0.5,A}
 Beat_94={44.112,2,A Maj,A}
 Beat_95={44.588190476190476,0,A Maj,A}
 Beat_96={45.064,0,A Maj,A}
@@ -207,7 +211,7 @@ Beat_189={89.065813953488373,0,D Maj,D}
 Beat_190={89.530930232558134,1,D Maj,A}
 Beat_191={89.99604651162791,0,D Maj,A}
 Beat_192={90.461162790697671,0,D Maj,A}
-Beat_193={90.926279069767446,0,D Maj,A}
+Beat_193={90.926279069767446,0,D Maj,A,0.5,D}
 Beat_194={91.405,2,D Maj,D}
 Beat_195={91.866538461538468,0,D Maj,D}
 Beat_196={92.362,0,D Maj,D}

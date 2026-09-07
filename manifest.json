@@ -1,0 +1,2492 @@
+{
+  "schema_version": 1,
+  "dataset": "osu2017",
+  "track_count": 142,
+  "checksum_target": "original audio file bytes; not the OSZ archive",
+  "tracks": [
+    {
+      "id": "100649",
+      "name": "100649 Coldplay - Viva la Vida",
+      "beatmapset_id": 100649,
+      "audio_filename": "100649 Coldplay - Viva la Vida.mp3",
+      "audio_md5": "f48097f8b50a2d697fc61a865c0b47c3",
+      "audio_bytes": 6044426,
+      "original_audio_path": "100649 Coldplay - Viva la Vida/Vivalavida.mp3",
+      "linked_osu_path": "100649 Coldplay - Viva la Vida/Coldplay - Viva la Vida (Alarido) [Anre's Easy].osu",
+      "confidence": "6",
+      "annotations": {
+        "raw/100649 Coldplay - Viva la Vida.arc": "44623e166a223767ed7bcb5cfc9e7601",
+        "beatlab/100649 Coldplay - Viva la Vida.lab": "8c9386ef04c02477446eb9f7bbc98556",
+        "chordlab/100649 Coldplay - Viva la Vida.lab": "9aa72b60fad339001bbc789d1b626986",
+        "keylab/100649 Coldplay - Viva la Vida.lab": "edc3f12a25e70932bfd0b5a79258ae47"
+      }
+    },
+    {
+      "id": "100699",
+      "name": "100699 Itou Masumi - Yokan (TV Size)",
+      "beatmapset_id": 100699,
+      "audio_filename": "100699 Itou Masumi - Yokan (TV Size).mp3",
+      "audio_md5": "976a7e7043c110ba65d5a0d60185f757",
+      "audio_bytes": 2156411,
+      "original_audio_path": "100699 Itou Masumi - Yokan (TV Size)/RDG ED   TV Size.mp3",
+      "linked_osu_path": "100699 Itou Masumi - Yokan (TV Size)/Itou Masumi - Yokan (TV Size) (Azure) [Hard].osu",
+      "confidence": "6",
+      "annotations": {
+        "raw/100699 Itou Masumi - Yokan (TV Size).arc": "410b84544e8f591d307448237853eea6",
+        "beatlab/100699 Itou Masumi - Yokan (TV Size).lab": "445cd5e6f5c2e4c77567fa0ea2ce3ca6",
+        "chordlab/100699 Itou Masumi - Yokan (TV Size).lab": "1f7bd75f591d99218b191e2c0c2b982e",
+        "keylab/100699 Itou Masumi - Yokan (TV Size).lab": "05ed3e1b245c5d19ef181cde799586ce"
+      }
+    },
+    {
+      "id": "103260",
+      "name": "103260 DenporuP - Hitorinbo Envy",
+      "beatmapset_id": 103260,
+      "audio_filename": "103260 DenporuP - Hitorinbo Envy.mp3",
+      "audio_md5": "d6e2166e526a81fe06a12920f3958d6b",
+      "audio_bytes": 4868240,
+      "original_audio_path": "103260 DenporuP - Hitorinbo Envy/DenporuP - Hitorinbo Envy.mp3",
+      "linked_osu_path": "103260 DenporuP - Hitorinbo Envy/DenporuP - Hitorinbo Envy (SapphireGhost) [Easy].osu",
+      "confidence": "3",
+      "annotations": {
+        "raw/103260 DenporuP - Hitorinbo Envy.arc": "d0acf6c6fde463bb632c972483a94e65",
+        "beatlab/103260 DenporuP - Hitorinbo Envy.lab": "8e3c4695dde8c3575b4ac4b41b850c53",
+        "chordlab/103260 DenporuP - Hitorinbo Envy.lab": "6222233174024832e15f412be00efe6c",
+        "keylab/103260 DenporuP - Hitorinbo Envy.lab": "eb4ecc5a1cbe61a06b0cec375571af6d",
+        "osumaplab/103260 DenporuP - Hitorinbo Envy.lab": "61c394360c2f93b127331f7645fe3b4b",
+        "osumaplab/103260 DenporuP - Hitorinbo Envy.linkedInfo": "1df76bcb7fca8aa2f73300b8f9626ff6"
+      }
+    },
+    {
+      "id": "109343",
+      "name": "109343 Linda Yang - Bie Kan Wo Zhi Shi Yi Zhi Yang",
+      "beatmapset_id": 109343,
+      "audio_filename": "109343 Linda Yang - Bie Kan Wo Zhi Shi Yi Zhi Yang.mp3",
+      "audio_md5": "e6436cd5975ffc36751a98336c863678",
+      "audio_bytes": 1547131,
+      "original_audio_path": "109343 Linda Yang - Bie Kan Wo Zhi Shi Yi Zhi Yang/.mp3",
+      "linked_osu_path": "109343 Linda Yang - Bie Kan Wo Zhi Shi Yi Zhi Yang/Linda Yang - Bie Kan Wo Zhi Shi Yi Zhi Yang (S o a p) [Fycho's Insane].osu",
+      "confidence": "5",
+      "annotations": {
+        "raw/109343 Linda Yang - Bie Kan Wo Zhi Shi Yi Zhi Yang.arc": "4e0fbba5b918bb9223a7e993827e9e3e",
+        "beatlab/109343 Linda Yang - Bie Kan Wo Zhi Shi Yi Zhi Yang.lab": "4b78901f3baa8ecae0f0809982a952e4",
+        "chordlab/109343 Linda Yang - Bie Kan Wo Zhi Shi Yi Zhi Yang.lab": "adabaf9dd935bc4afe787d0aa8c0897d",
+        "keylab/109343 Linda Yang - Bie Kan Wo Zhi Shi Yi Zhi Yang.lab": "1e693261fdddaa7cbd14d82ce473f395"
+      }
+    },
+    {
+      "id": "114555",
+      "name": "114555 XeoN - Eternal Fantasy",
+      "beatmapset_id": 114555,
+      "audio_filename": "114555 XeoN - Eternal Fantasy.mp3",
+      "audio_md5": "c921f0060868f27e8a2d678c254b927f",
+      "audio_bytes": 2414447,
+      "original_audio_path": "114555 XeoN - Eternal Fantasy/Eternal Fantasy.mp3",
+      "linked_osu_path": "114555 XeoN - Eternal Fantasy/XeoN - Eternal Fantasy (Eyenine) [Easy].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/114555 XeoN - Eternal Fantasy.arc": "a8afc24ac8fe1607355e315820d4a056",
+        "beatlab/114555 XeoN - Eternal Fantasy.lab": "023a2f1178b573b3b71d25d20c674f68",
+        "chordlab/114555 XeoN - Eternal Fantasy.lab": "618354683884bf6240a5f064c824cb28",
+        "keylab/114555 XeoN - Eternal Fantasy.lab": "6c1099b5dba9de40995385a74748c4c5",
+        "osumaplab/114555 XeoN - Eternal Fantasy.lab": "e75052c3cb6c3d140119cabb6cdfa40c",
+        "osumaplab/114555 XeoN - Eternal Fantasy.linkedInfo": "ba7f1e1d8a2b0279b21402c54543155e"
+      }
+    },
+    {
+      "id": "115011",
+      "name": "115011 Hatsuki Yura - Yoiyami Hanabi",
+      "beatmapset_id": 115011,
+      "audio_filename": "115011 Hatsuki Yura - Yoiyami Hanabi.mp3",
+      "audio_md5": "6302e2fdbe0d440855c511646e009407",
+      "audio_bytes": 7371985,
+      "original_audio_path": "115011 Hatsuki Yura - Yoiyami Hanabi/02  Yoiyami Hanabi.mp3",
+      "linked_osu_path": "115011 Hatsuki Yura - Yoiyami Hanabi/Hatsuki Yura - Yoiyami Hanabi (Lan wings) [Baka].osu",
+      "confidence": "6",
+      "annotations": {
+        "raw/115011 Hatsuki Yura - Yoiyami Hanabi.arc": "daeaeb186cbab94efd37d09582fb9b2d",
+        "beatlab/115011 Hatsuki Yura - Yoiyami Hanabi.lab": "4250c824812cba7bacee805a8bcdec42",
+        "chordlab/115011 Hatsuki Yura - Yoiyami Hanabi.lab": "00765c81c3b229864a010ff7c5ba3a1a",
+        "keylab/115011 Hatsuki Yura - Yoiyami Hanabi.lab": "7d8637c0d8f601b0b5ecf34f951121d7",
+        "osumaplab/115011 Hatsuki Yura - Yoiyami Hanabi.lab": "57c9a5f7f97bf35e26723bb8a1642d62",
+        "osumaplab/115011 Hatsuki Yura - Yoiyami Hanabi.linkedInfo": "11f77ec42efe67e4d4c6d99779bb415c"
+      }
+    },
+    {
+      "id": "115107",
+      "name": "115107 SirensCeol - Nightmare (Maxin Remix)",
+      "beatmapset_id": 115107,
+      "audio_filename": "115107 SirensCeol - Nightmare (Maxin Remix).mp3",
+      "audio_md5": "cbc9ae3d885923936fc35531f7d19bf5",
+      "audio_bytes": 3159394,
+      "original_audio_path": "115107 SirensCeol - Nightmare (Maxin Remix)/SirensCeol - Nightmare (Maxin Remix).mp3",
+      "linked_osu_path": "115107 SirensCeol - Nightmare (Maxin Remix)/SirensCeol - Nightmare (Maxin Remix) (galvenize) [Advanced].osu",
+      "confidence": "6",
+      "annotations": {
+        "raw/115107 SirensCeol - Nightmare (Maxin Remix).arc": "7e40f266815d65b08bd2fc7c8a28af99",
+        "beatlab/115107 SirensCeol - Nightmare (Maxin Remix).lab": "86ff82035bac8b6b467b7012ee32c653",
+        "chordlab/115107 SirensCeol - Nightmare (Maxin Remix).lab": "6fdec82f899be2ab09a3fefa01f94528",
+        "keylab/115107 SirensCeol - Nightmare (Maxin Remix).lab": "bdd6fea81c51a4c1e2ea75b00635123b"
+      }
+    },
+    {
+      "id": "118459",
+      "name": "118459 Hai Nan - Ai La La",
+      "beatmapset_id": 118459,
+      "audio_filename": "118459 Hai Nan - Ai La La.mp3",
+      "audio_md5": "91cda72a19901f801c21ebf4420f0d5d",
+      "audio_bytes": 4253731,
+      "original_audio_path": "118459 Hai Nan - Ai La La/Ailala.mp3",
+      "linked_osu_path": "118459 Hai Nan - Ai La La/Hai Nan - Ai La La (moonlightleaf) [cRyo's Insane].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/118459 Hai Nan - Ai La La.arc": "78c0f26b861ce2df71afa39e3a7c8f89",
+        "beatlab/118459 Hai Nan - Ai La La.lab": "8c4aa8bb5b02560bff7f5d00b07d94f3",
+        "chordlab/118459 Hai Nan - Ai La La.lab": "79460759a049377d9f29724be48c90ea",
+        "keylab/118459 Hai Nan - Ai La La.lab": "c25daf029bdde1bfb77969c847f0642a",
+        "osumaplab/118459 Hai Nan - Ai La La.lab": "7079ae9ae2dfd90aeb12edb47ca1a00f",
+        "osumaplab/118459 Hai Nan - Ai La La.linkedInfo": "eae1f903aa3f3df906f52d150d522554"
+      }
+    },
+    {
+      "id": "118869",
+      "name": "118869 Hanazawa Kana - Mousou Express (TV Size)",
+      "beatmapset_id": 118869,
+      "audio_filename": "118869 Hanazawa Kana - Mousou Express (TV Size).mp3",
+      "audio_md5": "71412c30bba750f038b6b5d1b8ecdfaa",
+      "audio_bytes": 2120634,
+      "original_audio_path": "118869 Hanazawa Kana - Mousou Express (TV Size)/Mousou Express.mp3",
+      "linked_osu_path": "118869 Hanazawa Kana - Mousou Express (TV Size)/Hanazawa Kana - Mousou Express (TV Size) (jonathanlfj) [Easy].osu",
+      "confidence": "6",
+      "annotations": {
+        "raw/118869 Hanazawa Kana - Mousou Express (TV Size).arc": "f197d4181b34aa8bea0ab9ffde4b21c8",
+        "beatlab/118869 Hanazawa Kana - Mousou Express (TV Size).lab": "1756dfda4a8139644db3e0474177e6f9",
+        "chordlab/118869 Hanazawa Kana - Mousou Express (TV Size).lab": "6b7a7c71ee66777ec109225a51e1cb01",
+        "keylab/118869 Hanazawa Kana - Mousou Express (TV Size).lab": "0e2def8411d79e70ce7028a6c44aed42",
+        "osumaplab/118869 Hanazawa Kana - Mousou Express (TV Size).lab": "6b79cae89ee42d7016033d983064b0ae",
+        "osumaplab/118869 Hanazawa Kana - Mousou Express (TV Size).linkedInfo": "b64882df9ab7e77fac52c946f292ee01"
+      }
+    },
+    {
+      "id": "119739",
+      "name": "119739 Rin - Spring of Dreams",
+      "beatmapset_id": 119739,
+      "audio_filename": "119739 Rin - Spring of Dreams.mp3",
+      "audio_md5": "299e90a3f7c890075d2b3903ed8c7e96",
+      "audio_bytes": 5067145,
+      "original_audio_path": "119739 Rin - Spring of Dreams/Spring of Dreams.mp3",
+      "linked_osu_path": "119739 Rin - Spring of Dreams/Rin - Spring of Dreams (jyc-Binggan) [Easy].osu",
+      "confidence": "6",
+      "annotations": {
+        "raw/119739 Rin - Spring of Dreams.arc": "566d8f0409fd93a19b58198f704f0faf",
+        "beatlab/119739 Rin - Spring of Dreams.lab": "2197a0c157c12d7c1b0a8ab82e2e1bf3",
+        "chordlab/119739 Rin - Spring of Dreams.lab": "db6c0450283e2007b6a1366f1cc6df35",
+        "keylab/119739 Rin - Spring of Dreams.lab": "2c194da5dcdad7fce395c4dee6797a89",
+        "osumaplab/119739 Rin - Spring of Dreams.lab": "9a4f8a1b6030e6000982d22a1e58c4d2",
+        "osumaplab/119739 Rin - Spring of Dreams.linkedInfo": "288ea0bb5dba26216e6e3fb7672b62d2"
+      }
+    },
+    {
+      "id": "13019",
+      "name": "13019 Daisuke Achiwa - BASARA",
+      "beatmapset_id": 13019,
+      "audio_filename": "13019 Daisuke Achiwa - BASARA.mp3",
+      "audio_md5": "fd1f67398ee2e0db338fd61c3f49b491",
+      "audio_bytes": 6609460,
+      "original_audio_path": "13019 Daisuke Achiwa - BASARA/BASARA.mp3",
+      "linked_osu_path": "13019 Daisuke Achiwa - BASARA/Daisuke Achiwa - BASARA (100pa-) [BASARA].osu",
+      "confidence": "6",
+      "annotations": {
+        "raw/13019 Daisuke Achiwa - BASARA.arc": "7b08be1fda865c00fee4ca1edb0363a7",
+        "beatlab/13019 Daisuke Achiwa - BASARA.lab": "f6276a1429fc7afae05a7c798a4678f8",
+        "chordlab/13019 Daisuke Achiwa - BASARA.lab": "7890cc669b8ed620d3012593bc4d2cb8",
+        "keylab/13019 Daisuke Achiwa - BASARA.lab": "4c5111ad375fca2974c59eb89a390329"
+      }
+    },
+    {
+      "id": "130791",
+      "name": "130791 Sergey Chekryzhov - Intro",
+      "beatmapset_id": 130791,
+      "audio_filename": "130791 Sergey Chekryzhov - Intro.mp3",
+      "audio_md5": "44f3700ab1a26b6f398eb86c4477a166",
+      "audio_bytes": 1522592,
+      "original_audio_path": "130791 Sergey Chekryzhov - Intro/Sergey Chekryzhov - Intro.mp3",
+      "linked_osu_path": "130791 Sergey Chekryzhov - Intro/Sergey Chekryzhov - Intro (Aka) [Bakari's Normal].osu",
+      "confidence": "6",
+      "annotations": {
+        "raw/130791 Sergey Chekryzhov - Intro.arc": "12731c92e52344747495af58dac1066a",
+        "beatlab/130791 Sergey Chekryzhov - Intro.lab": "ee842cc3e7535b3dc8ee3333a42d8703",
+        "chordlab/130791 Sergey Chekryzhov - Intro.lab": "719c33bbcd6d9c847db7ebeaeb762a91",
+        "keylab/130791 Sergey Chekryzhov - Intro.lab": "152d1b763c1bc24dd6a84f32d70f53de"
+      }
+    },
+    {
+      "id": "13901",
+      "name": "13901 12 Girls Band - Freedom",
+      "beatmapset_id": 13901,
+      "audio_filename": "13901 12 Girls Band - Freedom.mp3",
+      "audio_md5": "0257c219921ae691cddbb1258f3c26be",
+      "audio_bytes": 3899956,
+      "original_audio_path": "13901 12 Girls Band - Freedom/Freedom.mp3",
+      "linked_osu_path": "13901 12 Girls Band - Freedom/12 Girls Band - Freedom (LKs) [Another].osu",
+      "confidence": "6",
+      "annotations": {
+        "raw/13901 12 Girls Band - Freedom.arc": "65761efced427914a2d8f45da2931603",
+        "beatlab/13901 12 Girls Band - Freedom.lab": "2e10f30a894ca9449ee0c2c1d0eeda1a",
+        "chordlab/13901 12 Girls Band - Freedom.lab": "3e3b43d49fff5600dd3100bec44770dc",
+        "keylab/13901 12 Girls Band - Freedom.lab": "b964c49f8dd609cb57470fc2e56b623c"
+      }
+    },
+    {
+      "id": "143939",
+      "name": "143939 Painty the Pirate & Kids - SpongeBob SquarePants Theme",
+      "beatmapset_id": 143939,
+      "audio_filename": "143939 Painty the Pirate & Kids - SpongeBob SquarePants Theme.mp3",
+      "audio_md5": "dfbb304348ee2cd2689695d5807b2f9c",
+      "audio_bytes": 732613,
+      "original_audio_path": "143939 Painty the Pirate & Kids - SpongeBob SquarePants Theme/The Pirate and Kids.mp3",
+      "linked_osu_path": "143939 Painty the Pirate & Kids - SpongeBob SquarePants Theme/Painty the Pirate & Kids - SpongeBob SquarePants Theme (S o a p) [Hard].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/143939 Painty the Pirate & Kids - SpongeBob SquarePants Theme.arc": "76470d6328f6398a42d92d7e1f049d2e",
+        "beatlab/143939 Painty the Pirate & Kids - SpongeBob SquarePants Theme.lab": "f1809bf51f3129575ab8dab910d20608",
+        "chordlab/143939 Painty the Pirate & Kids - SpongeBob SquarePants Theme.lab": "848b5117681eb6f73a31c9953eae7213",
+        "keylab/143939 Painty the Pirate & Kids - SpongeBob SquarePants Theme.lab": "921a10f3e46d80ee3667c4d91e32fcd3"
+      }
+    },
+    {
+      "id": "144338",
+      "name": "144338 Kajiura Yuki - Run!Cat!Run!",
+      "beatmapset_id": 144338,
+      "audio_filename": "144338 Kajiura Yuki - Run!Cat!Run!.mp3",
+      "audio_md5": "1c00de1ac39ff223c99f105567a7c9a5",
+      "audio_bytes": 1139625,
+      "original_audio_path": "144338 Kajiura Yuki - Run!Cat!Run!/Kajiura Yuki - Run!Cat!Run!.mp3",
+      "linked_osu_path": "144338 Kajiura Yuki - Run!Cat!Run!/Kajiura Yuki - Run!Cat!Run! (CodeS) [Easy].osu",
+      "confidence": "6",
+      "annotations": {
+        "raw/144338 Kajiura Yuki - Run!Cat!Run!.arc": "58c07317b4e7b054813c9452fe380336",
+        "beatlab/144338 Kajiura Yuki - Run!Cat!Run!.lab": "77bb1b6a9767751f6cbb528e0ace86f6",
+        "chordlab/144338 Kajiura Yuki - Run!Cat!Run!.lab": "78eb08e6fc690c1c76a299b1a62a30ba",
+        "keylab/144338 Kajiura Yuki - Run!Cat!Run!.lab": "4ef217892504811facca9057114fd560"
+      }
+    },
+    {
+      "id": "14458",
+      "name": "14458 Shoji Meguro - Reach Out to the Truth (Instrumental)",
+      "beatmapset_id": 14458,
+      "audio_filename": "14458 Shoji Meguro - Reach Out to the Truth (Instrumental).mp3",
+      "audio_md5": "6e352f4fd63057c297dba50886fa5588",
+      "audio_bytes": 2221371,
+      "original_audio_path": "14458 Shoji Meguro - Reach Out to the Truth (Instrumental)/01 Reach Out To The Truth -Inst Version-.mp3",
+      "linked_osu_path": "14458 Shoji Meguro - Reach Out to the Truth (Instrumental)/Shoji Meguro - Reach Out to the Truth (Instrumental) (Astom) [Insane].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/14458 Shoji Meguro - Reach Out to the Truth (Instrumental).arc": "f5b97bb14634abd71560aab04890086b",
+        "beatlab/14458 Shoji Meguro - Reach Out to the Truth (Instrumental).lab": "c140e48e91072fb08db82fd555cca146",
+        "chordlab/14458 Shoji Meguro - Reach Out to the Truth (Instrumental).lab": "0811a4f13ce3d2b5cec07b93c1139225",
+        "keylab/14458 Shoji Meguro - Reach Out to the Truth (Instrumental).lab": "5ac9fcac42629e68ed5e81b0c278d093"
+      }
+    },
+    {
+      "id": "146794",
+      "name": "146794 Giga-P - Electric Angel",
+      "beatmapset_id": 146794,
+      "audio_filename": "146794 Giga-P - Electric Angel.mp3",
+      "audio_md5": "c98a87bfc83b62339da34b2765df4ac8",
+      "audio_bytes": 4601230,
+      "original_audio_path": "146794 Giga-P - Electric Angel/Kagamine Rin & LenElectricAngel.mp3",
+      "linked_osu_path": "146794 Giga-P - Electric Angel/Giga-P - Electric Angel (pkmnyab) [Hard].osu",
+      "confidence": "6",
+      "annotations": {
+        "raw/146794 Giga-P - Electric Angel.arc": "1b1f31db520a669cfb2b3b0afca4d512",
+        "beatlab/146794 Giga-P - Electric Angel.lab": "72c42aa89ca6d66284b83ca34d1fc61f",
+        "chordlab/146794 Giga-P - Electric Angel.lab": "15b0dfe03c189090a9cdedbe20c308ee",
+        "keylab/146794 Giga-P - Electric Angel.lab": "13c2265b11ea50b619dc89e113f564ed"
+      }
+    },
+    {
+      "id": "150858",
+      "name": "150858 Richard Clayderman - Les premiers sourires de Vanessa",
+      "beatmapset_id": 150858,
+      "audio_filename": "150858 Richard Clayderman - Les premiers sourires de Vanessa.mp3",
+      "audio_md5": "532952b29e15bc872ed7ddc8f6835c14",
+      "audio_bytes": 2640589,
+      "original_audio_path": "150858 Richard Clayderman - Les premiers sourires de Vanessa/LES PREMIERS SOURIRES DE VANESSA.mp3",
+      "linked_osu_path": "150858 Richard Clayderman - Les premiers sourires de Vanessa/Richard Clayderman - Les premiers sourires de Vanessa (liangv587) [Normal].osu",
+      "confidence": "6",
+      "annotations": {
+        "raw/150858 Richard Clayderman - Les premiers sourires de Vanessa.arc": "d8e6b103534a229c716375d27b5f3f50",
+        "beatlab/150858 Richard Clayderman - Les premiers sourires de Vanessa.lab": "c606098cbabe53c1fd811883b1b6faaa",
+        "chordlab/150858 Richard Clayderman - Les premiers sourires de Vanessa.lab": "b1e2068d5cf76e214cf1d4c9190ea094",
+        "keylab/150858 Richard Clayderman - Les premiers sourires de Vanessa.lab": "adb86d45c07cf719853be2bf63d6534b"
+      }
+    },
+    {
+      "id": "151219",
+      "name": "151219 a_hisa - Fairy Dance",
+      "beatmapset_id": 151219,
+      "audio_filename": "151219 a_hisa - Fairy Dance.mp3",
+      "audio_md5": "824acd802113c9ee1a3209839597862c",
+      "audio_bytes": 4603055,
+      "original_audio_path": "151219 a_hisa - Fairy Dance/fairy.mp3",
+      "linked_osu_path": "151219 a_hisa - Fairy Dance/a_hisa - Fairy Dance (Priti) [Heavy].osu",
+      "confidence": "3",
+      "annotations": {
+        "raw/151219 a_hisa - Fairy Dance.arc": "1fa3fbf3fab26379a064cd3725b69b5c",
+        "beatlab/151219 a_hisa - Fairy Dance.lab": "495b6834fbda20295f6fedcf7577d076",
+        "chordlab/151219 a_hisa - Fairy Dance.lab": "b13ba3d3dd53ba252ba2f6479d73e082",
+        "keylab/151219 a_hisa - Fairy Dance.lab": "42e408f53aee638eaa8004760fda1015"
+      }
+    },
+    {
+      "id": "152709",
+      "name": "152709 BURTON - Shinonomegiku",
+      "beatmapset_id": 152709,
+      "audio_filename": "152709 BURTON - Shinonomegiku.mp3",
+      "audio_md5": "f53beaa6dc70466b98fd85269ebfa197",
+      "audio_bytes": 3680931,
+      "original_audio_path": "152709 BURTON - Shinonomegiku/Shinonomegiku.mp3",
+      "linked_osu_path": "152709 BURTON - Shinonomegiku/BURTON - Shinonomegiku ([_Crystal]) [Hard].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/152709 BURTON - Shinonomegiku.arc": "e79470350741cfe9a6f20f42cf6ca307",
+        "beatlab/152709 BURTON - Shinonomegiku.lab": "37e73f572a500c31f39d27b522c22c7b",
+        "chordlab/152709 BURTON - Shinonomegiku.lab": "979b2f507c671a1ea2a5a25937bf8842",
+        "keylab/152709 BURTON - Shinonomegiku.lab": "01df9121fb448f40d2bc1f639837f914"
+      }
+    },
+    {
+      "id": "155288",
+      "name": "155288 kors k - Insane Techniques",
+      "beatmapset_id": 155288,
+      "audio_filename": "155288 kors k - Insane Techniques.mp3",
+      "audio_md5": "d7d242c8096c7edb37846f81100591dc",
+      "audio_bytes": 3036442,
+      "original_audio_path": "155288 kors k - Insane Techniques/Insane Techniques.mp3",
+      "linked_osu_path": "155288 kors k - Insane Techniques/kors k - Insane Techniques (captin1) [Another].osu",
+      "confidence": "6",
+      "annotations": {
+        "raw/155288 kors k - Insane Techniques.arc": "0b7324118372f2372cdc2f08cf9ca05d",
+        "beatlab/155288 kors k - Insane Techniques.lab": "a2d725026f30f8d637fa9da8fa85ba63",
+        "chordlab/155288 kors k - Insane Techniques.lab": "d134250d9fd228e204d9f1318b80b8e9",
+        "keylab/155288 kors k - Insane Techniques.lab": "b39b8638fe5281461c032e6647a49774"
+      }
+    },
+    {
+      "id": "15781",
+      "name": "15781 Giorgia - Gocce Di Memoria (Instrumental)",
+      "beatmapset_id": 15781,
+      "audio_filename": "15781 Giorgia - Gocce Di Memoria (Instrumental).mp3",
+      "audio_md5": "35745f8cab5892a8d247de4bb2445a49",
+      "audio_bytes": 2775109,
+      "original_audio_path": "15781 Giorgia - Gocce Di Memoria (Instrumental)/Giorgia - Gocce Di Memoria (Instrumental).mp3",
+      "linked_osu_path": "15781 Giorgia - Gocce Di Memoria (Instrumental)/Giorgia - Gocce Di Memoria (Instrumental) (osuplayer111) [Hard].osu",
+      "confidence": "6",
+      "annotations": {
+        "raw/15781 Giorgia - Gocce Di Memoria (Instrumental).arc": "487a1228e31aff1aa4a3964720e435f1",
+        "beatlab/15781 Giorgia - Gocce Di Memoria (Instrumental).lab": "feb3856815b58c824a7f5c3cddc4aa57",
+        "chordlab/15781 Giorgia - Gocce Di Memoria (Instrumental).lab": "360f9a383dec9206c76c91d0500a45e7",
+        "keylab/15781 Giorgia - Gocce Di Memoria (Instrumental).lab": "7079ce759244a89225288860404a06a7"
+      }
+    },
+    {
+      "id": "166239",
+      "name": "166239 Nishiura Tomohito - Shop",
+      "beatmapset_id": 166239,
+      "audio_filename": "166239 Nishiura Tomohito - Shop.mp3",
+      "audio_md5": "3bca9bc0a0f74cc0ae591796a5eaeb55",
+      "audio_bytes": 1004887,
+      "original_audio_path": "166239 Nishiura Tomohito - Shop/120-shop.mp3",
+      "linked_osu_path": "166239 Nishiura Tomohito - Shop/Nishiura Tomohito - Shop (samplefish) [Normal].osu",
+      "confidence": "6",
+      "annotations": {
+        "raw/166239 Nishiura Tomohito - Shop.arc": "43df12225a73c7d9dac398d159b9df05",
+        "beatlab/166239 Nishiura Tomohito - Shop.lab": "6044fd53d6379654ad32948ff7cc8300",
+        "chordlab/166239 Nishiura Tomohito - Shop.lab": "3e3dc7389c61ea3d1c0ac433c31e280d",
+        "keylab/166239 Nishiura Tomohito - Shop.lab": "f73d71fdeba32f3be4fea97bf6227a5e",
+        "osumaplab/166239 Nishiura Tomohito - Shop.lab": "2052b56d550ef6abfba69b884c00fe66",
+        "osumaplab/166239 Nishiura Tomohito - Shop.linkedInfo": "b12cd9e64dd82be9cf1a5935aaf64412"
+      }
+    },
+    {
+      "id": "167225",
+      "name": "167225 LhoU - Highlander",
+      "beatmapset_id": 167225,
+      "audio_filename": "167225 LhoU - Highlander.mp3",
+      "audio_md5": "c001bba740ac192558129a560247c766",
+      "audio_bytes": 3276415,
+      "original_audio_path": "167225 LhoU - Highlander/Highlander.mp3",
+      "linked_osu_path": "167225 LhoU - Highlander/LhoU - Highlander (Cherry Blossom) [Kin's Beginner].osu",
+      "confidence": "6",
+      "annotations": {
+        "raw/167225 LhoU - Highlander.arc": "73c0afc98ec0000cbd14ae09c2fdc0a0",
+        "beatlab/167225 LhoU - Highlander.lab": "eed863d634d94db99952a7f08f9d664d",
+        "chordlab/167225 LhoU - Highlander.lab": "c4c0206788a767c0377ce46595fbee78",
+        "keylab/167225 LhoU - Highlander.lab": "14aefe5bec97ff33ef2ebb1d4056a190"
+      }
+    },
+    {
+      "id": "168161",
+      "name": "168161 Kajiura Yuki - Himeboshi",
+      "beatmapset_id": 168161,
+      "audio_filename": "168161 Kajiura Yuki - Himeboshi.mp3",
+      "audio_md5": "fd2adb81e1493bc8291307e62dbf8d5c",
+      "audio_bytes": 3912705,
+      "original_audio_path": "168161 Kajiura Yuki - Himeboshi/Ensei.mp3",
+      "linked_osu_path": "168161 Kajiura Yuki - Himeboshi/Kajiura Yuki - Himeboshi (Papcio) [Heaven].osu",
+      "confidence": "6",
+      "annotations": {
+        "raw/168161 Kajiura Yuki - Himeboshi.arc": "e64b2c1dca65dff47c2a20dae60c68c1",
+        "beatlab/168161 Kajiura Yuki - Himeboshi.lab": "bdb25832caddfdda77efe541b2c1ac67",
+        "chordlab/168161 Kajiura Yuki - Himeboshi.lab": "6cf4a2dd064d7060424337b1f29b1da3",
+        "keylab/168161 Kajiura Yuki - Himeboshi.lab": "ac5601f10fa175e047aa5f4d383b3eb0"
+      }
+    },
+    {
+      "id": "16893",
+      "name": "16893 Banya - Beethoven Virus (Full ver)",
+      "beatmapset_id": 16893,
+      "audio_filename": "16893 Banya - Beethoven Virus (Full ver).mp3",
+      "audio_md5": "0301620c1137d06cb9c1b174f5ec485e",
+      "audio_bytes": 6910034,
+      "original_audio_path": "16893 Banya - Beethoven Virus (Full ver)/Beethoven Virus.mp3",
+      "linked_osu_path": "16893 Banya - Beethoven Virus (Full ver)/Banya - Beethoven Virus (Full ver.) (wmfchris) [Climbb and Vikon's Hard].osu",
+      "confidence": "6",
+      "annotations": {
+        "raw/16893 Banya - Beethoven Virus (Full ver).arc": "2e6870db03e51225eb1c882a0977756a",
+        "beatlab/16893 Banya - Beethoven Virus (Full ver).lab": "fd9b4d15657c9a14943046fc9134b9ca",
+        "chordlab/16893 Banya - Beethoven Virus (Full ver).lab": "fccbcd56408171f512f21cd54de0be16",
+        "keylab/16893 Banya - Beethoven Virus (Full ver).lab": "855a908d3393128c532ba68ee54dac0d"
+      }
+    },
+    {
+      "id": "170677",
+      "name": "170677 Judy Huang - Yi Zhi Hen An Jing",
+      "beatmapset_id": 170677,
+      "audio_filename": "170677 Judy Huang - Yi Zhi Hen An Jing.mp3",
+      "audio_md5": "f71b559b0b03a593ad3058f8e186d2c9",
+      "audio_bytes": 3931042,
+      "original_audio_path": "170677 Judy Huang - Yi Zhi Hen An Jing/.mp3",
+      "linked_osu_path": "170677 Judy Huang - Yi Zhi Hen An Jing/Judy Huang - Yi Zhi Hen An Jing (LZCSC) [Easy].osu",
+      "confidence": "6",
+      "annotations": {
+        "raw/170677 Judy Huang - Yi Zhi Hen An Jing.arc": "34fdc4e4f9645a703339cb5f0650696f",
+        "beatlab/170677 Judy Huang - Yi Zhi Hen An Jing.lab": "e6955960570853d48161d8f0c8671952",
+        "chordlab/170677 Judy Huang - Yi Zhi Hen An Jing.lab": "9184bb0fca429c72dd8eac3fab99a1c2",
+        "keylab/170677 Judy Huang - Yi Zhi Hen An Jing.lab": "85d7631420660e4bd97e04a879eddc44"
+      }
+    },
+    {
+      "id": "171676",
+      "name": "171676 SHK - Identity Part 5",
+      "beatmapset_id": 171676,
+      "audio_filename": "171676 SHK - Identity Part 5.mp3",
+      "audio_md5": "2b9385c5cd9fb95f5da58b87593d4628",
+      "audio_bytes": 3267648,
+      "original_audio_path": "171676 SHK - Identity Part 5/identity part 5.mp3",
+      "linked_osu_path": "171676 SHK - Identity Part 5/SHK - Identity Part 5 ([Twinkle]) [ExtrA].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/171676 SHK - Identity Part 5.arc": "a1fa355a0a15d2ac1e62dc0546a9c446",
+        "beatlab/171676 SHK - Identity Part 5.lab": "753409fc39049f6c7147ca419b97e1ed",
+        "chordlab/171676 SHK - Identity Part 5.lab": "f0a34af7e267ccaf72ac266f1d15374c",
+        "keylab/171676 SHK - Identity Part 5.lab": "12e82e9f9121bd72ed15581d2675b021"
+      }
+    },
+    {
+      "id": "173422",
+      "name": "173422 Studio EIM - Crescent Moon Island Boss Theme",
+      "beatmapset_id": 173422,
+      "audio_filename": "173422 Studio EIM - Crescent Moon Island Boss Theme.mp3",
+      "audio_md5": "e1958d734fe7a864bf3723f14bf4b9fc",
+      "audio_bytes": 3054235,
+      "original_audio_path": "173422 Studio EIM - Crescent Moon Island Boss Theme/bgm_s2ep1.mp3",
+      "linked_osu_path": "173422 Studio EIM - Crescent Moon Island Boss Theme/Studio EIM - Crescent Moon Island Boss Theme (Rakuen) [[ -Scarlet- ]'s Extra].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/173422 Studio EIM - Crescent Moon Island Boss Theme.arc": "0c25d3fb6ff063664a29b6b89f09a4ed",
+        "beatlab/173422 Studio EIM - Crescent Moon Island Boss Theme.lab": "f8b17adf7d587b6a4ccf322b2fe18556",
+        "chordlab/173422 Studio EIM - Crescent Moon Island Boss Theme.lab": "567d6f80e9ee145dc52f5d37bc50a468",
+        "keylab/173422 Studio EIM - Crescent Moon Island Boss Theme.lab": "94bd953ec93167fdb9c12c8cf245caf8",
+        "osumaplab/173422 Studio EIM - Crescent Moon Island Boss Theme.lab": "6ef6ace2ef376bf902f9dfaa72226b65",
+        "osumaplab/173422 Studio EIM - Crescent Moon Island Boss Theme.linkedInfo": "8df10b6f84af7b3810482df12f47e3f5"
+      }
+    },
+    {
+      "id": "175846",
+      "name": "175846 Gresby Nash - Fan Forever",
+      "beatmapset_id": 175846,
+      "audio_filename": "175846 Gresby Nash - Fan Forever.mp3",
+      "audio_md5": "28db11f63ece4afdf2fb289be84cf3b3",
+      "audio_bytes": 2963578,
+      "original_audio_path": "175846 Gresby Nash - Fan Forever/Gresby Nash - Fan Forever.mp3",
+      "linked_osu_path": "175846 Gresby Nash - Fan Forever/Gresby Nash - Fan Forever (Nozhomi) [Hard].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/175846 Gresby Nash - Fan Forever.arc": "1b5fed0e4be953912b70e3f3cfd84235",
+        "beatlab/175846 Gresby Nash - Fan Forever.lab": "910c0c2a4b3d5ff16ef0a205eebd65eb",
+        "chordlab/175846 Gresby Nash - Fan Forever.lab": "f3f3e6a28879a234a8d1fe13a04c9052",
+        "keylab/175846 Gresby Nash - Fan Forever.lab": "01b679f0ef2ee88f5613758f48b4701a",
+        "osumaplab/175846 Gresby Nash - Fan Forever.lab": "21375fe01482242d42c361e5ed6b1966",
+        "osumaplab/175846 Gresby Nash - Fan Forever.linkedInfo": "cdfe498c7cde58604c3976bdccd883e0"
+      }
+    },
+    {
+      "id": "176183",
+      "name": "176183 Jay Chou - Niu Zai Hen Mang",
+      "beatmapset_id": 176183,
+      "audio_filename": "176183 Jay Chou - Niu Zai Hen Mang.mp3",
+      "audio_md5": "e519ebdd6035ca592f3d5e2d280b268e",
+      "audio_bytes": 2365613,
+      "original_audio_path": "176183 Jay Chou - Niu Zai Hen Mang/NZHM.mp3",
+      "linked_osu_path": "176183 Jay Chou - Niu Zai Hen Mang/Jay Chou - Niu Zai Hen Mang (yf_bmp) [baka's Insane].osu",
+      "confidence": "6",
+      "annotations": {
+        "raw/176183 Jay Chou - Niu Zai Hen Mang.arc": "95eb29c2de76eca7c352f1895da7db38",
+        "beatlab/176183 Jay Chou - Niu Zai Hen Mang.lab": "22db74f346c670d95c25bca5258b75bd",
+        "chordlab/176183 Jay Chou - Niu Zai Hen Mang.lab": "c2798dbab958992f981f7dcaefb6318c",
+        "keylab/176183 Jay Chou - Niu Zai Hen Mang.lab": "809b09c58f016433b70a5ad0e2d4ab2c"
+      }
+    },
+    {
+      "id": "182271",
+      "name": "182271 ginkiha - Oriens",
+      "beatmapset_id": 182271,
+      "audio_filename": "182271 ginkiha - Oriens.mp3",
+      "audio_md5": "f2b88d4dbeacdc8d1f724ef2921912d0",
+      "audio_bytes": 3163532,
+      "original_audio_path": "182271 ginkiha - Oriens/Ginkiha - Oriens.mp3",
+      "linked_osu_path": "182271 ginkiha - Oriens/ginkiha - Oriens (Kloyd) [Elvis' Extreme].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/182271 ginkiha - Oriens.arc": "17c9e11d4c639435584d12e475b2878b",
+        "beatlab/182271 ginkiha - Oriens.lab": "d44ba8abf1b29e3cdfae2ae4413f60e0",
+        "chordlab/182271 ginkiha - Oriens.lab": "8a35c7367ca29372f9957c5569011a81",
+        "keylab/182271 ginkiha - Oriens.lab": "be6258be10b30d212748c3e506fa252f",
+        "osumaplab/182271 ginkiha - Oriens.lab": "ce75a6a93f780e8396411fcc385b59c8",
+        "osumaplab/182271 ginkiha - Oriens.linkedInfo": "d057e7c61541e4c9cbd29dc1ef552b56"
+      }
+    },
+    {
+      "id": "183656",
+      "name": "183656 Mutsuhiko Izumi - Tengoku to Jigoku",
+      "beatmapset_id": 183656,
+      "audio_filename": "183656 Mutsuhiko Izumi - Tengoku to Jigoku.mp3",
+      "audio_md5": "0ede8eb6371ebbaec2835c8bf208d90b",
+      "audio_bytes": 2566371,
+      "original_audio_path": "183656 Mutsuhiko Izumi - Tengoku to Jigoku/tengoku to jigoku.mp3",
+      "linked_osu_path": "183656 Mutsuhiko Izumi - Tengoku to Jigoku/Mutsuhiko Izumi - Tengoku to Jigoku (N a s y a) [Beginner].osu",
+      "confidence": "5",
+      "annotations": {
+        "raw/183656 Mutsuhiko Izumi - Tengoku to Jigoku.arc": "735858dca07da428f69813e1d7d86b7e",
+        "beatlab/183656 Mutsuhiko Izumi - Tengoku to Jigoku.lab": "4ef9c724dbe90f9f4e8df17e629dbf75",
+        "chordlab/183656 Mutsuhiko Izumi - Tengoku to Jigoku.lab": "f2c8a4de116d52d86d6e5d3016951e71",
+        "keylab/183656 Mutsuhiko Izumi - Tengoku to Jigoku.lab": "f0fcd409025db7dc89c6bf092e2e5ee8"
+      }
+    },
+    {
+      "id": "18428",
+      "name": "18428 RSP - Sakura ~Anata ni Deaete Yokatta~",
+      "beatmapset_id": 18428,
+      "audio_filename": "18428 RSP - Sakura ~Anata ni Deaete Yokatta~.mp3",
+      "audio_md5": "8f44e7eb00a2b4f04d785f55b8d3b6e0",
+      "audio_bytes": 7255608,
+      "original_audio_path": "18428 RSP - Sakura ~Anata ni Deaete Yokatta~/Sakura ~Anata ni Deaete Yokatta~.mp3",
+      "linked_osu_path": "18428 RSP - Sakura ~Anata ni Deaete Yokatta~/RSP - Sakura ~Anata ni Deaete Yokatta~ (DarkRingSystem) [Hard].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/18428 RSP - Sakura ~Anata ni Deaete Yokatta~.arc": "db2deaf4c89fe1c04cfc80aa85a790be",
+        "beatlab/18428 RSP - Sakura ~Anata ni Deaete Yokatta~.lab": "5b840ae4e45c2d1dac0f9e02f493490c",
+        "chordlab/18428 RSP - Sakura ~Anata ni Deaete Yokatta~.lab": "fa381d415705fbe295efbaec20430ec7",
+        "keylab/18428 RSP - Sakura ~Anata ni Deaete Yokatta~.lab": "4d32d6548d7e6fe33cf4ae6e5e4b12e0"
+      }
+    },
+    {
+      "id": "186457",
+      "name": "186457 Kan R Gao - Once Upon a Memory",
+      "beatmapset_id": 186457,
+      "audio_filename": "186457 Kan R Gao - Once Upon a Memory.mp3",
+      "audio_md5": "32b36dfeb00085824cae0ab9a4e28e31",
+      "audio_bytes": 3490366,
+      "original_audio_path": "186457 Kan R Gao - Once Upon a Memory/Once Upon a Memory.mp3",
+      "linked_osu_path": "186457 Kan R Gao - Once Upon a Memory/Kan R. Gao - Once Upon a Memory (Neil Watts) [Easy].osu",
+      "confidence": "6",
+      "annotations": {
+        "raw/186457 Kan R Gao - Once Upon a Memory.arc": "358e294f4af47d3a9e2645351a8cc24d",
+        "beatlab/186457 Kan R Gao - Once Upon a Memory.lab": "b2138f4bb9ba4d34896326d3aa280cef",
+        "chordlab/186457 Kan R Gao - Once Upon a Memory.lab": "0157fc1ee75afc6771a4495c6095fdb4",
+        "keylab/186457 Kan R Gao - Once Upon a Memory.lab": "82b97f2b7175310b034bc140b7278fa4"
+      }
+    },
+    {
+      "id": "186767",
+      "name": "186767 StylipS - Spica (TV-size)",
+      "beatmapset_id": 186767,
+      "audio_filename": "186767 StylipS - Spica (TV-size).mp3",
+      "audio_md5": "1929b01a3d6590b45f8257f69dc9662d",
+      "audio_bytes": 2161815,
+      "original_audio_path": "186767 StylipS - Spica (TV-size)/Stylips-Spica.mp3",
+      "linked_osu_path": "186767 StylipS - Spica (TV-size)/StylipS - Spica. (TV-size) (No Dap) [Hard].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/186767 StylipS - Spica (TV-size).arc": "5a30739c05036f5a0f685ffd74276d5a",
+        "beatlab/186767 StylipS - Spica (TV-size).lab": "02bf29bbd17d8e5c088ae7dd3b0b3b43",
+        "chordlab/186767 StylipS - Spica (TV-size).lab": "ad55e17d75925ce964d02ce344ba23ac",
+        "keylab/186767 StylipS - Spica (TV-size).lab": "9f81a515a1dae42646ab93b91f302237"
+      }
+    },
+    {
+      "id": "190284",
+      "name": "190284 Disasterpeace - Love",
+      "beatmapset_id": 190284,
+      "audio_filename": "190284 Disasterpeace - Love.mp3",
+      "audio_md5": "fdf0aab4d4a8738f50776d3da508afcb",
+      "audio_bytes": 1014017,
+      "original_audio_path": "190284 Disasterpeace - Love/Disasterpeace - Love.mp3",
+      "linked_osu_path": "190284 Disasterpeace - Love/Disasterpeace - Love (Leader) [Hard].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/190284 Disasterpeace - Love.arc": "7b7c32ba511dbb62057edc68f889c3c4",
+        "beatlab/190284 Disasterpeace - Love.lab": "d81a5409aed6132c90aedc65ca4552fc",
+        "chordlab/190284 Disasterpeace - Love.lab": "98c042673256c1ee0a01257806bd973a",
+        "keylab/190284 Disasterpeace - Love.lab": "306eea350aa5e079a211d2aad237797c"
+      }
+    },
+    {
+      "id": "199998",
+      "name": "199998 Martynas - Hungarian Dance No 5 in G minor",
+      "beatmapset_id": 199998,
+      "audio_filename": "199998 Martynas - Hungarian Dance No 5 in G minor.mp3",
+      "audio_md5": "2fe70c32975c1dff6628b08a74b62891",
+      "audio_bytes": 2418001,
+      "original_audio_path": "199998 Martynas - Hungarian Dance No 5 in G minor/Hungarian dance No.5 in G minor (Brahms).mp3",
+      "linked_osu_path": "199998 Martynas - Hungarian Dance No 5 in G minor/Martynas - Hungarian Dance No. 5 in G minor (Sieg) [Advanced].osu",
+      "confidence": "3",
+      "annotations": {
+        "raw/199998 Martynas - Hungarian Dance No 5 in G minor.arc": "5f3237a9a1fe3f7a29bc2cd0c1350617",
+        "beatlab/199998 Martynas - Hungarian Dance No 5 in G minor.lab": "08ac0f1f43ffe18a1364bcfa3c5d8eef",
+        "chordlab/199998 Martynas - Hungarian Dance No 5 in G minor.lab": "b1e9ca48a2f2fc76a62db63ae91083b2",
+        "keylab/199998 Martynas - Hungarian Dance No 5 in G minor.lab": "db9580879f40b3464236b85326ab8a12"
+      }
+    },
+    {
+      "id": "206284",
+      "name": "206284 FELT - In my room",
+      "beatmapset_id": 206284,
+      "audio_filename": "206284 FELT - In my room.mp3",
+      "audio_md5": "ada9d1aeabdabf7c2c20b02d2cb55d6d",
+      "audio_bytes": 949845,
+      "original_audio_path": "206284 FELT - In my room/In my room.mp3",
+      "linked_osu_path": "206284 FELT - In my room/FELT - In my room (Aka) [Easy].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/206284 FELT - In my room.arc": "7351964b16ccb13a1054b6081e7cad78",
+        "beatlab/206284 FELT - In my room.lab": "0f8d1ff4eb2882c2a2ca754c0c8c3fee",
+        "chordlab/206284 FELT - In my room.lab": "f57bd91d592f8b6750df3522ba3008cc",
+        "keylab/206284 FELT - In my room.lab": "fbdc6ff955b7571e35daaebf492d33c4"
+      }
+    },
+    {
+      "id": "208112",
+      "name": "208112 Kitamura Eri & Nonaka Ai - and I'm home",
+      "beatmapset_id": 208112,
+      "audio_filename": "208112 Kitamura Eri & Nonaka Ai - and I'm home.mp3",
+      "audio_md5": "bce9f922c071aa37c3db15d75c287a35",
+      "audio_bytes": 4084724,
+      "original_audio_path": "208112 Kitamura Eri & Nonaka Ai - and I'm home/and im home mp3.mp3",
+      "linked_osu_path": "208112 Kitamura Eri & Nonaka Ai - and I'm home/Kitamura Eri & Nonaka Ai - and I'm home (kakifly) [Easy].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/208112 Kitamura Eri & Nonaka Ai - and I'm home.arc": "af0f1c78945ab9c672df694804f83e8f",
+        "beatlab/208112 Kitamura Eri & Nonaka Ai - and I'm home.lab": "1dfc215e5c10d214a22246d9ecfb8bcc",
+        "chordlab/208112 Kitamura Eri & Nonaka Ai - and I'm home.lab": "972a0e241858315155510d3ba4494f87",
+        "keylab/208112 Kitamura Eri & Nonaka Ai - and I'm home.lab": "15a96f42c964df9199a2d42af04281ca"
+      }
+    },
+    {
+      "id": "209841",
+      "name": "209841 Otokaze - KaeriMichi",
+      "beatmapset_id": 209841,
+      "audio_filename": "209841 Otokaze - KaeriMichi.mp3",
+      "audio_md5": "113b806b24e5a1e1be42adf15a708e81",
+      "audio_bytes": 2789294,
+      "original_audio_path": "209841 Otokaze - KaeriMichi/KaeriMichi.mp3",
+      "linked_osu_path": "209841 Otokaze - KaeriMichi/Otokaze - KaeriMichi (Narcissu) [Easy].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/209841 Otokaze - KaeriMichi.arc": "488385d40eccf0c085e98b8d7b18e92d",
+        "beatlab/209841 Otokaze - KaeriMichi.lab": "2cff1f565ba6e62a4d8676665fc604d9",
+        "chordlab/209841 Otokaze - KaeriMichi.lab": "b7e15eb59d4d5d01e2b81cb077b31d4e",
+        "keylab/209841 Otokaze - KaeriMichi.lab": "3e1da43a2e10c47006c87a6322b2b76f",
+        "osumaplab/209841 Otokaze - KaeriMichi.lab": "a51be82de573d7d4aaeb6cce9d316ce7",
+        "osumaplab/209841 Otokaze - KaeriMichi.linkedInfo": "0e7de3585afcf9c632578f0c7f0ee0f0"
+      }
+    },
+    {
+      "id": "21544",
+      "name": "21544 Shadow - EarthBound Bus! (OC ReMix)",
+      "beatmapset_id": 21544,
+      "audio_filename": "21544 Shadow - EarthBound Bus! (OC ReMix).mp3",
+      "audio_md5": "1d7a7bb8ecefdd0aa8d8361ec84a1472",
+      "audio_bytes": 1744960,
+      "original_audio_path": "21544 Shadow - EarthBound Bus! (OC ReMix)/Earthbound_Bus!_OC_ReMix.mp3",
+      "linked_osu_path": "21544 Shadow - EarthBound Bus! (OC ReMix)/Shadow - EarthBound Bus! (OC ReMix) (theMikeAG) [Easy].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/21544 Shadow - EarthBound Bus! (OC ReMix).arc": "2cf9f4fb60f59ad716edb2eae7e823fa",
+        "beatlab/21544 Shadow - EarthBound Bus! (OC ReMix).lab": "0218dfa2d25324c0cc37684b1881d50b",
+        "chordlab/21544 Shadow - EarthBound Bus! (OC ReMix).lab": "b8433b33729843a5616a5e84b745132a",
+        "keylab/21544 Shadow - EarthBound Bus! (OC ReMix).lab": "4ad964f272c8a006ee06dfe196231eda"
+      }
+    },
+    {
+      "id": "217444",
+      "name": "217444 Woofle and Strife - Fortune Night 1",
+      "beatmapset_id": 217444,
+      "audio_filename": "217444 Woofle and Strife - Fortune Night 1.mp3",
+      "audio_md5": "b41b569cf448bb8d75a02973755bb095",
+      "audio_bytes": 3921934,
+      "original_audio_path": "217444 Woofle and Strife - Fortune Night 1/Woofle and Strife - Freedom Planet Official Soundtrack - 16 Fortune Night 1.mp3",
+      "linked_osu_path": "217444 Woofle and Strife - Fortune Night 1/Woofle and Strife - Fortune Night 1 (Pereira006) [Easy].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/217444 Woofle and Strife - Fortune Night 1.arc": "78358190c1b6b9be5887d015105ef81d",
+        "beatlab/217444 Woofle and Strife - Fortune Night 1.lab": "2f90b34f95cd087f568a88ccde2a82ce",
+        "chordlab/217444 Woofle and Strife - Fortune Night 1.lab": "9395fd030877433a5d36ce790ea2d3cb",
+        "keylab/217444 Woofle and Strife - Fortune Night 1.lab": "1f5789fcfff54f6b65db634b2b863227"
+      }
+    },
+    {
+      "id": "219763",
+      "name": "219763 Drop - Granat",
+      "beatmapset_id": 219763,
+      "audio_filename": "219763 Drop - Granat.mp3",
+      "audio_md5": "0acdfb2ab68be01068aa67675ee61c45",
+      "audio_bytes": 1132494,
+      "original_audio_path": "219763 Drop - Granat/Drop - Granat.mp3",
+      "linked_osu_path": "219763 Drop - Granat/Drop - Granat (Kaguya Hourain) [Easy].osu",
+      "confidence": "5",
+      "annotations": {
+        "raw/219763 Drop - Granat.arc": "425f5727af68101c3c9f9da6e0b751de",
+        "beatlab/219763 Drop - Granat.lab": "31fc24c4db15d034bca6dd06a91073d4",
+        "chordlab/219763 Drop - Granat.lab": "e15158413f05e8013c1c5f03279bd652",
+        "keylab/219763 Drop - Granat.lab": "08156a354d50983b05f671eb60cd780d"
+      }
+    },
+    {
+      "id": "228465",
+      "name": "228465 Alastair Gavin - Together Again (Commercial Cuts 2)",
+      "beatmapset_id": 228465,
+      "audio_filename": "228465 Alastair Gavin - Together Again (Commercial Cuts 2).mp3",
+      "audio_md5": "648e3d826d89c5bf871a39616828e20e",
+      "audio_bytes": 894540,
+      "original_audio_path": "228465 Alastair Gavin - Together Again (Commercial Cuts 2)/ets.mp3",
+      "linked_osu_path": "228465 Alastair Gavin - Together Again (Commercial Cuts 2)/Alastair Gavin - Together Again (Commercial Cuts 2) (Regraz) [Crystal's Insane].osu",
+      "confidence": "6",
+      "annotations": {
+        "raw/228465 Alastair Gavin - Together Again (Commercial Cuts 2).arc": "9d9dc84d2f6f7c481e07acb518a51b85",
+        "beatlab/228465 Alastair Gavin - Together Again (Commercial Cuts 2).lab": "d1d94de4b2afc68845e6a198d80eaca9",
+        "chordlab/228465 Alastair Gavin - Together Again (Commercial Cuts 2).lab": "9f28467a81dc9e8b4914581a34355940",
+        "keylab/228465 Alastair Gavin - Together Again (Commercial Cuts 2).lab": "8225c071271e5e49c56bdd1d29d51f63"
+      }
+    },
+    {
+      "id": "229393",
+      "name": "229393 HoneyWorks - Hatsukoi no Ehon featAida Miou(CV-Toyosaki Aki)",
+      "beatmapset_id": 229393,
+      "audio_filename": "229393 HoneyWorks - Hatsukoi no Ehon featAida Miou(CV-Toyosaki Aki).mp3",
+      "audio_md5": "45887157bd1b0642624dc81f6c6de097",
+      "audio_bytes": 4793472,
+      "original_audio_path": "229393 HoneyWorks - Hatsukoi no Ehon featAida Miou(CV-Toyosaki Aki)/Hatsukoi no Ehon.mp3",
+      "linked_osu_path": "229393 HoneyWorks - Hatsukoi no Ehon featAida Miou(CV-Toyosaki Aki)/HoneyWorks - Hatsukoi no Ehon feat.Aida Miou(CVToyosaki Aki) (Guy) [Extra].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/229393 HoneyWorks - Hatsukoi no Ehon featAida Miou(CV-Toyosaki Aki).arc": "bd38d5f2384be93a5f2506243a718495",
+        "beatlab/229393 HoneyWorks - Hatsukoi no Ehon featAida Miou(CV-Toyosaki Aki).lab": "e2a32abaf7c23eb723c04f967a611a6e",
+        "chordlab/229393 HoneyWorks - Hatsukoi no Ehon featAida Miou(CV-Toyosaki Aki).lab": "f21807567940f3038143eef8c8bc36d4",
+        "keylab/229393 HoneyWorks - Hatsukoi no Ehon featAida Miou(CV-Toyosaki Aki).lab": "54806d9bcbee8dd91f5c09a62b5ba7ac"
+      }
+    },
+    {
+      "id": "231257",
+      "name": "231257 Kajiura Yuki - Noi!",
+      "beatmapset_id": 231257,
+      "audio_filename": "231257 Kajiura Yuki - Noi!.mp3",
+      "audio_md5": "b1be6bf7905132361e7dae70484cd53f",
+      "audio_bytes": 1408339,
+      "original_audio_path": "231257 Kajiura Yuki - Noi!/32. Noi!.mp3",
+      "linked_osu_path": "231257 Kajiura Yuki - Noi!/Kajiura Yuki - Noi! (ryuu) [Easy].osu",
+      "confidence": "6",
+      "annotations": {
+        "raw/231257 Kajiura Yuki - Noi!.arc": "e32655b7e4c1a2e0ab5778bcc8cafcdc",
+        "beatlab/231257 Kajiura Yuki - Noi!.lab": "07fecf4949e3769a27e079fdb4eb8993",
+        "chordlab/231257 Kajiura Yuki - Noi!.lab": "a40a565e70a676ceef503d800138e5d0",
+        "keylab/231257 Kajiura Yuki - Noi!.lab": "4fc658420882450b912ddfb8b0e99b4c"
+      }
+    },
+    {
+      "id": "233233",
+      "name": "233233 Taylor Swift - Last Christmas",
+      "beatmapset_id": 233233,
+      "audio_filename": "233233 Taylor Swift - Last Christmas.mp3",
+      "audio_md5": "1dddb706ed40622d158036410e3a1aef",
+      "audio_bytes": 1753755,
+      "original_audio_path": "233233 Taylor Swift - Last Christmas/Meri Krismasu.mp3",
+      "linked_osu_path": "233233 Taylor Swift - Last Christmas/Taylor Swift - Last Christmas (Pappy) [Gift].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/233233 Taylor Swift - Last Christmas.arc": "730d5f5ad8ae1de8fb11afa5ed805873",
+        "beatlab/233233 Taylor Swift - Last Christmas.lab": "ad0a401414f451715f3d4f86e5318a92",
+        "chordlab/233233 Taylor Swift - Last Christmas.lab": "72fdf3558fa8e817c15026c29e9fbd7a",
+        "keylab/233233 Taylor Swift - Last Christmas.lab": "f5dfd62806723d6417fc23ef3dd4f4ec",
+        "osumaplab/233233 Taylor Swift - Last Christmas.lab": "12e8dd5a3e9f3264aafd0c7d14ab7e7f",
+        "osumaplab/233233 Taylor Swift - Last Christmas.linkedInfo": "5cc1542a0ca7ad799ae1cbc9fdefea33"
+      }
+    },
+    {
+      "id": "238992",
+      "name": "238992 CCTV - Believe in the power of the brand",
+      "beatmapset_id": 238992,
+      "audio_filename": "238992 CCTV - Believe in the power of the brand.mp3",
+      "audio_md5": "aee8a8bc5b282cb48834f922121bfd53",
+      "audio_bytes": 1328630,
+      "original_audio_path": "238992 CCTV - Believe in the power of the brand/CCTV - Believe in the power of brands.mp3",
+      "linked_osu_path": "238992 CCTV - Believe in the power of the brand/CCTV - Believe in the power of the brand (cmn_891127) [Hard].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/238992 CCTV - Believe in the power of the brand.arc": "183a32a4a4f4e44fefec91fa4b16f9b0",
+        "beatlab/238992 CCTV - Believe in the power of the brand.lab": "f515b69f27b738a5c200e2d92d8d2e33",
+        "chordlab/238992 CCTV - Believe in the power of the brand.lab": "715bab6ea39668fa47244aa39048001a",
+        "keylab/238992 CCTV - Believe in the power of the brand.lab": "30530eb689f665d5839d2783b7337293",
+        "osumaplab/238992 CCTV - Believe in the power of the brand.lab": "fcaf559c3ffaf513972bdd04b2c4899f",
+        "osumaplab/238992 CCTV - Believe in the power of the brand.linkedInfo": "bdea614fc33114be36aabc0c114f0145"
+      }
+    },
+    {
+      "id": "246315",
+      "name": "246315 Apple-ufo - Ano Hi, Natsu no Sora ni(inst)",
+      "beatmapset_id": 246315,
+      "audio_filename": "246315 Apple-ufo - Ano Hi, Natsu no Sora ni(inst).mp3",
+      "audio_md5": "cc24a4c74562c7b1ca90552372efbda0",
+      "audio_bytes": 3653468,
+      "original_audio_path": "246315 Apple-ufo - Ano Hi, Natsu no Sora ni(inst)/08.mp3",
+      "linked_osu_path": "246315 Apple-ufo - Ano Hi, Natsu no Sora ni(inst)/Apple-ufo - Ano Hi, Natsu no Sora ni(inst.) (Kite) [Hard].osu",
+      "confidence": "5",
+      "annotations": {
+        "raw/246315 Apple-ufo - Ano Hi, Natsu no Sora ni(inst).arc": "1691dcac6fab60d38e0dc7a4e155fd0d",
+        "beatlab/246315 Apple-ufo - Ano Hi, Natsu no Sora ni(inst).lab": "edfc07ce38599c7351049f276b6dd8ca",
+        "chordlab/246315 Apple-ufo - Ano Hi, Natsu no Sora ni(inst).lab": "3bc4e8da14fd29e029ad8b55191e099d",
+        "keylab/246315 Apple-ufo - Ano Hi, Natsu no Sora ni(inst).lab": "b5f4d1fc8617b5fb8494afa3af086972"
+      }
+    },
+    {
+      "id": "246679",
+      "name": "246679 Evan Beigel [BMI], Scott Emerson [BMI] - A Running Chip",
+      "beatmapset_id": 246679,
+      "audio_filename": "246679 Evan Beigel [BMI], Scott Emerson [BMI] - A Running Chip.mp3",
+      "audio_md5": "1ddaee88ce31d35bd815c2eb82ff6578",
+      "audio_bytes": 2808352,
+      "original_audio_path": "246679 Evan Beigel [BMI], Scott Emerson [BMI] - A Running Chip/Evan Beigel, Scott Emerson - A Running Chip.mp3",
+      "linked_osu_path": "246679 Evan Beigel [BMI], Scott Emerson [BMI] - A Running Chip/Evan Beigel [BMI], Scott Emerson [BMI] - A Running Chip (Nozhomi) [Advanced].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/246679 Evan Beigel [BMI], Scott Emerson [BMI] - A Running Chip.arc": "04f8bb836eaf0d3c891f8f5f1ecc2152",
+        "beatlab/246679 Evan Beigel [BMI], Scott Emerson [BMI] - A Running Chip.lab": "ea63e385cac4a1c19533939cccd501b3",
+        "chordlab/246679 Evan Beigel [BMI], Scott Emerson [BMI] - A Running Chip.lab": "89514c2147c050896b305bdcd65df33c",
+        "keylab/246679 Evan Beigel [BMI], Scott Emerson [BMI] - A Running Chip.lab": "ef87bd54475bbeebbd3dce39120651f1"
+      }
+    },
+    {
+      "id": "247978",
+      "name": "247978 Studio EIM - Malina BGM",
+      "beatmapset_id": 247978,
+      "audio_filename": "247978 Studio EIM - Malina BGM.mp3",
+      "audio_md5": "6354885d731d75965c987bcc80bb0116",
+      "audio_bytes": 3529129,
+      "original_audio_path": "247978 Studio EIM - Malina BGM/bgm_morvan.mp3",
+      "linked_osu_path": "247978 Studio EIM - Malina BGM/Studio EIM - Malina BGM (Rakuen) [Easy].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/247978 Studio EIM - Malina BGM.arc": "36f41a376c2ab036c6c166573a2caacf",
+        "beatlab/247978 Studio EIM - Malina BGM.lab": "b88e755050333130565e22f29d46bb06",
+        "chordlab/247978 Studio EIM - Malina BGM.lab": "9d4b104bb1d14093b6b456563a48e6df",
+        "keylab/247978 Studio EIM - Malina BGM.lab": "4aae0b0e4b2c6d2c07bfdf2343cbc10c"
+      }
+    },
+    {
+      "id": "25141",
+      "name": "25141 Kalafina - Magia (TV Size)",
+      "beatmapset_id": 25141,
+      "audio_filename": "25141 Kalafina - Magia (TV Size).mp3",
+      "audio_md5": "9dd87f4ffb311c3f954696a00ad41340",
+      "audio_bytes": 2156669,
+      "original_audio_path": "25141 Kalafina - Magia (TV Size)/Magia.mp3",
+      "linked_osu_path": "25141 Kalafina - Magia (TV Size)/Kalafina - Magia (TV Size) (NatsumeRin) [Climbb's Taiko Oni].osu",
+      "confidence": "6",
+      "annotations": {
+        "raw/25141 Kalafina - Magia (TV Size).arc": "46ee5710be43b400dee306aa198b62cf",
+        "beatlab/25141 Kalafina - Magia (TV Size).lab": "45a998c7a0fd9c3555ce1491d1b23045",
+        "chordlab/25141 Kalafina - Magia (TV Size).lab": "6e36ad5d2e4585eaa6bdeee192675842",
+        "keylab/25141 Kalafina - Magia (TV Size).lab": "1532ae90c4d7b5712a37eeaac7589598"
+      }
+    },
+    {
+      "id": "25705",
+      "name": "25705 ClariS - Connect",
+      "beatmapset_id": 25705,
+      "audio_filename": "25705 ClariS - Connect.mp3",
+      "audio_md5": "928d42ae74feb8b1bc2437e89bd14ed6",
+      "audio_bytes": 6525528,
+      "original_audio_path": "25705 ClariS - Connect/Connect.mp3",
+      "linked_osu_path": "25705 ClariS - Connect/ClariS - Connect (Holoaz) [Holo].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/25705 ClariS - Connect.arc": "b0bb2cae8ba609ab1f6f1e75e8a8fe4d",
+        "beatlab/25705 ClariS - Connect.lab": "e0c89def72b61388140d160a85e24e99",
+        "chordlab/25705 ClariS - Connect.lab": "7133a098add3ec5748264a9f63e4e5c0",
+        "keylab/25705 ClariS - Connect.lab": "a0775f496556cc79eea9c357c651707e"
+      }
+    },
+    {
+      "id": "264299",
+      "name": "264299 sakuzyo - Imprinting",
+      "beatmapset_id": 264299,
+      "audio_filename": "264299 sakuzyo - Imprinting.mp3",
+      "audio_md5": "282b1da372d42e8dbf2168e55d9f36c5",
+      "audio_bytes": 2800075,
+      "original_audio_path": "264299 sakuzyo - Imprinting/02. Imprinting.mp3",
+      "linked_osu_path": "264299 sakuzyo - Imprinting/sakuzyo - Imprinting (Squigly) [Gira's Hard].osu",
+      "confidence": "6",
+      "annotations": {
+        "raw/264299 sakuzyo - Imprinting.arc": "ec838f5ce07296e8d7190cb798b37586",
+        "beatlab/264299 sakuzyo - Imprinting.lab": "fbf0291d233968291ea2d54f9030e157",
+        "chordlab/264299 sakuzyo - Imprinting.lab": "f40a9cd2a9a47fe779774e95fc8327f6",
+        "keylab/264299 sakuzyo - Imprinting.lab": "7339538d78e3f3571f9dad5d788aa881",
+        "osumaplab/264299 sakuzyo - Imprinting.lab": "065c28545ff8e95d6125b2139f173624",
+        "osumaplab/264299 sakuzyo - Imprinting.linkedInfo": "051a3039fdcb3ea444540512d15a8e01"
+      }
+    },
+    {
+      "id": "272975",
+      "name": "272975 Owl City - Shooting Star (Acoustic)",
+      "beatmapset_id": 272975,
+      "audio_filename": "272975 Owl City - Shooting Star (Acoustic).mp3",
+      "audio_md5": "35aa27a27b42433d1dbcc8023f597241",
+      "audio_bytes": 6552199,
+      "original_audio_path": "272975 Owl City - Shooting Star (Acoustic)/Owl City - Shooting Star (Acoustic).mp3",
+      "linked_osu_path": "272975 Owl City - Shooting Star (Acoustic)/Owl City - Shooting Star (Acoustic) (HelloSCV) [Hard].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/272975 Owl City - Shooting Star (Acoustic).arc": "6d8f79f04106a15cdef0b2cff2ea7dd4",
+        "beatlab/272975 Owl City - Shooting Star (Acoustic).lab": "4615ed5bd4c759e56e9669ac603d60c1",
+        "chordlab/272975 Owl City - Shooting Star (Acoustic).lab": "acdac62db950e6b8a4c6947419eb0c35",
+        "keylab/272975 Owl City - Shooting Star (Acoustic).lab": "3e31d6ddcededb818d232a462782f1f3"
+      }
+    },
+    {
+      "id": "27852",
+      "name": "27852 07th Expansion - Birth of New Witch (Instrumental)",
+      "beatmapset_id": 27852,
+      "audio_filename": "27852 07th Expansion - Birth of New Witch (Instrumental).mp3",
+      "audio_md5": "7830fb5307ad6bc9ea36df9a899225f1",
+      "audio_bytes": 2387258,
+      "original_audio_path": "27852 07th Expansion - Birth of New Witch (Instrumental)/B_o_n_w_inst.mp3",
+      "linked_osu_path": "27852 07th Expansion - Birth of New Witch (Instrumental)/07th Expansion - Birth of New Witch (Instrumental) (Lanttu) [Easy].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/27852 07th Expansion - Birth of New Witch (Instrumental).arc": "a9e5117bab2d3646a058ced00e0b166b",
+        "beatlab/27852 07th Expansion - Birth of New Witch (Instrumental).lab": "39fbdabd9f2ba5476d944e801f2487d2",
+        "chordlab/27852 07th Expansion - Birth of New Witch (Instrumental).lab": "83fb98b24ce2bf4b7dc7940dbd528565",
+        "keylab/27852 07th Expansion - Birth of New Witch (Instrumental).lab": "1a55c8c6fc9930864426d458ed2719f8"
+      }
+    },
+    {
+      "id": "28793",
+      "name": "28793 07th Expansion - Sakutarou's Adventure",
+      "beatmapset_id": 28793,
+      "audio_filename": "28793 07th Expansion - Sakutarou's Adventure.mp3",
+      "audio_md5": "5f946f182b7dd17b71c00a77f8a30f1f",
+      "audio_bytes": 1865227,
+      "original_audio_path": "28793 07th Expansion - Sakutarou's Adventure/sakutaro.mp3",
+      "linked_osu_path": "28793 07th Expansion - Sakutarou's Adventure/07th Expansion - Sakutarou's Adventure (Lanttu) [Easy~!].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/28793 07th Expansion - Sakutarou's Adventure.arc": "3ad26c4d30353b98f5ea7d5767f0051e",
+        "beatlab/28793 07th Expansion - Sakutarou's Adventure.lab": "cdc494a54463f6895773a5f58513ba03",
+        "chordlab/28793 07th Expansion - Sakutarou's Adventure.lab": "4d8b89331401621778f869c0335684b5",
+        "keylab/28793 07th Expansion - Sakutarou's Adventure.lab": "6d49ca19bcfc971b8b89d29a360752f2"
+      }
+    },
+    {
+      "id": "29217",
+      "name": "29217 Jonathan Coulton & GLaDOS - Want You Gone",
+      "beatmapset_id": 29217,
+      "audio_filename": "29217 Jonathan Coulton & GLaDOS - Want You Gone.mp3",
+      "audio_md5": "741aa12eb6ee9fde42096ca8b66adf9e",
+      "audio_bytes": 3397381,
+      "original_audio_path": "29217 Jonathan Coulton & GLaDOS - Want You Gone/Want You Gone~.mp3",
+      "linked_osu_path": "29217 Jonathan Coulton & GLaDOS - Want You Gone/Jonathan Coulton & GLaDOS - Want You Gone (SapphireGhost) [Collab Potato].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/29217 Jonathan Coulton & GLaDOS - Want You Gone.arc": "607866235e8d4fb7b7318ce1c9cafea4",
+        "beatlab/29217 Jonathan Coulton & GLaDOS - Want You Gone.lab": "6221fe01c50480e3af4f266f5c19ae5d",
+        "chordlab/29217 Jonathan Coulton & GLaDOS - Want You Gone.lab": "4c557e1314b10b0d4a3d4090cab1bf18",
+        "keylab/29217 Jonathan Coulton & GLaDOS - Want You Gone.lab": "29355814d86210a2c87fcafb8045baf1"
+      }
+    },
+    {
+      "id": "293545",
+      "name": "293545 July - The song of soul",
+      "beatmapset_id": 293545,
+      "audio_filename": "293545 July - The song of soul.mp3",
+      "audio_md5": "eed0f716d57b4736a49782f5bf5b36d6",
+      "audio_bytes": 2557181,
+      "original_audio_path": "293545 July - The song of soul/July - The song of soul.mp3",
+      "linked_osu_path": "293545 July - The song of soul/July - The song of soul (Mako Sakata) [Galau].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/293545 July - The song of soul.arc": "9b6d37e73800abad2db54717cf2dae48",
+        "beatlab/293545 July - The song of soul.lab": "8f367882afaacd5b43a83769a14ad9f7",
+        "chordlab/293545 July - The song of soul.lab": "c6fb6d7d53108ff2f1f410622483d9e3",
+        "keylab/293545 July - The song of soul.lab": "6e97ceb04e36458e773e168ab4907e1c"
+      }
+    },
+    {
+      "id": "295880",
+      "name": "295880 Smooth J - Haru yo, Koi",
+      "beatmapset_id": 295880,
+      "audio_filename": "295880 Smooth J - Haru yo, Koi.mp3",
+      "audio_md5": "4c9f8b460a42a7820e2f1961888ccb4b",
+      "audio_bytes": 4618165,
+      "original_audio_path": "295880 Smooth J - Haru yo, Koi/spring.mp3",
+      "linked_osu_path": "295880 Smooth J - Haru yo, Koi/Smooth J - Haru yo, Koi (Streliteela) [Atrue's Normal].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/295880 Smooth J - Haru yo, Koi.arc": "dfa361580d851f69143ec0ff99dd5acc",
+        "beatlab/295880 Smooth J - Haru yo, Koi.lab": "48e6ec7f055b4ca52c2e39b879b93b18",
+        "chordlab/295880 Smooth J - Haru yo, Koi.lab": "d07f4ccb8ca77df1f4e6da269fe6da99",
+        "keylab/295880 Smooth J - Haru yo, Koi.lab": "c39233b852c2c7795ea62b286931f063",
+        "osumaplab/295880 Smooth J - Haru yo, Koi.lab": "307f85bc7223d1d05311bbf0c776b9c2",
+        "osumaplab/295880 Smooth J - Haru yo, Koi.linkedInfo": "c3ec9375db57291edfb208cbb20056af"
+      }
+    },
+    {
+      "id": "300076",
+      "name": "300076 JJ Lin - Cao Cao",
+      "beatmapset_id": 300076,
+      "audio_filename": "300076 JJ Lin - Cao Cao.mp3",
+      "audio_md5": "0aceb1422b20e98129a91d9c5c64b31d",
+      "audio_bytes": 4859338,
+      "original_audio_path": "300076 JJ Lin - Cao Cao/cc.mp3",
+      "linked_osu_path": "300076 JJ Lin - Cao Cao/JJ Lin - Cao Cao (liangv587) [Easy].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/300076 JJ Lin - Cao Cao.arc": "b1915575946f1b48b35161c920e03841",
+        "beatlab/300076 JJ Lin - Cao Cao.lab": "7367fc594158892aed8fcbbc5a5f4f42",
+        "chordlab/300076 JJ Lin - Cao Cao.lab": "e304347fde1cef632fcb5bf79f40b7d9",
+        "keylab/300076 JJ Lin - Cao Cao.lab": "5a80bac874b8797645a07988cc6b6b4a",
+        "osumaplab/300076 JJ Lin - Cao Cao.lab": "eaf8220d623f28068fde43635a56850f",
+        "osumaplab/300076 JJ Lin - Cao Cao.linkedInfo": "9725e6f9ded86c676db136b18bc17e3b"
+      }
+    },
+    {
+      "id": "300962",
+      "name": "300962 Yiruma - River Flows In You (viewtifulday Remix)",
+      "beatmapset_id": 300962,
+      "audio_filename": "300962 Yiruma - River Flows In You (viewtifulday Remix).mp3",
+      "audio_md5": "eac7ba94e231d3690aaa4d10abac726b",
+      "audio_bytes": 3594448,
+      "original_audio_path": "300962 Yiruma - River Flows In You (viewtifulday Remix)/River flows in you.mp3",
+      "linked_osu_path": "300962 Yiruma - River Flows In You (viewtifulday Remix)/Yiruma - River Flows In You (viewtifulday Remix) (jjy) [test].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/300962 Yiruma - River Flows In You (viewtifulday Remix).arc": "9daef7390be8e4ff75ce432927629335",
+        "beatlab/300962 Yiruma - River Flows In You (viewtifulday Remix).lab": "c98a2669a1d15076991679115d9462ec",
+        "chordlab/300962 Yiruma - River Flows In You (viewtifulday Remix).lab": "7c6efe5fd339fe37fc63345ba5b6b46f",
+        "keylab/300962 Yiruma - River Flows In You (viewtifulday Remix).lab": "496d40afc4be638d6a75d814e259f148"
+      }
+    },
+    {
+      "id": "303398",
+      "name": "303398 China Broadcast Children's Choir of National Radio - Di Hou Tian Gao",
+      "beatmapset_id": 303398,
+      "audio_filename": "303398 China Broadcast Children's Choir of National Radio - Di Hou Tian Gao.mp3",
+      "audio_md5": "2bb63edf045e5791e696b86aeaf96cdf",
+      "audio_bytes": 1202496,
+      "original_audio_path": "303398 China Broadcast Children's Choir of National Radio - Di Hou Tian Gao/dihoutiangao.mp3",
+      "linked_osu_path": "303398 China Broadcast Children's Choir of National Radio - Di Hou Tian Gao/China Broadcast Children's Choir of National Radio - Di Hou Tian Gao (liangv587) [Hard].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/303398 China Broadcast Children's Choir of National Radio - Di Hou Tian Gao.arc": "515594d11d583dba7017fd665ac870e0",
+        "beatlab/303398 China Broadcast Children's Choir of National Radio - Di Hou Tian Gao.lab": "453862be0be9e417c8034c3549a9c5b3",
+        "chordlab/303398 China Broadcast Children's Choir of National Radio - Di Hou Tian Gao.lab": "d999501b8c7069f3a13822521705a408",
+        "keylab/303398 China Broadcast Children's Choir of National Radio - Di Hou Tian Gao.lab": "07b6624c3523106c6f91cec60a16f53d",
+        "osumaplab/303398 China Broadcast Children's Choir of National Radio - Di Hou Tian Gao.lab": "316249902daaaf2d93eb0679c18d6ffb",
+        "osumaplab/303398 China Broadcast Children's Choir of National Radio - Di Hou Tian Gao.linkedInfo": "10b59c54db1c4565ea852bfb75cd4469"
+      }
+    },
+    {
+      "id": "320118",
+      "name": "320118 Reol - No title",
+      "beatmapset_id": 320118,
+      "audio_filename": "320118 Reol - No title.mp3",
+      "audio_md5": "23a33b0b7796dcffa43599276ccdedbf",
+      "audio_bytes": 2201200,
+      "original_audio_path": "320118 Reol - No title/No title.mp3",
+      "linked_osu_path": "320118 Reol - No title/Reol - No title (VINXIS) [byfaR's Hard].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/320118 Reol - No title.arc": "639c0c7bc08ade978c0659c150571bac",
+        "beatlab/320118 Reol - No title.lab": "905581055e24bac486e289c36557a7ec",
+        "chordlab/320118 Reol - No title.lab": "9dece193aafb355009b482f1d373cd59",
+        "keylab/320118 Reol - No title.lab": "21b04baa6524e7822bcd61ac8d237d67"
+      }
+    },
+    {
+      "id": "320155",
+      "name": "320155 FELT - Clean",
+      "beatmapset_id": 320155,
+      "audio_filename": "320155 FELT - Clean.mp3",
+      "audio_md5": "629d043749ea41b0b1b3b0bfc8bdc7ef",
+      "audio_bytes": 2458957,
+      "original_audio_path": "320155 FELT - Clean/Clean.mp3",
+      "linked_osu_path": "320155 FELT - Clean/FELT - Clean (Kinshara) [Easy].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/320155 FELT - Clean.arc": "a939cddaab9bf199cfd2fa080377838c",
+        "beatlab/320155 FELT - Clean.lab": "19a32b35f4a9ba777c38ec3382b6bcbb",
+        "chordlab/320155 FELT - Clean.lab": "c63d7ead47a180bba8cca27926f331ae",
+        "keylab/320155 FELT - Clean.lab": "63f683b87d08b0de3f85ddb98ae9cc00",
+        "osumaplab/320155 FELT - Clean.lab": "b35ca388bc1c66030c05d9fcfce73d33",
+        "osumaplab/320155 FELT - Clean.linkedInfo": "91b369a3fcbac51a8bc4b6302e2a3659"
+      }
+    },
+    {
+      "id": "325511",
+      "name": "325511 Enya - One By One",
+      "beatmapset_id": 325511,
+      "audio_filename": "325511 Enya - One By One.mp3",
+      "audio_md5": "fc73e8fe447c12db9fa024c52e99ee62",
+      "audio_bytes": 5589940,
+      "original_audio_path": "325511 Enya - One By One/13. One By One.mp3",
+      "linked_osu_path": "325511 Enya - One By One/Enya - One By One (Blue Dragon) [Easy].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/325511 Enya - One By One.arc": "2484694dc60fc45f35d07e133cabcba2",
+        "beatlab/325511 Enya - One By One.lab": "2078433ff38513ab6875a5cb907fc7bc",
+        "chordlab/325511 Enya - One By One.lab": "77952df0ba7cda5176c8a401f3236121",
+        "keylab/325511 Enya - One By One.lab": "2bd4f08614f4edebae305bb39846b9d7"
+      }
+    },
+    {
+      "id": "332532",
+      "name": "332532 Panda Eyes & Teminite - Highscore",
+      "beatmapset_id": 332532,
+      "audio_filename": "332532 Panda Eyes & Teminite - Highscore.mp3",
+      "audio_md5": "601510057409e36cd67c1b3b7e9b2bb5",
+      "audio_bytes": 6233175,
+      "original_audio_path": "332532 Panda Eyes & Teminite - Highscore/Teminite & Panda Eyes - Highscore.mp3",
+      "linked_osu_path": "332532 Panda Eyes & Teminite - Highscore/Panda Eyes & Teminite - Highscore (Fort) [Another].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/332532 Panda Eyes & Teminite - Highscore.arc": "ad2ebddf319cecafcf6414350286e43f",
+        "beatlab/332532 Panda Eyes & Teminite - Highscore.lab": "b8eeeecf2c21f8f84b6d59d485a9f8c6",
+        "chordlab/332532 Panda Eyes & Teminite - Highscore.lab": "d285fe3a8748fe4a413e91982a203364",
+        "keylab/332532 Panda Eyes & Teminite - Highscore.lab": "9bf8c90870b184480c58c3019b1afb7d",
+        "osumaplab/332532 Panda Eyes & Teminite - Highscore.lab": "3f6743576b3b388613c06cccced33b4d",
+        "osumaplab/332532 Panda Eyes & Teminite - Highscore.linkedInfo": "c6cb376a86effdb88a2c34ea99cf1ff1"
+      }
+    },
+    {
+      "id": "336686",
+      "name": "336686 Li Meng Di - Kuai Dian Gao Su Ni",
+      "beatmapset_id": 336686,
+      "audio_filename": "336686 Li Meng Di - Kuai Dian Gao Su Ni.mp3",
+      "audio_md5": "1f6e2b50af13800ea02549291ea56e82",
+      "audio_bytes": 3002672,
+      "original_audio_path": "336686 Li Meng Di - Kuai Dian Gao Su Ni/1.mp3",
+      "linked_osu_path": "336686 Li Meng Di - Kuai Dian Gao Su Ni/Li Meng Di - Kuai Dian Gao Su Ni (moonlightleaf) [Hard].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/336686 Li Meng Di - Kuai Dian Gao Su Ni.arc": "e9e94cb8807eb2741962f07a5aee436b",
+        "beatlab/336686 Li Meng Di - Kuai Dian Gao Su Ni.lab": "6583acfcd46541132d77016af172230c",
+        "chordlab/336686 Li Meng Di - Kuai Dian Gao Su Ni.lab": "10e0e2759f9cd32cb26f281733e89af7",
+        "keylab/336686 Li Meng Di - Kuai Dian Gao Su Ni.lab": "3644cf6afd4c89f6fbd94c295a59da9e",
+        "osumaplab/336686 Li Meng Di - Kuai Dian Gao Su Ni.lab": "02902bb5db3cd55b7309f48125e4e45d",
+        "osumaplab/336686 Li Meng Di - Kuai Dian Gao Su Ni.linkedInfo": "e1056a133aa784ecf3514d81dce4e62b"
+      }
+    },
+    {
+      "id": "342884",
+      "name": "342884 Kajiura Yuki - Sis puella magica!",
+      "beatmapset_id": 342884,
+      "audio_filename": "342884 Kajiura Yuki - Sis puella magica!.mp3",
+      "audio_md5": "08819c8335004a373ac05993fe99dcda",
+      "audio_bytes": 1185102,
+      "original_audio_path": "342884 Kajiura Yuki - Sis puella magica!/Kajiura Yuki - Sis puella magica! (Short Ver.).mp3",
+      "linked_osu_path": "342884 Kajiura Yuki - Sis puella magica!/Kajiura Yuki - Sis puella magica! (ByBy13) [Dream].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/342884 Kajiura Yuki - Sis puella magica!.arc": "5e6e3a9ecebdbce9291a79dcd944f5a5",
+        "beatlab/342884 Kajiura Yuki - Sis puella magica!.lab": "4aa27e8a0aed92f21b2171fd0da58903",
+        "chordlab/342884 Kajiura Yuki - Sis puella magica!.lab": "771ef13750b752fc0b1cd0e11c0ed0a4",
+        "keylab/342884 Kajiura Yuki - Sis puella magica!.lab": "ab16a0121d77c850ae088e1f22a19f8e",
+        "osumaplab/342884 Kajiura Yuki - Sis puella magica!.lab": "05b71be8e2f7c91e61d9e2a53f1ae365",
+        "osumaplab/342884 Kajiura Yuki - Sis puella magica!.linkedInfo": "8589120006738b8e27a2eea0bfcc9803"
+      }
+    },
+    {
+      "id": "351630",
+      "name": "351630 kradness&Reol - Remote Control",
+      "beatmapset_id": 351630,
+      "audio_filename": "351630 kradness&Reol - Remote Control.mp3",
+      "audio_md5": "eea26327149b4be19d9baae93808cc3f",
+      "audio_bytes": 7679269,
+      "original_audio_path": "351630 kradness&Reol - Remote Control/control.mp3",
+      "linked_osu_path": "351630 kradness&Reol - Remote Control/kradness&Reol - Remote Control (Taeyang) [Max Control!].osu",
+      "confidence": "3",
+      "annotations": {
+        "raw/351630 kradness&Reol - Remote Control.arc": "b4e6e4ee40c6f7202464f103650a4d02",
+        "beatlab/351630 kradness&Reol - Remote Control.lab": "0bf19191fcbc5cf7723f84b3c3fdf6d4",
+        "chordlab/351630 kradness&Reol - Remote Control.lab": "2f6ed92248edb9c265d4ba0f988638ee",
+        "keylab/351630 kradness&Reol - Remote Control.lab": "7d087d432b8db3b6f585a2484e5ffbf8"
+      }
+    },
+    {
+      "id": "355322",
+      "name": "355322 nekodex - circles!",
+      "beatmapset_id": 355322,
+      "audio_filename": "355322 nekodex - circles!.mp3",
+      "audio_md5": "e3cf51c19f057589067399d6cc42b043",
+      "audio_bytes": 3235746,
+      "original_audio_path": "355322 nekodex - circles!/nekodex - circles! (pishifat) [Audio].mp3",
+      "linked_osu_path": "355322 nekodex - circles!/nekodex - circles! (pishifat) [hard!].osu",
+      "confidence": "6",
+      "annotations": {
+        "raw/355322 nekodex - circles!.arc": "6a0662da5d220aa0102db85bba37651a",
+        "beatlab/355322 nekodex - circles!.lab": "f369d29bb7c9ca08ce8ca5a6983f1509",
+        "chordlab/355322 nekodex - circles!.lab": "65d94a56fd117d5b49b36668b570e2dc",
+        "keylab/355322 nekodex - circles!.lab": "d274f700b98a4aaa691e06ff25db71da",
+        "osumaplab/355322 nekodex - circles!.lab": "a968df8fbe7769627fea41326a68145d",
+        "osumaplab/355322 nekodex - circles!.linkedInfo": "4902f2b333c35012781558db90768096"
+      }
+    },
+    {
+      "id": "357391",
+      "name": "357391 Suzumu - isolation(Instrumental Opening)",
+      "beatmapset_id": 357391,
+      "audio_filename": "357391 Suzumu - isolation(Instrumental Opening).mp3",
+      "audio_md5": "7d8f358b98a6436a4c2a791a38233145",
+      "audio_bytes": 1978318,
+      "original_audio_path": "357391 Suzumu - isolation(Instrumental Opening)/isolation(inst).mp3",
+      "linked_osu_path": "357391 Suzumu - isolation(Instrumental Opening)/Suzumu - isolation(Instrumental Opening) (Kyubey) [Normal].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/357391 Suzumu - isolation(Instrumental Opening).arc": "aafc5e9450c88df0ae5b8fe01a1d57d0",
+        "beatlab/357391 Suzumu - isolation(Instrumental Opening).lab": "989fe097757a2b3b440da56d3d17b36e",
+        "chordlab/357391 Suzumu - isolation(Instrumental Opening).lab": "de70e66cb949b5e0ebbbcc20e6a83424",
+        "keylab/357391 Suzumu - isolation(Instrumental Opening).lab": "51b3306030840473430fe075f6a8f6f9"
+      }
+    },
+    {
+      "id": "358450",
+      "name": "358450 World of Wandag - HuniePop Theme",
+      "beatmapset_id": 358450,
+      "audio_filename": "358450 World of Wandag - HuniePop Theme.mp3",
+      "audio_md5": "cb9b74b21a9ed741f311f7d3b1062d2c",
+      "audio_bytes": 2282752,
+      "original_audio_path": "358450 World of Wandag - HuniePop Theme/huniepop_ost_1_main_theme.mp3",
+      "linked_osu_path": "358450 World of Wandag - HuniePop Theme/World of Wandag - HuniePop Theme (Pereira006) [Easy].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/358450 World of Wandag - HuniePop Theme.arc": "6fad1adae838ed68f1ee483d77c589ce",
+        "beatlab/358450 World of Wandag - HuniePop Theme.lab": "4b1a2c7ca9777b31d80d333d1eece9bd",
+        "chordlab/358450 World of Wandag - HuniePop Theme.lab": "0b9d928b1880295fcbdc440891a3c9ef",
+        "keylab/358450 World of Wandag - HuniePop Theme.lab": "2f2f2e2385c3d09022c7fb5a151debde",
+        "osumaplab/358450 World of Wandag - HuniePop Theme.lab": "57c5c97f464c7dec77cbd8c16669e8ee",
+        "osumaplab/358450 World of Wandag - HuniePop Theme.linkedInfo": "4ebf9f7189e7fe813b627d8eea38fff7"
+      }
+    },
+    {
+      "id": "368258",
+      "name": "368258 Emilie Simon - Les Amants Du Meme Jour (Instrumental Version)",
+      "beatmapset_id": 368258,
+      "audio_filename": "368258 Emilie Simon - Les Amants Du Meme Jour (Instrumental Version).mp3",
+      "audio_md5": "c25c9ad4a9bc2408dcd688fd0f8163d2",
+      "audio_bytes": 2201181,
+      "original_audio_path": "368258 Emilie Simon - Les Amants Du Meme Jour (Instrumental Version)/music.mp3",
+      "linked_osu_path": "368258 Emilie Simon - Les Amants Du Meme Jour (Instrumental Version)/Emilie Simon - Les Amants Du Meme Jour (Instrumental Version) (Zerss) [Easy].osu",
+      "confidence": "5",
+      "annotations": {
+        "raw/368258 Emilie Simon - Les Amants Du Meme Jour (Instrumental Version).arc": "67dae923d33b676eb0c0329852d3cc89",
+        "beatlab/368258 Emilie Simon - Les Amants Du Meme Jour (Instrumental Version).lab": "325be8a0807a97d5172f0f2e5199d506",
+        "chordlab/368258 Emilie Simon - Les Amants Du Meme Jour (Instrumental Version).lab": "ed4a1665b9afbe827511016a98a5b47b",
+        "keylab/368258 Emilie Simon - Les Amants Du Meme Jour (Instrumental Version).lab": "c790401f2de22a92de828b2fb4c27780"
+      }
+    },
+    {
+      "id": "371114",
+      "name": "371114 Wix Games - Glacier Theme",
+      "beatmapset_id": 371114,
+      "audio_filename": "371114 Wix Games - Glacier Theme.mp3",
+      "audio_md5": "4922e973e52a53507446d1f8fb9aed7f",
+      "audio_bytes": 1645276,
+      "original_audio_path": "371114 Wix Games - Glacier Theme/DuckLife 4 - Glacier Theme.mp3",
+      "linked_osu_path": "371114 Wix Games - Glacier Theme/Wix Games - Glacier Theme (Modren) [Easy].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/371114 Wix Games - Glacier Theme.arc": "c5210d78cb0d65b5f87598d781dbcef5",
+        "beatlab/371114 Wix Games - Glacier Theme.lab": "6ec47c9fd9aa52919500e9c34dc4d4f8",
+        "chordlab/371114 Wix Games - Glacier Theme.lab": "86784613622ff370699b469741e3d20f",
+        "keylab/371114 Wix Games - Glacier Theme.lab": "53c3e38f435a3973777873650f1092ce"
+      }
+    },
+    {
+      "id": "375620",
+      "name": "375620 toby fox - Determination",
+      "beatmapset_id": 375620,
+      "audio_filename": "375620 toby fox - Determination.mp3",
+      "audio_md5": "23da0216bc71394c56993f47726a34ec",
+      "audio_bytes": 1210801,
+      "original_audio_path": "375620 toby fox - Determination/determination.mp3",
+      "linked_osu_path": "375620 toby fox - Determination/toby fox - Determination (YellowManul) [Hard].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/375620 toby fox - Determination.arc": "614614676efef058abae51a90ca3eee4",
+        "beatlab/375620 toby fox - Determination.lab": "9381edc08caaf99acad832de7e5588a6",
+        "chordlab/375620 toby fox - Determination.lab": "76839dd3ccf09436f28d0652adae9638",
+        "keylab/375620 toby fox - Determination.lab": "d391c79fdff54731fe1a4c56c3767e56"
+      }
+    },
+    {
+      "id": "384284",
+      "name": "384284 JJ Lin - Jiang Nan (Cantonese Ver)",
+      "beatmapset_id": 384284,
+      "audio_filename": "384284 JJ Lin - Jiang Nan (Cantonese Ver).mp3",
+      "audio_md5": "b17455a5ac802fd87411a2a21c4a06cb",
+      "audio_bytes": 5581547,
+      "original_audio_path": "384284 JJ Lin - Jiang Nan (Cantonese Ver)/optc.mp3",
+      "linked_osu_path": "384284 JJ Lin - Jiang Nan (Cantonese Ver)/JJ Lin - Jiang Nan (Cantonese Ver.) (Shad0w1and) [Collab Advanced].osu",
+      "confidence": "3",
+      "annotations": {
+        "raw/384284 JJ Lin - Jiang Nan (Cantonese Ver).arc": "399f20607f17f7531f32e7e4fa1718cb",
+        "beatlab/384284 JJ Lin - Jiang Nan (Cantonese Ver).lab": "ec42d9741a5413b8e0b0eebc360ca766",
+        "chordlab/384284 JJ Lin - Jiang Nan (Cantonese Ver).lab": "093a395d00e8dbf53ac73fcd895c01aa",
+        "keylab/384284 JJ Lin - Jiang Nan (Cantonese Ver).lab": "75f3612efb2ca4e1b11df2eddac513ce"
+      }
+    },
+    {
+      "id": "385248",
+      "name": "385248 otetsu - Minamo no Sakura, Yume wa Sakayume",
+      "beatmapset_id": 385248,
+      "audio_filename": "385248 otetsu - Minamo no Sakura, Yume wa Sakayume.mp3",
+      "audio_md5": "35f1c5f59753816f1b7f2fcb2140349d",
+      "audio_bytes": 3211079,
+      "original_audio_path": "385248 otetsu - Minamo no Sakura, Yume wa Sakayume/Original otetsu feat.mp3",
+      "linked_osu_path": "385248 otetsu - Minamo no Sakura, Yume wa Sakayume/otetsu - Minamo no Sakura, Yume wa Sakayume (Riven) [DavidEd's Insane].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/385248 otetsu - Minamo no Sakura, Yume wa Sakayume.arc": "d9df7712ad6c5999da5f5bc29a967542",
+        "beatlab/385248 otetsu - Minamo no Sakura, Yume wa Sakayume.lab": "8cf0b8dc2ccf199d520842b015dbf2fa",
+        "chordlab/385248 otetsu - Minamo no Sakura, Yume wa Sakayume.lab": "6fb75c29260e1aa5d0a3480e5a33d85d",
+        "keylab/385248 otetsu - Minamo no Sakura, Yume wa Sakayume.lab": "2814cf616b970787713420da09130b25"
+      }
+    },
+    {
+      "id": "393995",
+      "name": "393995 toby fox - Quiet Water",
+      "beatmapset_id": 393995,
+      "audio_filename": "393995 toby fox - Quiet Water.mp3",
+      "audio_md5": "805209d3c8ac4333472505cf191a6d9f",
+      "audio_bytes": 774339,
+      "original_audio_path": "393995 toby fox - Quiet Water/asdf.mp3",
+      "linked_osu_path": "393995 toby fox - Quiet Water/toby fox - Quiet Water (Intelli) [Calm].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/393995 toby fox - Quiet Water.arc": "7e432f7826237ca8e3395db9e722f9d1",
+        "beatlab/393995 toby fox - Quiet Water.lab": "7281ed777db6b3e5b4379b8aa2965666",
+        "chordlab/393995 toby fox - Quiet Water.lab": "8b815e95459bc3d9919c31a30165acb4",
+        "keylab/393995 toby fox - Quiet Water.lab": "2de9a770d5437e122af63f4da428c5a0"
+      }
+    },
+    {
+      "id": "39804",
+      "name": "39804 xi - FREEDOM DiVE",
+      "beatmapset_id": 39804,
+      "audio_filename": "39804 xi - FREEDOM DiVE.mp3",
+      "audio_md5": "4a1374a4242b0e29b93cf5b1dd0f42b1",
+      "audio_bytes": 6621706,
+      "original_audio_path": "39804 xi - FREEDOM DiVE/Freedom Dive.mp3",
+      "linked_osu_path": "39804 xi - FREEDOM DiVE/xi - FREEDOM DiVE (Nakagawa-Kanon) [FOUR DIMENSIONS].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/39804 xi - FREEDOM DiVE.arc": "17ebe2e1b550e7928b00508be6dd415e",
+        "beatlab/39804 xi - FREEDOM DiVE.lab": "c68f0ae4f327e9264c26929b7a9c25db",
+        "chordlab/39804 xi - FREEDOM DiVE.lab": "74901223ab90fffd5bb4b1903734bbde",
+        "keylab/39804 xi - FREEDOM DiVE.lab": "9f515bc22f1172331d2bc355ec369798"
+      }
+    },
+    {
+      "id": "399491",
+      "name": "399491 Kaga (CV- Iguchi Yuka) - Kaga Misaki",
+      "beatmapset_id": 399491,
+      "audio_filename": "399491 Kaga (CV- Iguchi Yuka) - Kaga Misaki.mp3",
+      "audio_md5": "e8a9904cf0a695c8714e5cbd7caedce6",
+      "audio_bytes": 2092336,
+      "original_audio_path": "399491 Kaga (CV- Iguchi Yuka) - Kaga Misaki/Kaga (CV Iguchi Yuka) - Kaga Misaki.mp3",
+      "linked_osu_path": "399491 Kaga (CV- Iguchi Yuka) - Kaga Misaki/Kaga (CV Iguchi Yuka) - Kaga Misaki (Startrick) [Dailycare's Hard].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/399491 Kaga (CV- Iguchi Yuka) - Kaga Misaki.arc": "ba6b296787ab9d02de6a93924db92e14",
+        "beatlab/399491 Kaga (CV- Iguchi Yuka) - Kaga Misaki.lab": "6e1e14841dd4810c2632590c186b5874",
+        "chordlab/399491 Kaga (CV- Iguchi Yuka) - Kaga Misaki.lab": "adc2be3855689aa33e017facc7379bbd",
+        "keylab/399491 Kaga (CV- Iguchi Yuka) - Kaga Misaki.lab": "33989c0199fca76e167d1eb2280ee12e"
+      }
+    },
+    {
+      "id": "404060",
+      "name": "404060 Enya - Echoes In Rain",
+      "beatmapset_id": 404060,
+      "audio_filename": "404060 Enya - Echoes In Rain.mp3",
+      "audio_md5": "82a7ee400e910584d71af8bd1a4b9ace",
+      "audio_bytes": 5179406,
+      "original_audio_path": "404060 Enya - Echoes In Rain/Echoes In Rain - Enya.mp3",
+      "linked_osu_path": "404060 Enya - Echoes In Rain/Enya - Echoes In Rain (Blue Dragon) [Alleluia].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/404060 Enya - Echoes In Rain.arc": "cc02502458676c6ea41016e162bd3b77",
+        "beatlab/404060 Enya - Echoes In Rain.lab": "794dbe5b2a2fff8c7ff8474fdc754551",
+        "chordlab/404060 Enya - Echoes In Rain.lab": "1a7fb9aef5f41dac697efb7e18518138",
+        "keylab/404060 Enya - Echoes In Rain.lab": "b293f593bf577d8d2b2c7b81542a9d33"
+      }
+    },
+    {
+      "id": "413707",
+      "name": "413707 Milkychan - Stronger Than You -Chara Response-",
+      "beatmapset_id": 413707,
+      "audio_filename": "413707 Milkychan - Stronger Than You -Chara Response-.mp3",
+      "audio_md5": "95be9c2d6793ec335865a7fcff322db1",
+      "audio_bytes": 4063088,
+      "original_audio_path": "413707 Milkychan - Stronger Than You -Chara Response-/[Milky] Stronger than You -Chara response-.mp3",
+      "linked_osu_path": "413707 Milkychan - Stronger Than You -Chara Response-/Milkychan - Stronger Than You -Chara Response- (Cosmolade) [EruJazz's Easy].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/413707 Milkychan - Stronger Than You -Chara Response-.arc": "8927ceda62bd16ef1375f8702cdfcbd2",
+        "beatlab/413707 Milkychan - Stronger Than You -Chara Response-.lab": "4c8cc10bb0b46fc880dae925f1f380c4",
+        "chordlab/413707 Milkychan - Stronger Than You -Chara Response-.lab": "9a096192d1d69344d92439c1e23ebda0",
+        "keylab/413707 Milkychan - Stronger Than You -Chara Response-.lab": "4f990661c87788711a52157ab9e04c34"
+      }
+    },
+    {
+      "id": "416444",
+      "name": "416444 Helblinde - Above the Clouds",
+      "beatmapset_id": 416444,
+      "audio_filename": "416444 Helblinde - Above the Clouds.mp3",
+      "audio_md5": "e41dcc37ef58c0da9907f0ae80c604c2",
+      "audio_bytes": 3111250,
+      "original_audio_path": "416444 Helblinde - Above the Clouds/Helblinde - Above the Clouds.mp3",
+      "linked_osu_path": "416444 Helblinde - Above the Clouds/Helblinde - Above the Clouds (Asserin) [Above the Collab].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/416444 Helblinde - Above the Clouds.arc": "43c17fa819eb986d542d04604a24282c",
+        "beatlab/416444 Helblinde - Above the Clouds.lab": "f82b3bcdbde6be803b91ec6890921cfb",
+        "chordlab/416444 Helblinde - Above the Clouds.lab": "f2529c2eaccaa27f231281ee3ece3b55",
+        "keylab/416444 Helblinde - Above the Clouds.lab": "9504cea344eaf60e275053c809093996"
+      }
+    },
+    {
+      "id": "418562",
+      "name": "418562 ilem feat. zuotian - yi ren xing zhe",
+      "beatmapset_id": 418562,
+      "audio_filename": "418562 ilem feat. zuotian - yi ren xing zhe.mp3",
+      "audio_md5": "081aa0c7f2e5c5621b71dbd85b678307",
+      "audio_bytes": 8523302,
+      "original_audio_path": "418562 ilem feat. zuotian - yi ren xing zhe/audio.mp3",
+      "linked_osu_path": "418562 ilem feat. zuotian - yi ren xing zhe/ilem feat. zuotian - yi ren xing zhe (Chick -X- Chick) [9Cirno's taiko oni].osu",
+      "confidence": "6",
+      "annotations": {
+        "raw/418562 ilem feat. zuotian - yi ren xing zhe.arc": "ec4eef51726b9f8a82dc4db62e079a94",
+        "beatlab/418562 ilem feat. zuotian - yi ren xing zhe.lab": "9d77aebc77dcb414a059c1a830d3a9b5",
+        "chordlab/418562 ilem feat. zuotian - yi ren xing zhe.lab": "11f3f08a06c9372867827c78f1271bb3",
+        "keylab/418562 ilem feat. zuotian - yi ren xing zhe.lab": "34fee9c10b0c6dfd3ba1f3a7a2195c3b"
+      }
+    },
+    {
+      "id": "424047",
+      "name": "424047 July - Raining Morning",
+      "beatmapset_id": 424047,
+      "audio_filename": "424047 July - Raining Morning.mp3",
+      "audio_md5": "72731ad7e93c87ebc3a4064524a546a1",
+      "audio_bytes": 2305883,
+      "original_audio_path": "424047 July - Raining Morning/Raining Morning.mp3",
+      "linked_osu_path": "424047 July - Raining Morning/July - Raining Morning (Mako Sakata) [Hujan].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/424047 July - Raining Morning.arc": "888722833070fbb967f2d2042b5a7615",
+        "beatlab/424047 July - Raining Morning.lab": "c20a02e93f5e8bb2a5e664b140a01746",
+        "chordlab/424047 July - Raining Morning.lab": "add070876b497f943065da8435eb11ef",
+        "keylab/424047 July - Raining Morning.lab": "758ff2ec624b1349adfdac1fb36dd82f"
+      }
+    },
+    {
+      "id": "42488",
+      "name": "42488 Yanni - November Sky",
+      "beatmapset_id": 42488,
+      "audio_filename": "42488 Yanni - November Sky.mp3",
+      "audio_md5": "f1a055d19390ceb828b4d16c0f554669",
+      "audio_bytes": 4319997,
+      "original_audio_path": "42488 Yanni - November Sky/November Sky.mp3",
+      "linked_osu_path": "42488 Yanni - November Sky/Yanni - November Sky (kazumikos) [Advanced].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/42488 Yanni - November Sky.arc": "ac0c4554965f4831d5411958d0d15c63",
+        "beatlab/42488 Yanni - November Sky.lab": "3ff49266e06798957746345f536aac65",
+        "chordlab/42488 Yanni - November Sky.lab": "a06c9b3db6a13bd8aa4fc3e2393b5522",
+        "keylab/42488 Yanni - November Sky.lab": "58359aa0bf442657ec25b09eec6d3388",
+        "osumaplab/42488 Yanni - November Sky.lab": "80b5835273eed80c469e5694d0c7ebc8",
+        "osumaplab/42488 Yanni - November Sky.linkedInfo": "6a3d0460bf6cbf67256eb0b2b43c6ee4"
+      }
+    },
+    {
+      "id": "429316",
+      "name": "429316 Tonon - Shirayuki -sirayuki-",
+      "beatmapset_id": 429316,
+      "audio_filename": "429316 Tonon - Shirayuki -sirayuki-.mp3",
+      "audio_md5": "ee2f119cf90aa0e32b2959a036e95be0",
+      "audio_bytes": 7287124,
+      "original_audio_path": "429316 Tonon - Shirayuki -sirayuki-/audio.mp3",
+      "linked_osu_path": "429316 Tonon - Shirayuki -sirayuki-/Tonon - Shirayuki ~sirayuki~ (yf_bmp) [Adol's Normal].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/429316 Tonon - Shirayuki -sirayuki-.arc": "2e581f4754f119f70acf458977e57371",
+        "beatlab/429316 Tonon - Shirayuki -sirayuki-.lab": "985da85b19c2857d444a6b5c1a5867a1",
+        "chordlab/429316 Tonon - Shirayuki -sirayuki-.lab": "29621a14799aac2502a200dafb7eaeb9",
+        "keylab/429316 Tonon - Shirayuki -sirayuki-.lab": "36a6bafb7ecd9e513b92f299c4baa543",
+        "osumaplab/429316 Tonon - Shirayuki -sirayuki-.lab": "6beaae002eda1472cc70b27ea2f2a950",
+        "osumaplab/429316 Tonon - Shirayuki -sirayuki-.linkedInfo": "6b5ab60ee01f2c785fe45a78a2ebc8a6"
+      }
+    },
+    {
+      "id": "436734",
+      "name": "436734 GameChops & VOIA - Voia's Medley (Undertale Remix)",
+      "beatmapset_id": 436734,
+      "audio_filename": "436734 GameChops & VOIA - Voia's Medley (Undertale Remix).mp3",
+      "audio_md5": "0740abf4d257f834f274091d088bf0a0",
+      "audio_bytes": 4950830,
+      "original_audio_path": "436734 GameChops & VOIA - Voia's Medley (Undertale Remix)/audio.mp3",
+      "linked_osu_path": "436734 GameChops & VOIA - Voia's Medley (Undertale Remix)/GameChops & VOIA - Voia's Medley (Undertale Remix) (jakads) [DETERMINATION].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/436734 GameChops & VOIA - Voia's Medley (Undertale Remix).arc": "7d623a3c031924901672c7af83c16eb5",
+        "beatlab/436734 GameChops & VOIA - Voia's Medley (Undertale Remix).lab": "4a849b555066dc2ab43abd1d1a48bade",
+        "chordlab/436734 GameChops & VOIA - Voia's Medley (Undertale Remix).lab": "48abfe77d7c04e589ac00c11cbc56e47",
+        "keylab/436734 GameChops & VOIA - Voia's Medley (Undertale Remix).lab": "4d9cd61df403d1137c5c6973dd93d5a7"
+      }
+    },
+    {
+      "id": "43698",
+      "name": "43698 Yasuna to Sonya - Futari no Kimochi no Honto no Himitsu (TV Size)",
+      "beatmapset_id": 43698,
+      "audio_filename": "43698 Yasuna to Sonya - Futari no Kimochi no Honto no Himitsu (TV Size).mp3",
+      "audio_md5": "76b366f80aa4150cb83abeb0d8b6fb74",
+      "audio_bytes": 2163083,
+      "original_audio_path": "43698 Yasuna to Sonya - Futari no Kimochi no Honto no Himitsu (TV Size)/Kill Me Baby ED ( ) 720p.mp3",
+      "linked_osu_path": "43698 Yasuna to Sonya - Futari no Kimochi no Honto no Himitsu (TV Size)/Yasuna to Sonya - Futari no Kimochi no Honto no Himitsu (TV Size) (Nymph) [fanzhen's Easy].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/43698 Yasuna to Sonya - Futari no Kimochi no Honto no Himitsu (TV Size).arc": "dfebbbde81dc19aa41261cfddb58a2a6",
+        "beatlab/43698 Yasuna to Sonya - Futari no Kimochi no Honto no Himitsu (TV Size).lab": "1e8617bbad25cf47a00d10150e0870b8",
+        "chordlab/43698 Yasuna to Sonya - Futari no Kimochi no Honto no Himitsu (TV Size).lab": "926ffeb4584b91a264fe79264ceb712b",
+        "keylab/43698 Yasuna to Sonya - Futari no Kimochi no Honto no Himitsu (TV Size).lab": "00f904ec7874321f4c3fe216a2c55c75"
+      }
+    },
+    {
+      "id": "43714",
+      "name": "43714 kanon x kanon - The Doll House!",
+      "beatmapset_id": 43714,
+      "audio_filename": "43714 kanon x kanon - The Doll House!.mp3",
+      "audio_md5": "cee5a43ff5035c61bc39438adbc598f1",
+      "audio_bytes": 5009494,
+      "original_audio_path": "43714 kanon x kanon - The Doll House!/1.mp3",
+      "linked_osu_path": "43714 kanon x kanon - The Doll House!/kanon x kanon - The Doll House! (Asgard) [Corruption!].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/43714 kanon x kanon - The Doll House!.arc": "89d53e9ef43763b0c9a8f39f8a8546b3",
+        "beatlab/43714 kanon x kanon - The Doll House!.lab": "e1795389da095064f4718757675c6b09",
+        "chordlab/43714 kanon x kanon - The Doll House!.lab": "a3e1419d5e54faff90ed8f7ace718953",
+        "keylab/43714 kanon x kanon - The Doll House!.lab": "b3cf685c02df87aaa78d3942ab2aad4c"
+      }
+    },
+    {
+      "id": "437904",
+      "name": "437904 bradbreeck - Fury Heart",
+      "beatmapset_id": 437904,
+      "audio_filename": "437904 bradbreeck - Fury Heart.mp3",
+      "audio_md5": "df46002b3ce824e0598a28d4e682b8a9",
+      "audio_bytes": 982167,
+      "original_audio_path": "437904 bradbreeck - Fury Heart/fury.mp3",
+      "linked_osu_path": "437904 bradbreeck - Fury Heart/bradbreeck - Fury Heart (Underforest) [Easy].osu",
+      "confidence": "6",
+      "annotations": {
+        "raw/437904 bradbreeck - Fury Heart.arc": "c532bdebc484f4d4ec237fb8870515a2",
+        "beatlab/437904 bradbreeck - Fury Heart.lab": "68dc233dba97808be8b87d845dc86428",
+        "chordlab/437904 bradbreeck - Fury Heart.lab": "8eea7fceab0cf4fd6ff1899701f61485",
+        "keylab/437904 bradbreeck - Fury Heart.lab": "46bbe0c17579da4e213681a4ba5c7ad1",
+        "osumaplab/437904 bradbreeck - Fury Heart.lab": "98bfe7d954984efacfa8eca0d714d95f",
+        "osumaplab/437904 bradbreeck - Fury Heart.linkedInfo": "735e85d7da5902ed3f3ad69cd57ffaf5"
+      }
+    },
+    {
+      "id": "4392",
+      "name": "4392 Hyadain - Chocobo",
+      "beatmapset_id": 4392,
+      "audio_filename": "4392 Hyadain - Chocobo.mp3",
+      "audio_md5": "6ab9d1383f8ef44a8809ecd588b1c62a",
+      "audio_bytes": 2656425,
+      "original_audio_path": "4392 Hyadain - Chocobo/chocobo.mp3",
+      "linked_osu_path": "4392 Hyadain - Chocobo/Hyadain - Chocobo (mtmcl) [Black].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/4392 Hyadain - Chocobo.arc": "7a43b17ea5670c5fb9f6e37c0fcdd430",
+        "beatlab/4392 Hyadain - Chocobo.lab": "75b69bad205b37c90cb83c945e6a57d7",
+        "chordlab/4392 Hyadain - Chocobo.lab": "06097f979ec6843d3406729ec7f2f2a2",
+        "keylab/4392 Hyadain - Chocobo.lab": "6e654358df7717a758f9076b83795fd8"
+      }
+    },
+    {
+      "id": "43962",
+      "name": "43962 Jolin Tsai - Dancing Diva",
+      "beatmapset_id": 43962,
+      "audio_filename": "43962 Jolin Tsai - Dancing Diva.mp3",
+      "audio_md5": "ad1fe85509c7eab073daa1e52fc3dc80",
+      "audio_bytes": 4397056,
+      "original_audio_path": "43962 Jolin Tsai - Dancing Diva/Jolin Tsai - Dacing Diva.mp3",
+      "linked_osu_path": "43962 Jolin Tsai - Dancing Diva/Jolin Tsai - Dancing Diva (Breeze) [Agate's Normal].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/43962 Jolin Tsai - Dancing Diva.arc": "066d4d847fc572053ffaf5d335ac4494",
+        "beatlab/43962 Jolin Tsai - Dancing Diva.lab": "ba4ec262da3115de212357d874ef54e5",
+        "chordlab/43962 Jolin Tsai - Dancing Diva.lab": "85ef1dee05dbdf6b5a27d306c4508a82",
+        "keylab/43962 Jolin Tsai - Dancing Diva.lab": "1f8cc316bcfa3c4f736cd20d6bd030a4"
+      }
+    },
+    {
+      "id": "444793",
+      "name": "444793 Musashi Project & Toshiro Masuda - Ofuzake Mode",
+      "beatmapset_id": 444793,
+      "audio_filename": "444793 Musashi Project & Toshiro Masuda - Ofuzake Mode.mp3",
+      "audio_md5": "c7ec6fd8d783603b5027e3c125a100e2",
+      "audio_bytes": 1134030,
+      "original_audio_path": "444793 Musashi Project & Toshiro Masuda - Ofuzake Mode/audio.mp3",
+      "linked_osu_path": "444793 Musashi Project & Toshiro Masuda - Ofuzake Mode/Musashi Project & Toshiro Masuda - Ofuzake Mode (AmigoDoChroome) [Marianna's Easy].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/444793 Musashi Project & Toshiro Masuda - Ofuzake Mode.arc": "5a249e49c23c8e48b817b47481ec884b",
+        "beatlab/444793 Musashi Project & Toshiro Masuda - Ofuzake Mode.lab": "c59cb99f0b7c6c9c18f99a38c2278e85",
+        "chordlab/444793 Musashi Project & Toshiro Masuda - Ofuzake Mode.lab": "edcf989489a81bd63e4b286ea1e589ba",
+        "keylab/444793 Musashi Project & Toshiro Masuda - Ofuzake Mode.lab": "cea9f093d818891651acbbf2c734c823"
+      }
+    },
+    {
+      "id": "448090",
+      "name": "448090 Quynh Nhu - Don Coi",
+      "beatmapset_id": 448090,
+      "audio_filename": "448090 Quynh Nhu - Don Coi.mp3",
+      "audio_md5": "becbd5c5f2fc41d49c810397976bdd0e",
+      "audio_bytes": 1656838,
+      "original_audio_path": "448090 Quynh Nhu - Don Coi/Don Jon.mp3",
+      "linked_osu_path": "448090 Quynh Nhu - Don Coi/Quynh Nhu - Don Coi (Mako Sakata) [Hard].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/448090 Quynh Nhu - Don Coi.arc": "20f61997faa78d6ab86236ada2c2e339",
+        "beatlab/448090 Quynh Nhu - Don Coi.lab": "308bdab2c49956ead1b38b5f0a211f15",
+        "chordlab/448090 Quynh Nhu - Don Coi.lab": "c7dade622f97d49dc27685ab20cb9e0e",
+        "keylab/448090 Quynh Nhu - Don Coi.lab": "4264d6c98a8ed94f34f7734e70db3f50"
+      }
+    },
+    {
+      "id": "456986",
+      "name": "456986 Komiya Mao - (can you) understand me",
+      "beatmapset_id": 456986,
+      "audio_filename": "456986 Komiya Mao - (can you) understand me.mp3",
+      "audio_md5": "861dce049253f1e293c360582864efaa",
+      "audio_bytes": 2216390,
+      "original_audio_path": "456986 Komiya Mao - (can you) understand me/uhh.mp3",
+      "linked_osu_path": "456986 Komiya Mao - (can you) understand me/Komiya Mao - (can you) understand me (Sotarks) [hard].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/456986 Komiya Mao - (can you) understand me.arc": "6e82bee786334bb3108bfe596dca4b46",
+        "beatlab/456986 Komiya Mao - (can you) understand me.lab": "620ac75517c29a28966043e7ed5d06d3",
+        "chordlab/456986 Komiya Mao - (can you) understand me.lab": "a822cfbd9286fd019c6cbb94bb1570d9",
+        "keylab/456986 Komiya Mao - (can you) understand me.lab": "21985a2b57fa90bee5c9d21626c581b4"
+      }
+    },
+    {
+      "id": "464507",
+      "name": "464507 Vorovaiki - Devchonka ryjaya",
+      "beatmapset_id": 464507,
+      "audio_filename": "464507 Vorovaiki - Devchonka ryjaya.mp3",
+      "audio_md5": "9fa3d29511038c8dc3fc98a28da8aa84",
+      "audio_bytes": 2916519,
+      "original_audio_path": "464507 Vorovaiki - Devchonka ryjaya/audio.mp3",
+      "linked_osu_path": "464507 Vorovaiki - Devchonka ryjaya/Vorovaiki - Devchonka ryjaya (Marmowka) [Bakari's Extreme].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/464507 Vorovaiki - Devchonka ryjaya.arc": "5e886cc95ca89785d1ed1467a97ef93f",
+        "beatlab/464507 Vorovaiki - Devchonka ryjaya.lab": "642437e9a8020f31204a4063ebd169b9",
+        "chordlab/464507 Vorovaiki - Devchonka ryjaya.lab": "3fc3850fba7da9c22824dfbc99fde390",
+        "keylab/464507 Vorovaiki - Devchonka ryjaya.lab": "8ce77a2c647e3010f4e91e5c9a291197"
+      }
+    },
+    {
+      "id": "466104",
+      "name": "466104 t+pazolite - Intro - Dockaaaahhhnnn!!",
+      "beatmapset_id": 466104,
+      "audio_filename": "466104 t+pazolite - Intro - Dockaaaahhhnnn!!.mp3",
+      "audio_md5": "4bb532d07aaf471dfb525c8bff7d7940",
+      "audio_bytes": 1852021,
+      "original_audio_path": "466104 t+pazolite - Intro - Dockaaaahhhnnn!!/[C.H.S] 01. Intro - Dockaaaahhhnnn!!.mp3",
+      "linked_osu_path": "466104 t+pazolite - Intro - Dockaaaahhhnnn!!/t+pazolite - Intro - Dockaaaahhhnnn!! (DeRandom Otaku) [Easy].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/466104 t+pazolite - Intro - Dockaaaahhhnnn!!.arc": "e7a0c038a4f570addfb3266ffb9b4311",
+        "beatlab/466104 t+pazolite - Intro - Dockaaaahhhnnn!!.lab": "440425aba982c48ae2feae7d93b76602",
+        "chordlab/466104 t+pazolite - Intro - Dockaaaahhhnnn!!.lab": "a6913c696b27fb3096fb14d68d06a949",
+        "keylab/466104 t+pazolite - Intro - Dockaaaahhhnnn!!.lab": "d101ee4eb041646936fe83b664813dad"
+      }
+    },
+    {
+      "id": "469782",
+      "name": "469782 Ryu- featMayumi Morinaga - Din Don Dan",
+      "beatmapset_id": 469782,
+      "audio_filename": "469782 Ryu- featMayumi Morinaga - Din Don Dan.mp3",
+      "audio_md5": "69bb2337936edca02dbd9720b03dd5e6",
+      "audio_bytes": 2614462,
+      "original_audio_path": "469782 Ryu- featMayumi Morinaga - Din Don Dan/Din Don Dan.mp3",
+      "linked_osu_path": "469782 Ryu- featMayumi Morinaga - Din Don Dan/Ryu feat.Mayumi Morinaga - Din Don Dan (moonlightleaf) [ClariS' Insane].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/469782 Ryu- featMayumi Morinaga - Din Don Dan.arc": "ec5203b45fed3f6824707259afca9ca9",
+        "beatlab/469782 Ryu- featMayumi Morinaga - Din Don Dan.lab": "7a20812d8ff0ab227cf5027202660a39",
+        "chordlab/469782 Ryu- featMayumi Morinaga - Din Don Dan.lab": "c86f3cd7ecf50918adc98c3051c9274f",
+        "keylab/469782 Ryu- featMayumi Morinaga - Din Don Dan.lab": "6010bf324c33db1affedb44b9562bc4f",
+        "osumaplab/469782 Ryu- featMayumi Morinaga - Din Don Dan.lab": "1745370389184400fc3455df97eaa1ea",
+        "osumaplab/469782 Ryu- featMayumi Morinaga - Din Don Dan.linkedInfo": "954aeff6ba71e4241efa48a7fc937747"
+      }
+    },
+    {
+      "id": "470075",
+      "name": "470075 seira - Love Letter no Kawari ni kono Uta wo",
+      "beatmapset_id": 470075,
+      "audio_filename": "470075 seira - Love Letter no Kawari ni kono Uta wo.mp3",
+      "audio_md5": "b59dc3d9edcb92d5c54648a4ef782ae8",
+      "audio_bytes": 13080118,
+      "original_audio_path": "470075 seira - Love Letter no Kawari ni kono Uta wo/audio.mp3",
+      "linked_osu_path": "470075 seira - Love Letter no Kawari ni kono Uta wo/seira - Love Letter no Kawari ni kono Uta wo (Usami Sumireko) [Heart].osu",
+      "confidence": "3",
+      "annotations": {
+        "raw/470075 seira - Love Letter no Kawari ni kono Uta wo.arc": "b3e70d899b1e0cefa7f95a8e393209e1",
+        "beatlab/470075 seira - Love Letter no Kawari ni kono Uta wo.lab": "430f05f967ae5c95139fed2c64606a6f",
+        "chordlab/470075 seira - Love Letter no Kawari ni kono Uta wo.lab": "810891a073719c5347903f08b6987fbd",
+        "keylab/470075 seira - Love Letter no Kawari ni kono Uta wo.lab": "f141bd88661f51390481bcefaa9f0e5c"
+      }
+    },
+    {
+      "id": "474348",
+      "name": "474348 Kelly Bailey - Triage at Dawn",
+      "beatmapset_id": 474348,
+      "audio_filename": "474348 Kelly Bailey - Triage at Dawn.mp3",
+      "audio_md5": "69bedaf5032a3fc5aae03fba636fbb3f",
+      "audio_bytes": 1095811,
+      "original_audio_path": "474348 Kelly Bailey - Triage at Dawn/audio.mp3",
+      "linked_osu_path": "474348 Kelly Bailey - Triage at Dawn/Kelly Bailey - Triage at Dawn (diraimur) [Arphimigon's Easy].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/474348 Kelly Bailey - Triage at Dawn.arc": "64fc39ea563931534baaba1fd2574bc0",
+        "beatlab/474348 Kelly Bailey - Triage at Dawn.lab": "9883cff4ec7f81a38a7ee687f0f3fb44",
+        "chordlab/474348 Kelly Bailey - Triage at Dawn.lab": "2a32173bd38bbcfe3ded31d5e8b8763e",
+        "keylab/474348 Kelly Bailey - Triage at Dawn.lab": "bff7b63212c7c4ec810822aa7a526573"
+      }
+    },
+    {
+      "id": "475746",
+      "name": "475746 July - Prelude",
+      "beatmapset_id": 475746,
+      "audio_filename": "475746 July - Prelude.mp3",
+      "audio_md5": "014116ada64cb2774edb781e2dd70017",
+      "audio_bytes": 2354909,
+      "original_audio_path": "475746 July - Prelude/audio.mp3",
+      "linked_osu_path": "475746 July - Prelude/July - Prelude (Imakuri) [Calm].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/475746 July - Prelude.arc": "b89162f290dd5263f2af30f6a69dcd4c",
+        "beatlab/475746 July - Prelude.lab": "f4e9bad3395995c0744f28c531849fe3",
+        "chordlab/475746 July - Prelude.lab": "7a7e3e95c2fde27ca4e1ccdfd3398e1a",
+        "keylab/475746 July - Prelude.lab": "55deacb74c89f65cb7645aaf38bad272"
+      }
+    },
+    {
+      "id": "476760",
+      "name": "476760 Varien - The Silent Ones",
+      "beatmapset_id": 476760,
+      "audio_filename": "476760 Varien - The Silent Ones.mp3",
+      "audio_md5": "c9780f4168354b94eb6b23d8dcc133d2",
+      "audio_bytes": 1301653,
+      "original_audio_path": "476760 Varien - The Silent Ones/audio.mp3",
+      "linked_osu_path": "476760 Varien - The Silent Ones/Varien - The Silent Ones (Fanteer) [Hard].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/476760 Varien - The Silent Ones.arc": "810767cbad374d807d6ba230392e5944",
+        "beatlab/476760 Varien - The Silent Ones.lab": "9d60793c7e6a2c53d5763a5975d06a33",
+        "chordlab/476760 Varien - The Silent Ones.lab": "406f8883485d56fc060a7c73ffe76010",
+        "keylab/476760 Varien - The Silent Ones.lab": "503b87effa4cdc85d60bca7139a75497",
+        "osumaplab/476760 Varien - The Silent Ones.lab": "fae275acbe22512ef598f29734a83b28",
+        "osumaplab/476760 Varien - The Silent Ones.linkedInfo": "e9d9148df4a47ff649dc0ee3aad8fe0b"
+      }
+    },
+    {
+      "id": "489383",
+      "name": "489383 Kola Kid - press start",
+      "beatmapset_id": 489383,
+      "audio_filename": "489383 Kola Kid - press start.mp3",
+      "audio_md5": "a6a25a28aa48ef97375a6bf323feea22",
+      "audio_bytes": 690181,
+      "original_audio_path": "489383 Kola Kid - press start/Kola Kid-press start.mp3",
+      "linked_osu_path": "489383 Kola Kid - press start/Kola Kid - press start (Bonsai) [Advanced].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/489383 Kola Kid - press start.arc": "6ce55c19206953ba04206def81e674dd",
+        "beatlab/489383 Kola Kid - press start.lab": "c750ce46ebe1ffd317f6a012f9469122",
+        "chordlab/489383 Kola Kid - press start.lab": "ca2a21a7c4ce844431650ef90653e5d2",
+        "keylab/489383 Kola Kid - press start.lab": "5171279a1334eaa2626e1fb8808738ed"
+      }
+    },
+    {
+      "id": "497156",
+      "name": "497156 Corpo-Mente - Dorma",
+      "beatmapset_id": 497156,
+      "audio_filename": "497156 Corpo-Mente - Dorma.mp3",
+      "audio_md5": "6df960026bc819c7792cbfae0e075874",
+      "audio_bytes": 7746070,
+      "original_audio_path": "497156 Corpo-Mente - Dorma/audio.mp3",
+      "linked_osu_path": "497156 Corpo-Mente - Dorma/Corpo-Mente - Dorma (Signum) [Eternal Sleep].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/497156 Corpo-Mente - Dorma.arc": "6e114d897d56e9200a15b2728221030e",
+        "beatlab/497156 Corpo-Mente - Dorma.lab": "e24b91fbce65bc8bebc501adca6dca05",
+        "chordlab/497156 Corpo-Mente - Dorma.lab": "7accdcab0dd149f17e202ac9d9529535",
+        "keylab/497156 Corpo-Mente - Dorma.lab": "4536654327d9719714787f3ee85b1180"
+      }
+    },
+    {
+      "id": "506863",
+      "name": "506863 LhoU - Renaissance",
+      "beatmapset_id": 506863,
+      "audio_filename": "506863 LhoU - Renaissance.mp3",
+      "audio_md5": "c196ac36f1d64e3ab4a794669108bde5",
+      "audio_bytes": 2718027,
+      "original_audio_path": "506863 LhoU - Renaissance/Renaissance.mp3",
+      "linked_osu_path": "506863 LhoU - Renaissance/LhoU - Renaissance (sahuang) [Insane].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/506863 LhoU - Renaissance.arc": "dcf49e7d1595ff47ec2d6257d6a890a8",
+        "beatlab/506863 LhoU - Renaissance.lab": "e3822a6726975242487fb237a6fe82be",
+        "chordlab/506863 LhoU - Renaissance.lab": "e8e30ac2e07a9dc78ace834181c0067d",
+        "keylab/506863 LhoU - Renaissance.lab": "6af41d8b3432ad1ab2f3e1e27fd9afa0",
+        "osumaplab/506863 LhoU - Renaissance.lab": "b39ea2b56bfce57ae66bca4c34bc6970",
+        "osumaplab/506863 LhoU - Renaissance.linkedInfo": "e48754a2297868ec783d7b57b0fe49d4"
+      }
+    },
+    {
+      "id": "51088",
+      "name": "51088 Dia Frampton - I Will (feat Blake Shelton)",
+      "beatmapset_id": 51088,
+      "audio_filename": "51088 Dia Frampton - I Will (feat Blake Shelton).mp3",
+      "audio_md5": "dc6bc5b73afc7162eb758ec375ffd374",
+      "audio_bytes": 3407665,
+      "original_audio_path": "51088 Dia Frampton - I Will (feat Blake Shelton)/Dia Frampton - I Will.mp3",
+      "linked_osu_path": "51088 Dia Frampton - I Will (feat Blake Shelton)/Dia Frampton - I Will (feat. Blake Shelton) (dkun) [Grace].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/51088 Dia Frampton - I Will (feat Blake Shelton).arc": "832fb05c9e7343d20b2c5c48819c0cde",
+        "beatlab/51088 Dia Frampton - I Will (feat Blake Shelton).lab": "88ebd790573d32e108641d92cdb96e64",
+        "chordlab/51088 Dia Frampton - I Will (feat Blake Shelton).lab": "7ac2e4197bbf37ff55bbf5ff7db6fe83",
+        "keylab/51088 Dia Frampton - I Will (feat Blake Shelton).lab": "2517a07d305cf9c646e58ac68ac5ddb8"
+      }
+    },
+    {
+      "id": "527431",
+      "name": "527431 Brad Breeck - Gravity Falls Theme Song",
+      "beatmapset_id": 527431,
+      "audio_filename": "527431 Brad Breeck - Gravity Falls Theme Song.mp3",
+      "audio_md5": "1d3490704ded4273ede1b0e036a3b500",
+      "audio_bytes": 962876,
+      "original_audio_path": "527431 Brad Breeck - Gravity Falls Theme Song/audio.mp3",
+      "linked_osu_path": "527431 Brad Breeck - Gravity Falls Theme Song/Brad Breeck - Gravity Falls Theme Song (Alphabet) [Bubblun's Insane].osu",
+      "confidence": "5",
+      "annotations": {
+        "raw/527431 Brad Breeck - Gravity Falls Theme Song.arc": "66506268a9e1dcb7cb37f4d8dbec10c2",
+        "beatlab/527431 Brad Breeck - Gravity Falls Theme Song.lab": "5ec92bdbe4f6d60146ba4babbdbd67ea",
+        "chordlab/527431 Brad Breeck - Gravity Falls Theme Song.lab": "7f04ae1b93cadaa2e2ad7e6fe81588e7",
+        "keylab/527431 Brad Breeck - Gravity Falls Theme Song.lab": "d83d6a14871c70bdf29107fdaa85eef9"
+      }
+    },
+    {
+      "id": "527811",
+      "name": "527811 TO-MAS feat Chima - FLIP FLAP FLIP FLAP",
+      "beatmapset_id": 527811,
+      "audio_filename": "527811 TO-MAS feat Chima - FLIP FLAP FLIP FLAP.mp3",
+      "audio_md5": "c3fec1f1e90ac4f419c33ba13b392175",
+      "audio_bytes": 2131130,
+      "original_audio_path": "527811 TO-MAS feat Chima - FLIP FLAP FLIP FLAP/audio.mp3",
+      "linked_osu_path": "527811 TO-MAS feat Chima - FLIP FLAP FLIP FLAP/TO-MAS feat. Chima - FLIP FLAP FLIP FLAP (Pata-Mon) [Hard].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/527811 TO-MAS feat Chima - FLIP FLAP FLIP FLAP.arc": "3be861a73d2d962acb437cc30febd5c8",
+        "beatlab/527811 TO-MAS feat Chima - FLIP FLAP FLIP FLAP.lab": "831e6c32062e78f8b1195ea34ab3b316",
+        "chordlab/527811 TO-MAS feat Chima - FLIP FLAP FLIP FLAP.lab": "5522278ced236975fe9a7f583c643ee2",
+        "keylab/527811 TO-MAS feat Chima - FLIP FLAP FLIP FLAP.lab": "42d68efba9f8cb9450814a443703c6b8",
+        "osumaplab/527811 TO-MAS feat Chima - FLIP FLAP FLIP FLAP.lab": "206e96fbb49f455bdcfae3c98f21e001",
+        "osumaplab/527811 TO-MAS feat Chima - FLIP FLAP FLIP FLAP.linkedInfo": "ce9386af326f274ca86f98366eca7b40"
+      }
+    },
+    {
+      "id": "528354",
+      "name": "528354 Naruse Jun(CVMinase Inori) - Watashi no Koe",
+      "beatmapset_id": 528354,
+      "audio_filename": "528354 Naruse Jun(CVMinase Inori) - Watashi no Koe.mp3",
+      "audio_md5": "415bfb69a9e5cdc7235b81bb6c7becf9",
+      "audio_bytes": 3939297,
+      "original_audio_path": "528354 Naruse Jun(CVMinase Inori) - Watashi no Koe/audio.mp3",
+      "linked_osu_path": "528354 Naruse Jun(CVMinase Inori) - Watashi no Koe/Naruse Jun(CV.Minase Inori) - Watashi no Koe (Ora) [Easy].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/528354 Naruse Jun(CVMinase Inori) - Watashi no Koe.arc": "e6a59e12c6076a2b969bfdb82fd1ab9d",
+        "beatlab/528354 Naruse Jun(CVMinase Inori) - Watashi no Koe.lab": "eeb2aeb687213fc9f1af71b1d5fd667f",
+        "chordlab/528354 Naruse Jun(CVMinase Inori) - Watashi no Koe.lab": "c1fb008ed9e9f77b95148ffa618c3e39",
+        "keylab/528354 Naruse Jun(CVMinase Inori) - Watashi no Koe.lab": "be8dcd5c1e3b01be2dfef993335cf034"
+      }
+    },
+    {
+      "id": "5285",
+      "name": "5285 IOSYS - Cirno's Perfect Math Class",
+      "beatmapset_id": 5285,
+      "audio_filename": "5285 IOSYS - Cirno's Perfect Math Class.mp3",
+      "audio_md5": "0e5a59f3501e32c3d2d5715e439af551",
+      "audio_bytes": 2072241,
+      "original_audio_path": "5285 IOSYS - Cirno's Perfect Math Class/IOSYS - Cirno's Perfect Math Class.mp3",
+      "linked_osu_path": "5285 IOSYS - Cirno's Perfect Math Class/IOSYS - Cirno's Perfect Math Class (Nharox) [-SiN-'s Hard].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/5285 IOSYS - Cirno's Perfect Math Class.arc": "59ee3c03be1f733535717ea796b71cd9",
+        "beatlab/5285 IOSYS - Cirno's Perfect Math Class.lab": "a8c46ab3baa47dfa3258d4279adb6c76",
+        "chordlab/5285 IOSYS - Cirno's Perfect Math Class.lab": "c6bd05b90cb9f16233da9ceeb613cb1a",
+        "keylab/5285 IOSYS - Cirno's Perfect Math Class.lab": "023c9ae62449fdcde11f18a7c96ec68b"
+      }
+    },
+    {
+      "id": "533194",
+      "name": "533194 Triodust - Rabi Rabi Park",
+      "beatmapset_id": 533194,
+      "audio_filename": "533194 Triodust - Rabi Rabi Park.mp3",
+      "audio_md5": "643bdf9047e3576847ad8ac323ee064b",
+      "audio_bytes": 2318591,
+      "original_audio_path": "533194 Triodust - Rabi Rabi Park/audio.mp3",
+      "linked_osu_path": "533194 Triodust - Rabi Rabi Park/Triodust - Rabi Rabi Park (Kyubey) [Easy].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/533194 Triodust - Rabi Rabi Park.arc": "7f0f47d8b7726317bad1e84cf8cbfea7",
+        "beatlab/533194 Triodust - Rabi Rabi Park.lab": "334f632af910e8c12c9b831992c5545c",
+        "chordlab/533194 Triodust - Rabi Rabi Park.lab": "3ce08e67d40228f6c2ba734ca819ec82",
+        "keylab/533194 Triodust - Rabi Rabi Park.lab": "12d41dfb76cd37390ba189ebb1ecbb1e",
+        "osumaplab/533194 Triodust - Rabi Rabi Park.lab": "6a45751f94ef4bd1d6e6525e374bba90",
+        "osumaplab/533194 Triodust - Rabi Rabi Park.linkedInfo": "6b6d98b2090722e40648d428feb77278"
+      }
+    },
+    {
+      "id": "5349",
+      "name": "5349 DrFlowershirts - Canon (O2 version)+",
+      "beatmapset_id": 5349,
+      "audio_filename": "5349 DrFlowershirts - Canon (O2 version)+.mp3",
+      "audio_md5": "59d7f3e2e3ef54c70f34cd3705e9788a",
+      "audio_bytes": 4468028,
+      "original_audio_path": "5349 DrFlowershirts - Canon (O2 version)+/Canon.mp3",
+      "linked_osu_path": "5349 DrFlowershirts - Canon (O2 version)+/Dr.Flowershirts - Canon (O2 version)+ (osu_CN_yaya) [Easy].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/5349 DrFlowershirts - Canon (O2 version)+.arc": "a04b8fa30f2a85327324e16d794535aa",
+        "beatlab/5349 DrFlowershirts - Canon (O2 version)+.lab": "7f4daebdee0304abb41e6a25d307d5c2",
+        "chordlab/5349 DrFlowershirts - Canon (O2 version)+.lab": "b146cdc996fa77624f59e64ce332c04b",
+        "keylab/5349 DrFlowershirts - Canon (O2 version)+.lab": "19663087861f7e1245ba413b68edc109"
+      }
+    },
+    {
+      "id": "535272",
+      "name": "535272 Orange Heart(cv-Honda Mariko) Neptune(cv-Tanaka Rie) - Mousou Katharsis",
+      "beatmapset_id": 535272,
+      "audio_filename": "535272 Orange Heart(cv-Honda Mariko) Neptune(cv-Tanaka Rie) - Mousou Katharsis.mp3",
+      "audio_md5": "b47954cde2f1ace3fec6faaa6d1cf48e",
+      "audio_bytes": 6666568,
+      "original_audio_path": "535272 Orange Heart(cv-Honda Mariko) Neptune(cv-Tanaka Rie) - Mousou Katharsis/audio.mp3",
+      "linked_osu_path": "535272 Orange Heart(cv-Honda Mariko) Neptune(cv-Tanaka Rie) - Mousou Katharsis/Orange Heart(cvHonda Mariko) Neptune(cvTanaka Rie) - Mousou Katharsis (Shurelia) [Hard].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/535272 Orange Heart(cv-Honda Mariko) Neptune(cv-Tanaka Rie) - Mousou Katharsis.arc": "2c3b45b7c7c85c09fb9342b66390fc91",
+        "beatlab/535272 Orange Heart(cv-Honda Mariko) Neptune(cv-Tanaka Rie) - Mousou Katharsis.lab": "6e674129914a3ba7ba4c2d15819c9788",
+        "chordlab/535272 Orange Heart(cv-Honda Mariko) Neptune(cv-Tanaka Rie) - Mousou Katharsis.lab": "e5115e14600493584f6b7f52edf7646b",
+        "keylab/535272 Orange Heart(cv-Honda Mariko) Neptune(cv-Tanaka Rie) - Mousou Katharsis.lab": "f2d5a58bf823520d3809f7fcd4e50684"
+      }
+    },
+    {
+      "id": "536984",
+      "name": "536984 Hanser, Pao Pao - Urushi Yoru Yuki",
+      "beatmapset_id": 536984,
+      "audio_filename": "536984 Hanser, Pao Pao - Urushi Yoru Yuki.mp3",
+      "audio_md5": "f91562155f29f9dd284436688d67cb1f",
+      "audio_bytes": 2324199,
+      "original_audio_path": "536984 Hanser, Pao Pao - Urushi Yoru Yuki/audio.mp3",
+      "linked_osu_path": "536984 Hanser, Pao Pao - Urushi Yoru Yuki/Hanser, Pao Pao - Urushi Yoru Yuki (Gaia) [Hard].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/536984 Hanser, Pao Pao - Urushi Yoru Yuki.arc": "66dd1d8e92920980104db85663d7b96d",
+        "beatlab/536984 Hanser, Pao Pao - Urushi Yoru Yuki.lab": "bf38cf2ba0543abaa005449ea543406b",
+        "chordlab/536984 Hanser, Pao Pao - Urushi Yoru Yuki.lab": "ce2eb864d37e0b8c009620cff76a7521",
+        "keylab/536984 Hanser, Pao Pao - Urushi Yoru Yuki.lab": "bcb3b3a8084f3217e3d789d43986be39"
+      }
+    },
+    {
+      "id": "547494",
+      "name": "547494 Araragi Tsukihi(Iguchi Yuka) - Platinum Disco",
+      "beatmapset_id": 547494,
+      "audio_filename": "547494 Araragi Tsukihi(Iguchi Yuka) - Platinum Disco.mp3",
+      "audio_md5": "778814da3bc4225894cb521bf5b4e271",
+      "audio_bytes": 2144567,
+      "original_audio_path": "547494 Araragi Tsukihi(Iguchi Yuka) - Platinum Disco/audio.mp3",
+      "linked_osu_path": "547494 Araragi Tsukihi(Iguchi Yuka) - Platinum Disco/Araragi Tsukihi(Iguchi Yuka) - Platinum Disco (Karen) [Expert].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/547494 Araragi Tsukihi(Iguchi Yuka) - Platinum Disco.arc": "c0cab3828db588a2c7e1c09f735cfff3",
+        "beatlab/547494 Araragi Tsukihi(Iguchi Yuka) - Platinum Disco.lab": "3ad4134187bab6449597efd9e60071bc",
+        "chordlab/547494 Araragi Tsukihi(Iguchi Yuka) - Platinum Disco.lab": "866a93dceb2c739ed6a89ccf0a23029e",
+        "keylab/547494 Araragi Tsukihi(Iguchi Yuka) - Platinum Disco.lab": "ecd22171175804700a5e6eaba3ed4145",
+        "osumaplab/547494 Araragi Tsukihi(Iguchi Yuka) - Platinum Disco.lab": "f1388ed04a5831100d591b200dc14906",
+        "osumaplab/547494 Araragi Tsukihi(Iguchi Yuka) - Platinum Disco.linkedInfo": "fe9732baec0e8067bec43e9ca3010078"
+      }
+    },
+    {
+      "id": "547772",
+      "name": "547772 cYsmix - bells!",
+      "beatmapset_id": 547772,
+      "audio_filename": "547772 cYsmix - bells!.mp3",
+      "audio_md5": "40e531d949a8ffff7ee3b3482632c8bd",
+      "audio_bytes": 2013321,
+      "original_audio_path": "547772 cYsmix - bells!/cYsmix - bells!.mp3",
+      "linked_osu_path": "547772 cYsmix - bells!/cYsmix - bells! (Gero) [christmas bells!].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/547772 cYsmix - bells!.arc": "60435db11afc551ac49915148326f4fe",
+        "beatlab/547772 cYsmix - bells!.lab": "f1611764e289d807a266a9407b5d92a6",
+        "chordlab/547772 cYsmix - bells!.lab": "36c8b40258143c7d24af02cdad8927e8",
+        "keylab/547772 cYsmix - bells!.lab": "90b00a8588ddafb9feabf9fa9dbe82ab"
+      }
+    },
+    {
+      "id": "55359",
+      "name": "55359 Hatsuki Yura - Ganbare! Koi no Hana",
+      "beatmapset_id": 55359,
+      "audio_filename": "55359 Hatsuki Yura - Ganbare! Koi no Hana.mp3",
+      "audio_md5": "762eec3f0c4dd183301ae54e35b2a134",
+      "audio_bytes": 3963506,
+      "original_audio_path": "55359 Hatsuki Yura - Ganbare! Koi no Hana/Ganbare! Koi no hana.mp3",
+      "linked_osu_path": "55359 Hatsuki Yura - Ganbare! Koi no Hana/Hatsuki Yura - Ganbare! Koi no Hana (Kotone) [fanzhen].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/55359 Hatsuki Yura - Ganbare! Koi no Hana.arc": "eaa3c1eb80cf5e26b6763b80385a90c4",
+        "beatlab/55359 Hatsuki Yura - Ganbare! Koi no Hana.lab": "bf094c97262c404f354f6f446883c97f",
+        "chordlab/55359 Hatsuki Yura - Ganbare! Koi no Hana.lab": "385115b8391745e4b5da8d607b735114",
+        "keylab/55359 Hatsuki Yura - Ganbare! Koi no Hana.lab": "2505cbacdd933f66fdd27bbfd097bfb0",
+        "osumaplab/55359 Hatsuki Yura - Ganbare! Koi no Hana.lab": "9dabbd06d2dc051253468a5c07de0f1a",
+        "osumaplab/55359 Hatsuki Yura - Ganbare! Koi no Hana.linkedInfo": "bab342f5f28b768dd309bfa8e3876381"
+      }
+    },
+    {
+      "id": "557532",
+      "name": "557532 bradbreeck - Emotional Uplifting Orchestral",
+      "beatmapset_id": 557532,
+      "audio_filename": "557532 bradbreeck - Emotional Uplifting Orchestral.mp3",
+      "audio_md5": "4071c8aa33ceacf9c1c20c66bba2acec",
+      "audio_bytes": 915402,
+      "original_audio_path": "557532 bradbreeck - Emotional Uplifting Orchestral/audio.mp3",
+      "linked_osu_path": "557532 bradbreeck - Emotional Uplifting Orchestral/bradbreeck - Emotional Uplifting Orchestral (Venix) [Heaven].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/557532 bradbreeck - Emotional Uplifting Orchestral.arc": "30a9e989a7fcd5b11804e0f5de56e393",
+        "beatlab/557532 bradbreeck - Emotional Uplifting Orchestral.lab": "86d444b8919254413c0575dd1cd691bb",
+        "chordlab/557532 bradbreeck - Emotional Uplifting Orchestral.lab": "8374649699ba54c9f0ad766a0b4e1a23",
+        "keylab/557532 bradbreeck - Emotional Uplifting Orchestral.lab": "34b0d06e87eb3667cbe1fe3b5d48fc46"
+      }
+    },
+    {
+      "id": "56036",
+      "name": "56036 Itou Masumi - Yume no Naka no Watashi no Yume (TV size)",
+      "beatmapset_id": 56036,
+      "audio_filename": "56036 Itou Masumi - Yume no Naka no Watashi no Yume (TV size).mp3",
+      "audio_md5": "f6ca3c766647ab9016bf4712a3baf58a",
+      "audio_bytes": 2145205,
+      "original_audio_path": "56036 Itou Masumi - Yume no Naka no Watashi no Yume (TV size)/Yume no Naka no Watashi no Yume (TV size).mp3",
+      "linked_osu_path": "56036 Itou Masumi - Yume no Naka no Watashi no Yume (TV size)/Itou Masumi - Yume no Naka no Watashi no Yume (TV size) (Damnae) [Easy].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/56036 Itou Masumi - Yume no Naka no Watashi no Yume (TV size).arc": "09799237bfc678c457c139d00966eaa8",
+        "beatlab/56036 Itou Masumi - Yume no Naka no Watashi no Yume (TV size).lab": "90bffd4b40af086124ddc16f3a777514",
+        "chordlab/56036 Itou Masumi - Yume no Naka no Watashi no Yume (TV size).lab": "51e26e3c56a4a821dbaa298873951553",
+        "keylab/56036 Itou Masumi - Yume no Naka no Watashi no Yume (TV size).lab": "03b06280ac4d62c8cc2799993585cf59"
+      }
+    },
+    {
+      "id": "56411",
+      "name": "56411 Yueporu feat Hatsune Miku - Kurikaeshi Hitotsubu",
+      "beatmapset_id": 56411,
+      "audio_filename": "56411 Yueporu feat Hatsune Miku - Kurikaeshi Hitotsubu.mp3",
+      "audio_md5": "c3db491dfe9a69f8471032cdf851181a",
+      "audio_bytes": 10062397,
+      "original_audio_path": "56411 Yueporu feat Hatsune Miku - Kurikaeshi Hitotsubu/.mp3",
+      "linked_osu_path": "56411 Yueporu feat Hatsune Miku - Kurikaeshi Hitotsubu/Yueporu feat. Hatsune Miku - Kurikaeshi Hitotsubu (Zweib) [Jumping].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/56411 Yueporu feat Hatsune Miku - Kurikaeshi Hitotsubu.arc": "bd69360d4ba5baa0f364574b084b9075",
+        "beatlab/56411 Yueporu feat Hatsune Miku - Kurikaeshi Hitotsubu.lab": "9ad1e224a8626c9f0a8461cb22a3d553",
+        "chordlab/56411 Yueporu feat Hatsune Miku - Kurikaeshi Hitotsubu.lab": "254492b7e157e9fec5bb87f41a93b7f7",
+        "keylab/56411 Yueporu feat Hatsune Miku - Kurikaeshi Hitotsubu.lab": "e54606e350cbf55fb87a7ebb34aafefc"
+      }
+    },
+    {
+      "id": "570699",
+      "name": "570699 Sangatsu no Phantasia - Fairy Tale -TV Size-",
+      "beatmapset_id": 570699,
+      "audio_filename": "570699 Sangatsu no Phantasia - Fairy Tale -TV Size-.mp3",
+      "audio_md5": "de59d965d615e7f49973e729dfc26d71",
+      "audio_bytes": 2196969,
+      "original_audio_path": "570699 Sangatsu no Phantasia - Fairy Tale -TV Size-/audio.mp3",
+      "linked_osu_path": "570699 Sangatsu no Phantasia - Fairy Tale -TV Size-/Sangatsu no Phantasia - Fairy Tale -TV Size- (Sidetail) [Demi].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/570699 Sangatsu no Phantasia - Fairy Tale -TV Size-.arc": "7b4973c7db5c7fc5a4b80a322bca836d",
+        "beatlab/570699 Sangatsu no Phantasia - Fairy Tale -TV Size-.lab": "5160744e859c31d04db8c1c1a3edb47b",
+        "chordlab/570699 Sangatsu no Phantasia - Fairy Tale -TV Size-.lab": "4dd21f39b89ea9b3b8e0d81867948983",
+        "keylab/570699 Sangatsu no Phantasia - Fairy Tale -TV Size-.lab": "0fd3f104b405b53ac921b4814627ed01"
+      }
+    },
+    {
+      "id": "591551",
+      "name": "591551 Koronba 4-gou - Lamprey Hole",
+      "beatmapset_id": 591551,
+      "audio_filename": "591551 Koronba 4-gou - Lamprey Hole.mp3",
+      "audio_md5": "2e7e02e88c6917c6f5ca617d45350c8a",
+      "audio_bytes": 5327023,
+      "original_audio_path": "591551 Koronba 4-gou - Lamprey Hole/audio.mp3",
+      "linked_osu_path": "591551 Koronba 4-gou - Lamprey Hole/Koronba 4-gou - Lamprey Hole (Moskas) [Walk in Park].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/591551 Koronba 4-gou - Lamprey Hole.arc": "628ab283be7a75db8105bd1a91c36e15",
+        "beatlab/591551 Koronba 4-gou - Lamprey Hole.lab": "8b986a97ff8094fe8ea197bb089a38d7",
+        "chordlab/591551 Koronba 4-gou - Lamprey Hole.lab": "37691606a8edaf756eb1fa2ef0fcc05b",
+        "keylab/591551 Koronba 4-gou - Lamprey Hole.lab": "17f3c074fae9df834e7a6a7c56d915b3"
+      }
+    },
+    {
+      "id": "592509",
+      "name": "592509 Vanic - Samurai (Spirix Remix)",
+      "beatmapset_id": 592509,
+      "audio_filename": "592509 Vanic - Samurai (Spirix Remix).mp3",
+      "audio_md5": "1c3f52e7d18325fab0d5a853157754cc",
+      "audio_bytes": 2000460,
+      "original_audio_path": "592509 Vanic - Samurai (Spirix Remix)/audio.mp3",
+      "linked_osu_path": "592509 Vanic - Samurai (Spirix Remix)/Vanic - Samurai (Spirix Remix) (Monstrata) [Easy].osu",
+      "confidence": "3",
+      "annotations": {
+        "raw/592509 Vanic - Samurai (Spirix Remix).arc": "b41bab593ed4f05401a38d4da79fa496",
+        "beatlab/592509 Vanic - Samurai (Spirix Remix).lab": "997c1a9227f9cb7de2de9c163f864465",
+        "chordlab/592509 Vanic - Samurai (Spirix Remix).lab": "a2dd19205c26b0b16d920fa42804fe1d",
+        "keylab/592509 Vanic - Samurai (Spirix Remix).lab": "6de7cd0467c4aae38936a7d0a4260061"
+      }
+    },
+    {
+      "id": "596704",
+      "name": "596704 ClariS - Hitorigoto -TV MIX-",
+      "beatmapset_id": 596704,
+      "audio_filename": "596704 ClariS - Hitorigoto -TV MIX-.mp3",
+      "audio_md5": "55c394fc73d32f2902cb16515c930e1b",
+      "audio_bytes": 2158549,
+      "original_audio_path": "596704 ClariS - Hitorigoto -TV MIX-/eromanga.mp3",
+      "linked_osu_path": "596704 ClariS - Hitorigoto -TV MIX-/ClariS - Hitorigoto -TV MIX- (Doormat) [Easy].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/596704 ClariS - Hitorigoto -TV MIX-.arc": "55de432cb8f0daa1487ef343c2a3745a",
+        "beatlab/596704 ClariS - Hitorigoto -TV MIX-.lab": "52a9cd6a4444accc47a19a412570fed9",
+        "chordlab/596704 ClariS - Hitorigoto -TV MIX-.lab": "09b9a15e2047baf9dbd47bcf6c84241b",
+        "keylab/596704 ClariS - Hitorigoto -TV MIX-.lab": "1650a2c4f6aebeaf15947452a8322087"
+      }
+    },
+    {
+      "id": "597840",
+      "name": "597840 The Rembrandts - I'll Be There For You (TV Version)",
+      "beatmapset_id": 597840,
+      "audio_filename": "597840 The Rembrandts - I'll Be There For You (TV Version).mp3",
+      "audio_md5": "c284175bfb35b2a3ccdbbb9d80ecb27f",
+      "audio_bytes": 776048,
+      "original_audio_path": "597840 The Rembrandts - I'll Be There For You (TV Version)/friendsu.mp3",
+      "linked_osu_path": "597840 The Rembrandts - I'll Be There For You (TV Version)/The Rembrandts - I'll Be There For You (TV Version) (Sotarks) [Akitoshi's Normal].osu",
+      "confidence": "3",
+      "annotations": {
+        "raw/597840 The Rembrandts - I'll Be There For You (TV Version).arc": "df632dbe1b304426b2dd8fb819477ba1",
+        "beatlab/597840 The Rembrandts - I'll Be There For You (TV Version).lab": "da99881a4ae3b5d3127f891056b37a8c",
+        "chordlab/597840 The Rembrandts - I'll Be There For You (TV Version).lab": "f9275f0ba423091ddc827a09e0fa179c",
+        "keylab/597840 The Rembrandts - I'll Be There For You (TV Version).lab": "d5ddb066bbb7127de09701dc6dc4e19d"
+      }
+    },
+    {
+      "id": "598869",
+      "name": "598869 ilem - Hua Er Na Ji",
+      "beatmapset_id": 598869,
+      "audio_filename": "598869 ilem - Hua Er Na Ji.mp3",
+      "audio_md5": "b0afbaf82c8550de6c24e14077f32bc5",
+      "audio_bytes": 5689312,
+      "original_audio_path": "598869 ilem - Hua Er Na Ji/audio.MP3",
+      "linked_osu_path": "598869 ilem - Hua Er Na Ji/ilem - Hua Er Na Ji (F D Flourite) [Overdose].osu",
+      "confidence": "3",
+      "annotations": {
+        "raw/598869 ilem - Hua Er Na Ji.arc": "ad83e51a01a12bad70c004c1af38a1ec",
+        "beatlab/598869 ilem - Hua Er Na Ji.lab": "fa0fca8cad4415e38a8090bbb3ba4f7c",
+        "chordlab/598869 ilem - Hua Er Na Ji.lab": "e3b03c8bdced55338f35b8dde46ed276",
+        "keylab/598869 ilem - Hua Er Na Ji.lab": "a0ac7c973c99db73968d84bf3ef24bfe"
+      }
+    },
+    {
+      "id": "602367",
+      "name": "602367 Koronba - A Sardine Grows from the Soil",
+      "beatmapset_id": 602367,
+      "audio_filename": "602367 Koronba - A Sardine Grows from the Soil.mp3",
+      "audio_md5": "a2a0418d56c90ea7e82e02993629e01e",
+      "audio_bytes": 4045133,
+      "original_audio_path": "602367 Koronba - A Sardine Grows from the Soil/audio.mp3",
+      "linked_osu_path": "602367 Koronba - A Sardine Grows from the Soil/Koronba - A Sardine Grows from the Soil (Damnjelly) [Hard].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/602367 Koronba - A Sardine Grows from the Soil.arc": "08f09776818d5c53ae6fec855dd3fda0",
+        "beatlab/602367 Koronba - A Sardine Grows from the Soil.lab": "91cbd78bc2d116e06eabc22013178618",
+        "chordlab/602367 Koronba - A Sardine Grows from the Soil.lab": "68622931e310f8d1b387bd45e58de3c8",
+        "keylab/602367 Koronba - A Sardine Grows from the Soil.lab": "c00a7fcc4fbc5d10dadcccf94a3dd8c2"
+      }
+    },
+    {
+      "id": "639700",
+      "name": "639700 Riko (CV- Tomita Miyu), Regu (CV- Mariya Ise) - Deep in Abyss",
+      "beatmapset_id": 639700,
+      "audio_filename": "639700 Riko (CV- Tomita Miyu), Regu (CV- Mariya Ise) - Deep in Abyss.mp3",
+      "audio_md5": "5be3d8627620d83a4f6ffea64500ef5a",
+      "audio_bytes": 1935288,
+      "original_audio_path": "639700 Riko (CV- Tomita Miyu), Regu (CV- Mariya Ise) - Deep in Abyss/abyss.mp3",
+      "linked_osu_path": "639700 Riko (CV- Tomita Miyu), Regu (CV- Mariya Ise) - Deep in Abyss/Riko (CV Tomita Miyu), Regu (CV Mariya Ise) - Deep in Abyss (Underforest) [Hard].osu",
+      "confidence": "3",
+      "annotations": {
+        "raw/639700 Riko (CV- Tomita Miyu), Regu (CV- Mariya Ise) - Deep in Abyss.arc": "8ef03059f6a5ffd76aca0bcb63541586",
+        "beatlab/639700 Riko (CV- Tomita Miyu), Regu (CV- Mariya Ise) - Deep in Abyss.lab": "92fb32a75a67e0b437bc920f8ce81046",
+        "chordlab/639700 Riko (CV- Tomita Miyu), Regu (CV- Mariya Ise) - Deep in Abyss.lab": "04294660494d7bc5f2ea3ef92563e499",
+        "keylab/639700 Riko (CV- Tomita Miyu), Regu (CV- Mariya Ise) - Deep in Abyss.lab": "fbae92a4254cdf9b4b8e6fb716f9c6f9"
+      }
+    },
+    {
+      "id": "697895",
+      "name": "697895 Meramipop - Secret Desire - Dyes Remix -",
+      "beatmapset_id": 697895,
+      "audio_filename": "697895 Meramipop - Secret Desire - Dyes Remix -.mp3",
+      "audio_md5": "cbf13242da72ba636023f407884eee9a",
+      "audio_bytes": 9127522,
+      "original_audio_path": "697895 Meramipop - Secret Desire - Dyes Remix -/audio.mp3",
+      "linked_osu_path": "697895 Meramipop - Secret Desire - Dyes Remix -/Meramipop - Secret Desire - Dyes Remix - (Skystar) [Irregular].osu",
+      "confidence": "6",
+      "annotations": {
+        "raw/697895 Meramipop - Secret Desire - Dyes Remix -.arc": "55c8d4eb479be63ebf57a32e09076b20",
+        "beatlab/697895 Meramipop - Secret Desire - Dyes Remix -.lab": "f42dcf98d160638004871949aa9f7dfb",
+        "chordlab/697895 Meramipop - Secret Desire - Dyes Remix -.lab": "2b8a957fb9b9db1864f46618cca8a969",
+        "keylab/697895 Meramipop - Secret Desire - Dyes Remix -.lab": "d26a99314f14a18d89f772dace9ab0f0"
+      }
+    },
+    {
+      "id": "7104",
+      "name": "7104 Yuu - UN Owen was Her",
+      "beatmapset_id": 7104,
+      "audio_filename": "7104 Yuu - UN Owen was Her.mp3",
+      "audio_md5": "c22c8a2cb9ba76a11b32bd11cac1e88d",
+      "audio_bytes": 5837057,
+      "original_audio_path": "7104 Yuu - UN Owen was Her/owen.mp3",
+      "linked_osu_path": "7104 Yuu - UN Owen was Her/Yuu - U.N. Owen was Her (ignorethis) [DJPop's Insane].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/7104 Yuu - UN Owen was Her.arc": "c5345288a676afa28d1cabfbfd90f98e",
+        "beatlab/7104 Yuu - UN Owen was Her.lab": "6fdbdc5b1a0c19ba7dacc062169d3c3c",
+        "chordlab/7104 Yuu - UN Owen was Her.lab": "0552f62453de929b854d72074afe013b",
+        "keylab/7104 Yuu - UN Owen was Her.lab": "881eb4f189db2f4af1a7173c4411cd2e"
+      }
+    },
+    {
+      "id": "72137",
+      "name": "72137 Kan R Gao - To the Moon - Main Theme",
+      "beatmapset_id": 72137,
+      "audio_filename": "72137 Kan R Gao - To the Moon - Main Theme.mp3",
+      "audio_md5": "246a46bc2a8db45da34081af67604c14",
+      "audio_bytes": 3006513,
+      "original_audio_path": "72137 Kan R Gao - To the Moon - Main Theme/To the Moon - Main Theme.mp3",
+      "linked_osu_path": "72137 Kan R Gao - To the Moon - Main Theme/Kan R. Gao - To the Moon - Main Theme (Xgor) [Easy].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/72137 Kan R Gao - To the Moon - Main Theme.arc": "b2dba13edaebe6ed491bc5d7e0415c40",
+        "beatlab/72137 Kan R Gao - To the Moon - Main Theme.lab": "8d7095a3da5c2df8b872411f8052e472",
+        "chordlab/72137 Kan R Gao - To the Moon - Main Theme.lab": "1335844cd94249daddb9fe28e6b962a0",
+        "keylab/72137 Kan R Gao - To the Moon - Main Theme.lab": "2a5e5818edd4ffcab3b39aab200f18ec"
+      }
+    },
+    {
+      "id": "7237",
+      "name": "7237 SMILEdk - Butterfly",
+      "beatmapset_id": 7237,
+      "audio_filename": "7237 SMILEdk - Butterfly.mp3",
+      "audio_md5": "de6e14b58a9850a7378b9907b0e546b8",
+      "audio_bytes": 1540323,
+      "original_audio_path": "7237 SMILEdk - Butterfly/BUTTERFLY.mp3",
+      "linked_osu_path": "7237 SMILEdk - Butterfly/SMILE.dk - Butterfly (Mogsworth) [Heavy].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/7237 SMILEdk - Butterfly.arc": "3e5ba5bbd300bc5d7a18e53e08e4c942",
+        "beatlab/7237 SMILEdk - Butterfly.lab": "5a1b212a4654b8568e80f6d108bbaf92",
+        "chordlab/7237 SMILEdk - Butterfly.lab": "cbb82851b64e45931446a11a49361498",
+        "keylab/7237 SMILEdk - Butterfly.lab": "04946f4f820f2bafbb47d33abe170373"
+      }
+    },
+    {
+      "id": "79271",
+      "name": "79271 Tsukasa - Visions",
+      "beatmapset_id": 79271,
+      "audio_filename": "79271 Tsukasa - Visions.mp3",
+      "audio_md5": "da578eda474838fd57b6668e8bd99b46",
+      "audio_bytes": 2019654,
+      "original_audio_path": "79271 Tsukasa - Visions/18 Visions.mp3",
+      "linked_osu_path": "79271 Tsukasa - Visions/Tsukasa - Visions (Flower) [Easy].osu",
+      "confidence": "6",
+      "annotations": {
+        "raw/79271 Tsukasa - Visions.arc": "346b3da5509313cc583cf8fc61717e54",
+        "beatlab/79271 Tsukasa - Visions.lab": "c21c501091376a9dfdc498d8caa584b1",
+        "chordlab/79271 Tsukasa - Visions.lab": "325071a8e0bc3ee7b17515f2795cceba",
+        "keylab/79271 Tsukasa - Visions.lab": "b6f7761976ac4390b516f674d56f28d2"
+      }
+    },
+    {
+      "id": "90935",
+      "name": "90935 IOSYS - Endless Tewi-ma Park",
+      "beatmapset_id": 90935,
+      "audio_filename": "90935 IOSYS - Endless Tewi-ma Park.mp3",
+      "audio_md5": "5555d6f3b9809a610f7a6f7002c99b72",
+      "audio_bytes": 2257847,
+      "original_audio_path": "90935 IOSYS - Endless Tewi-ma Park/Touhou - Iosys Tewis Mapaku To Endless Wi PV .mp3",
+      "linked_osu_path": "90935 IOSYS - Endless Tewi-ma Park/IOSYS - Endless Tewi-ma Park (Lanturn) [Tewi 2B Expert Edition].osu",
+      "confidence": "3",
+      "annotations": {
+        "raw/90935 IOSYS - Endless Tewi-ma Park.arc": "7dc48e59bb76d5ebb71d6605bf941ad4",
+        "beatlab/90935 IOSYS - Endless Tewi-ma Park.lab": "2c153b6f724258ff4ccf0d2b2a81bba1",
+        "chordlab/90935 IOSYS - Endless Tewi-ma Park.lab": "12d93dbb67650004e30a70f6a2f48de9",
+        "keylab/90935 IOSYS - Endless Tewi-ma Park.lab": "afad6d900b332dc1659a2ad0be7c38a3"
+      }
+    },
+    {
+      "id": "92",
+      "name": "92 Portal - Still Alive",
+      "beatmapset_id": 92,
+      "audio_filename": "92 Portal - Still Alive.mp3",
+      "audio_md5": "6b6978c4f6aac9e480677534dcd4746f",
+      "audio_bytes": 5647592,
+      "original_audio_path": "92 Portal - Still Alive/Portal - Still Alive.mp3",
+      "linked_osu_path": "92 Portal - Still Alive/Portal - Still Alive (Hitoshirenu Shourai) [Easy].osu",
+      "confidence": "6",
+      "annotations": {
+        "raw/92 Portal - Still Alive.arc": "e4b98f0456ccc7bb95517cf3dcbbb531",
+        "beatlab/92 Portal - Still Alive.lab": "0bf4b366aea2d65afa8a43ec7d231ea8",
+        "chordlab/92 Portal - Still Alive.lab": "07925df8ef1dbfae9c7aef608db5d863",
+        "keylab/92 Portal - Still Alive.lab": "3e1025af02f9594a9b19f24fdd4031e6"
+      }
+    },
+    {
+      "id": "92107",
+      "name": "92107 Ken Nakagawa - Try",
+      "beatmapset_id": 92107,
+      "audio_filename": "92107 Ken Nakagawa - Try.mp3",
+      "audio_md5": "86beae2e81251e0ebf824a5d32fd84ae",
+      "audio_bytes": 2042088,
+      "original_audio_path": "92107 Ken Nakagawa - Try/223 Try.mp3",
+      "linked_osu_path": "92107 Ken Nakagawa - Try/Ken Nakagawa - Try (Shulin) [Easy].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/92107 Ken Nakagawa - Try.arc": "47bfcba8426c1617d28756767c368b74",
+        "beatlab/92107 Ken Nakagawa - Try.lab": "661e8f11e0803051876dba744b2f73d9",
+        "chordlab/92107 Ken Nakagawa - Try.lab": "4be0cae3c893f2de22f67ad67ab74a90",
+        "keylab/92107 Ken Nakagawa - Try.lab": "d273f48392dee74e190fc0ac2c5a52c6",
+        "osumaplab/92107 Ken Nakagawa - Try.lab": "a0ddf589085c39d4b1343e0457ad4beb",
+        "osumaplab/92107 Ken Nakagawa - Try.linkedInfo": "911c357f7d9f031f91ae58636b195527"
+      }
+    },
+    {
+      "id": "92435",
+      "name": "92435 3L, mariapolo - WARNING!",
+      "beatmapset_id": 92435,
+      "audio_filename": "92435 3L, mariapolo - WARNING!.mp3",
+      "audio_md5": "d9b817459add8a87de6151964f8b0fbb",
+      "audio_bytes": 5300377,
+      "original_audio_path": "92435 3L, mariapolo - WARNING!/WARNING!.mp3",
+      "linked_osu_path": "92435 3L, mariapolo - WARNING!/3L, mariapolo - WARNING! (LunarSakuya) [Lunatic].osu",
+      "confidence": "6",
+      "annotations": {
+        "raw/92435 3L, mariapolo - WARNING!.arc": "02f184f4e8e3a4a4e5f99bb15f6c0eab",
+        "beatlab/92435 3L, mariapolo - WARNING!.lab": "fddb06a4d70f41f84fea02b0e72bd7f1",
+        "chordlab/92435 3L, mariapolo - WARNING!.lab": "6ec9c6a9ab4ce69d65795ccae987f8fc",
+        "keylab/92435 3L, mariapolo - WARNING!.lab": "2f0db8dbf98a7ebf3615718a60561051"
+      }
+    },
+    {
+      "id": "97351",
+      "name": "97351 koutaq - Tabetai Hito ga Iru",
+      "beatmapset_id": 97351,
+      "audio_filename": "97351 koutaq - Tabetai Hito ga Iru.mp3",
+      "audio_md5": "34c49bbd83f4be349c3b8c21413386df",
+      "audio_bytes": 2351673,
+      "original_audio_path": "97351 koutaq - Tabetai Hito ga Iru/tabe_short.mp3",
+      "linked_osu_path": "97351 koutaq - Tabetai Hito ga Iru/koutaq - Tabetai Hito ga Iru (RandomEffect) [Hard].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/97351 koutaq - Tabetai Hito ga Iru.arc": "1c6f23d3e0e54988ffb4cfadaced7c60",
+        "beatlab/97351 koutaq - Tabetai Hito ga Iru.lab": "fccd442367702d68850e56ea5e3d476b",
+        "chordlab/97351 koutaq - Tabetai Hito ga Iru.lab": "df717f15bd42fa65d5ceb9068e6fbe60",
+        "keylab/97351 koutaq - Tabetai Hito ga Iru.lab": "84fb072e8d8e40622b6eaae479c0aaf2",
+        "osumaplab/97351 koutaq - Tabetai Hito ga Iru.lab": "3c720568405dca1ff9acf170e054e0d0",
+        "osumaplab/97351 koutaq - Tabetai Hito ga Iru.linkedInfo": "b2c0c16d678fedcbac9add87c74e3931"
+      }
+    },
+    {
+      "id": "97933",
+      "name": "97933 Yanni - With an Orchid",
+      "beatmapset_id": 97933,
+      "audio_filename": "97933 Yanni - With an Orchid.mp3",
+      "audio_md5": "986544a953179f65057f26d95f2de8cc",
+      "audio_bytes": 4919566,
+      "original_audio_path": "97933 Yanni - With an Orchid/Yanni - With an Orchid.mp3",
+      "linked_osu_path": "97933 Yanni - With an Orchid/Yanni - With an Orchid (ts8zs) [Hard].osu",
+      "confidence": "4",
+      "annotations": {
+        "raw/97933 Yanni - With an Orchid.arc": "d04c0f715ddedf432988c0321e39ba83",
+        "beatlab/97933 Yanni - With an Orchid.lab": "5292a2c29bca5bda6f11d424463a79c4",
+        "chordlab/97933 Yanni - With an Orchid.lab": "9b03fbf1fc8d8bde2eb57b274dcb5131",
+        "keylab/97933 Yanni - With an Orchid.lab": "a1f9871aa23b38fe25d26fb1be1d271f"
+      }
+    }
+  ]
+}

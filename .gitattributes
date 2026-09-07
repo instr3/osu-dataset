@@ -1,0 +1,10 @@
+# Annotation checksums refer to exact local bytes; disable newline conversion.
+*.arc -text
+*.lab -text
+*.linkedInfo -text
+*.json text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf

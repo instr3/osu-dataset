@@ -8,10 +8,14 @@ Title=Hitorigoto -TV MIX-
 [TagConfig]
 Tagger=Carra
 Time=2017/9/11 18:35:15
-Confidence=1
+Confidence=4
 [MiscConfig]
 LinkedFile=596704 ClariS - Hitorigoto -TV MIX-/ClariS - Hitorigoto -TV MIX- (Doormat) [Easy].osu
 osuMapID=596704
+MetadataLine1=
+MetadataLine2=
+BeatsPerSegment=16
+RelativeMovingSpeed=0.7
 [BeatInfo]
 Count=246
 Beat_0={0.536,1,Eb Maj,Eb}

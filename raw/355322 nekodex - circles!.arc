@@ -8,10 +8,14 @@ Title=circles!
 [TagConfig]
 Tagger=Carra
 Time=2017/1/29 19:21:28
-Confidence=4
+Confidence=6
 [MiscConfig]
 LinkedFile=355322 nekodex - circles!/nekodex - circles! (pishifat) [hard!].osu
 osuMapID=355322
+MetadataLine1=
+MetadataLine2=
+BeatsPerSegment=-1
+RelativeMovingSpeed=0
 [BeatInfo]
 Count=211
 Beat_0={2.589,1,G Maj,D}

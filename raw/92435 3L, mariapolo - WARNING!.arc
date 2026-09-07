@@ -8,7 +8,7 @@ Title=WARNING!
 [TagConfig]
 Tagger=Carra
 Time=2016/10/11 8:27:56
-Confidence=2
+Confidence=6
 [MiscConfig]
 LinkedFile=92435 3L, mariapolo - WARNING!/3L, mariapolo - WARNING! (LunarSakuya) [Lunatic].osu
 osuMapID=92435
@@ -130,8 +130,8 @@ Beat_108={40.70719512195128,1,Eb min,B}
 Beat_109={41.073048780487866,0,Eb min,B}
 Beat_110={41.438902439024453,0,Eb min,B}
 Beat_111={41.804756097561039,0,Eb min,B}
-Beat_112={42.170609756097626,1,Eb min,C#}
-Beat_113={42.536463414634213,0,Eb min,C#}
+Beat_112={42.170609756097626,1,Eb min,C#sus4}
+Beat_113={42.536463414634213,0,Eb min,C#sus4}
 Beat_114={42.9023170731708,0,Eb min,C#}
 Beat_115={43.268170731707386,0,Eb min,C#}
 Beat_116={43.634024390243972,1,Eb min,Ebm}

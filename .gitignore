@@ -1,7 +1,21 @@
-/music
+# Downloaded media and analysis caches must never be distributed.
+music/
+downloads/
+*.mp3
+*.ogg
+*.wav
+*.flac
+*.m4a
+*.aac
+*.wma
+*.mp4
+*.avi
+*.webm
+*.osz
+*.zip
+*.7z
 *.vampcache
-/*.zip
-/beatlab
-/chordlab
-/keylab
-/osumaplab
+*.featurecache
+*.part
+__pycache__/
+download_report.json

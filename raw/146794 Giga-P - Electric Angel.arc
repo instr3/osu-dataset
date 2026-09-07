@@ -8,7 +8,7 @@ Title=Electric Angel
 [TagConfig]
 Tagger=Carra
 Time=2017/6/17 22:39:27
-Confidence=3
+Confidence=6
 [MiscConfig]
 LinkedFile=146794 Giga-P - Electric Angel/Giga-P - Electric Angel (pkmnyab) [Hard].osu
 osuMapID=146794
@@ -388,8 +388,8 @@ Beat_366={147.41404809727266,0,E Maj,B}
 Beat_367={147.81404809727266,0,E Maj,B}
 Beat_368={148.21404809727267,1,E Maj,Abm}
 Beat_369={148.61404809727264,0,E Maj,Abm}
-Beat_370={149.01404809727265,0,E Maj,C#m}
-Beat_371={149.41404809727266,0,E Maj,C#m}
+Beat_370={149.01404809727265,0,E Maj,C#m/Ab}
+Beat_371={149.41404809727266,0,E Maj,C#m/Ab}
 Beat_372={149.81404809727266,1,E Maj,A}
 Beat_373={150.21404809727267,0,E Maj,A}
 Beat_374={150.61404809727264,0,E Maj,B}

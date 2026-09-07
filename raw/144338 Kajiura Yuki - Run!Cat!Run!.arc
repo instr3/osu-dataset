@@ -8,7 +8,7 @@ Title=Run!Cat!Run!
 [TagConfig]
 Tagger=Carra
 Time=2017/5/14 10:01:40
-Confidence=4
+Confidence=6
 [MiscConfig]
 LinkedFile=144338 Kajiura Yuki - Run!Cat!Run!/Kajiura Yuki - Run!Cat!Run! (CodeS) [Easy].osu
 osuMapID=144338

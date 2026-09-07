@@ -12,6 +12,10 @@ Confidence=4
 [MiscConfig]
 LinkedFile=399491 Kaga (CV- Iguchi Yuka) - Kaga Misaki/Kaga (CV Iguchi Yuka) - Kaga Misaki (Startrick) [Dailycare's Hard].osu
 osuMapID=399491
+MetadataLine1=
+MetadataLine2=
+BeatsPerSegment=8
+RelativeMovingSpeed=0.5
 [BeatInfo]
 Count=290
 Beat_0={0.43,1,B min,Bm}
@@ -66,7 +70,7 @@ Beat_48={22.08413533834586,1,B min,Bm}
 Beat_49={22.535263157894729,0,B min,Bm}
 Beat_50={22.9863909774436,0,B min,Bm}
 Beat_51={23.437518796992475,0,B min,Bm}
-Beat_52={23.888646616541347,1,B min,Bm7}
+Beat_52={23.888646616541347,2,B min,Bm7}
 Beat_53={24.339774436090217,0,B min,Bm7}
 Beat_54={24.790902255639089,0,B min,Bm7}
 Beat_55={25.242030075187962,0,B min,Bm7}

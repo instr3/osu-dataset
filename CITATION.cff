@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+type: dataset
+message: "If you use the osu2017 dataset, please cite this fixed version using the metadata below."
+title: "osu2017: A Rhythm Game–Based Dataset for Beat Tracking, Chord Recognition, and Key Estimation"
+abstract: "The dataset contains cleaned beat annotations derived from osu! beatmaps, with chord and key annotations added separately."
+authors:
+  - family-names: Jiang
+    given-names: Junyan
+version: osu2017
+date-released: 2026-09-07
+url: "https://github.com/instr3/osu-dataset/tree/osu2017"
+repository-code: "https://github.com/instr3/osu-dataset"
+license: MIT

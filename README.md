@@ -1,6 +1,6 @@
-# osu2017: annotations and reproducible audio retrieval
+# osu2017: A Rhythm Game–Based Dataset for Beat Tracking, Chord Recognition, and Key Estimation
 
-osu2017 is a frozen dataset of **142 tracks** with beat, chord and key annotations derived from the music game osu!. The authoritative track list is [`manifest.json`](manifest.json), exported from the maintainer's local dataset. This repository distributes **annotations, metadata and code only; no audio or beatmap archives**.
+osu2017 is a frozen dataset of **142 tracks**. The dataset contains cleaned beat annotations derived from osu! beatmaps, with chord and key annotations added separately. The authoritative track list is [`manifest.json`](manifest.json), exported from the maintainer's local dataset. This repository distributes **annotations, metadata and code only; no audio or beatmap archives**.
 
 ## Get the audio locally
 
@@ -82,8 +82,27 @@ The existing repository [MIT license](LICENSE) is retained. No rights to third-p
 
 **Disclaimer:** Neither the author nor MIREX provides audio files or is affiliated with any of the third-party mirrors listed above; use of those mirrors is at your own risk.
 
+## Citation
+
+If you use osu2017, please cite the fixed dataset version below. GitHub's **Cite this repository** button provides APA and BibTeX exports from [`CITATION.cff`](CITATION.cff).
+
+Jiang, J. (2026). *osu2017: A Rhythm Game–Based Dataset for Beat Tracking, Chord Recognition, and Key Estimation* (Version osu2017) [Data set]. https://github.com/instr3/osu-dataset/tree/osu2017
+
+```bibtex
+@misc{jiang2026osu2017,
+  author       = {Jiang, Junyan},
+  title        = {{osu2017}: A Rhythm Game--Based Dataset for Beat Tracking,
+                  Chord Recognition, and Key Estimation},
+  year         = {2026},
+  howpublished = {Dataset, version osu2017},
+  url          = {https://github.com/instr3/osu-dataset/tree/osu2017}
+}
+```
+
+The citation year refers to the release of this fixed version; `osu2017` is the dataset name. This citation covers the annotations and dataset metadata, not ownership of the underlying audio.
+
 ## 中文说明
 
-正式 osu2017 固定为本地可核验的 **142 首**，以 `manifest.json` 为唯一曲目清单。直接分发 beat/chord/key 和原始标注；其余本地标注放在 `updates/`，视为后续零散更新，不计入正式版本。远程历史上多出的正式目录标注已移出正式集合。
+正式 osu2017 固定为本地可核验的 **142 首**，以 `manifest.json` 为唯一曲目清单。Beat 标注来源于 osu! 谱面并经过清洗，chord 和 key 标注则为后期单独添加。直接分发 beat/chord/key 和原始标注；其余本地标注放在 `updates/`，视为后续零散更新，不计入正式版本。远程历史上多出的正式目录标注已移出正式集合。
 
 运行 `python download_beatmaps.py` 即可按列表自动下载 beatmap 包，在本地提取音频并逐一核验原始音频 MD5。仓库及发布文件不包含音频。无法下载、音频版本不匹配、镜像限流等情况会写入失败报告；再次运行可以继续，已有文件也会重新核验。全部标注保持本地原始内容，不把缺失或低置信度标注自动修补成“正确”标注。

@@ -16,6 +16,6 @@ jobs:
           import pathlib, subprocess
           allowed = {'.md', '.py', '.json', '.yml', '.lab', '.arc', '.linkedInfo'}
           files = subprocess.check_output(['git', 'ls-files', '-z']).decode().split('\0')
-          bad = [p for p in files if p and pathlib.Path(p).suffix not in allowed and p not in {'.gitignore', '.gitattributes', 'LICENSE'}]
+          bad = [p for p in files if p and pathlib.Path(p).suffix not in allowed and p not in {'.gitignore', '.gitattributes', 'LICENSE', 'CITATION.cff'}]
           assert not bad, f'Unexpected publication files: {bad}'
           PY
